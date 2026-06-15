@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T08:17:26.327436Z",
+  "generated_at": "2026-06-15T08:18:11.462110Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 1,
@@ -50,22 +50,22 @@
           "failed": 0
         },
         "like": {
-          "total": 58,
+          "total": 66,
           "done": 3,
           "failed": 0
         },
         "reply": {
-          "total": 10,
+          "total": 13,
           "done": 0,
           "failed": 0
         },
         "retweet": {
-          "total": 30,
+          "total": 32,
           "done": 3,
           "failed": 4
         },
         "tweet": {
-          "total": 30,
+          "total": 32,
           "done": 8,
           "failed": 4
         }
@@ -99,15 +99,15 @@
       },
       "engine": {
         "running": true,
-        "total_planned": 18,
-        "pending": 10,
-        "executed": 8,
+        "total_planned": 15,
+        "pending": 9,
+        "executed": 6,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "866fad9b-93fb-43d4-88d4-39747b1b9422",
+          "id": "66d5254c-dd16-461a-876a-facedcb16c3b",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-06-15T15:39:51.409926"
+          "scheduled_time": "2026-06-15T15:36:42.621505"
         }
       },
       "campaign_status": {
@@ -124,7 +124,12 @@
           "AIatMeta",
           "GoogleDeepMind",
           "huggingface",
-          "LangChainAI"
+          "LangChainAI",
+          "Nithin0dha",
+          "nikhilkamathcio",
+          "kunalb11",
+          "CRED_club",
+          "zerodhaonline"
         ],
         "counts": {
           "discovered": 304,
@@ -164,10 +169,31 @@
           "source": "engine"
         },
         {
+          "action_type": "reply",
+          "status": "pending",
+          "time": "2026-06-15T21:32:04.581380",
+          "category": null,
+          "source": "engine"
+        },
+        {
+          "action_type": "like",
+          "status": "pending",
+          "time": "2026-06-15T21:27:23.581380",
+          "category": null,
+          "source": "engine"
+        },
+        {
           "action_type": "tweet",
           "status": "pending",
           "time": "2026-06-15T21:27:05.757151",
           "category": "observation",
+          "source": "engine"
+        },
+        {
+          "action_type": "like",
+          "status": "pending",
+          "time": "2026-06-15T21:09:19.863192",
+          "category": null,
           "source": "engine"
         },
         {
@@ -192,6 +218,13 @@
           "source": "engine"
         },
         {
+          "action_type": "reply",
+          "status": "pending",
+          "time": "2026-06-15T20:22:09.328153",
+          "category": null,
+          "source": "engine"
+        },
+        {
           "action_type": "retweet",
           "status": "pending",
           "time": "2026-06-15T20:16:30.055534",
@@ -209,34 +242,6 @@
           "action_type": "like",
           "status": "pending",
           "time": "2026-06-15T20:06:55.916839",
-          "category": null,
-          "source": "engine"
-        },
-        {
-          "action_type": "retweet",
-          "status": "pending",
-          "time": "2026-06-15T20:05:40.180719",
-          "category": null,
-          "source": "engine"
-        },
-        {
-          "action_type": "retweet",
-          "status": "pending",
-          "time": "2026-06-15T20:03:35.755208",
-          "category": null,
-          "source": "engine"
-        },
-        {
-          "action_type": "retweet",
-          "status": "pending",
-          "time": "2026-06-15T19:56:58.329699",
-          "category": null,
-          "source": "engine"
-        },
-        {
-          "action_type": "like",
-          "status": "pending",
-          "time": "2026-06-15T19:55:26.569876",
           "category": null,
           "source": "engine"
         }
