@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T14:58:23.905850Z",
+  "generated_at": "2026-06-15T15:28:23.916097Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 1,
@@ -51,7 +51,7 @@
         },
         "like": {
           "total": 77,
-          "done": 4,
+          "done": 6,
           "failed": 0
         },
         "reply": {
@@ -65,8 +65,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 28,
-          "done": 8,
+          "total": 29,
+          "done": 10,
           "failed": 0
         }
       },
@@ -79,20 +79,21 @@
         },
         {
           "date": "2026-06-15",
-          "like": 3,
-          "retweet": 1
+          "like": 5,
+          "retweet": 1,
+          "tweet": 2
         }
       ],
       "campaign": {
         "total": 787,
-        "followed": 33,
-        "remaining": 516,
+        "followed": 36,
+        "remaining": 513,
         "failed": 0,
-        "progress": 4.2,
+        "progress": 4.6,
         "counts": {
           "discovered": 237,
-          "queued": 516,
-          "followed": 33,
+          "queued": 513,
+          "followed": 36,
           "following": 1,
           "skipped": 0,
           "failed": 0
@@ -101,14 +102,14 @@
       "engine": {
         "running": true,
         "total_planned": 18,
-        "pending": 5,
-        "executed": 13,
-        "consecutive_failures": 1,
+        "pending": 2,
+        "executed": 16,
+        "consecutive_failures": 0,
         "next_action": {
-          "id": "a876b57a-beab-409a-ae4b-a3fd0e489a3b",
+          "id": "f54a7e7f-212b-46f0-a10f-74806dabc206",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-06-15T20:45:45.106567"
+          "scheduled_time": "2026-06-15T21:11:16.616447"
         }
       },
       "campaign_status": {
@@ -134,8 +135,8 @@
         ],
         "counts": {
           "discovered": 237,
-          "queued": 516,
-          "followed": 33,
+          "queued": 513,
+          "followed": 36,
           "skipped": 0,
           "failed": 0
         }
@@ -220,14 +221,14 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-06-15T20:57:13.264878",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-06-15T20:53:55.264878",
           "category": "daily_life",
           "source": "engine"
