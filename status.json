@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T14:28:23.909011Z",
+  "generated_at": "2026-06-16T14:58:23.920650Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 1,
@@ -71,8 +71,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 38,
-          "done": 16,
+          "total": 39,
+          "done": 18,
           "failed": 0
         }
       },
@@ -93,7 +93,7 @@
           "date": "2026-06-16",
           "like": 10,
           "retweet": 2,
-          "tweet": 6
+          "tweet": 8
         }
       ],
       "campaign": {
@@ -114,14 +114,14 @@
       "engine": {
         "running": true,
         "total_planned": 23,
-        "pending": 5,
-        "executed": 18,
+        "pending": 4,
+        "executed": 19,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "9cb334ab-ebff-4920-a768-1398a2747835",
-          "action_type": "tweet",
-          "category": "question",
-          "scheduled_time": "2026-06-16T20:18:32.193802"
+          "id": "8acd2517-ab51-4200-b2db-ea7a5d274aa9",
+          "action_type": "like",
+          "category": null,
+          "scheduled_time": "2026-06-16T21:06:34.643420"
         }
       },
       "campaign_status": {
@@ -198,7 +198,7 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-06-16T20:18:32.193802",
           "category": "question",
           "source": "engine"
