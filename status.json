@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T15:28:23.965110Z",
+  "generated_at": "2026-06-16T15:58:23.955428Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 1,
@@ -57,7 +57,7 @@
         },
         "like": {
           "total": 105,
-          "done": 18,
+          "done": 20,
           "failed": 0
         },
         "reply": {
@@ -67,7 +67,7 @@
         },
         "retweet": {
           "total": 36,
-          "done": 6,
+          "done": 7,
           "failed": 0
         },
         "tweet": {
@@ -91,21 +91,21 @@
         },
         {
           "date": "2026-06-16",
-          "like": 10,
-          "retweet": 2,
+          "like": 12,
+          "retweet": 3,
           "tweet": 8
         }
       ],
       "campaign": {
         "total": 787,
-        "followed": 62,
-        "remaining": 487,
+        "followed": 64,
+        "remaining": 485,
         "failed": 0,
-        "progress": 7.9,
+        "progress": 8.1,
         "counts": {
           "discovered": 237,
-          "queued": 487,
-          "followed": 62,
+          "queued": 485,
+          "followed": 64,
           "following": 1,
           "skipped": 0,
           "failed": 0
@@ -114,14 +114,14 @@
       "engine": {
         "running": true,
         "total_planned": 23,
-        "pending": 4,
-        "executed": 19,
+        "pending": 1,
+        "executed": 22,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "8acd2517-ab51-4200-b2db-ea7a5d274aa9",
+          "id": "2942f898-14c9-42db-8b79-722bab83523a",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-06-16T21:06:34.643420"
+          "scheduled_time": "2026-06-16T21:38:22.758323"
         }
       },
       "campaign_status": {
@@ -147,8 +147,8 @@
         ],
         "counts": {
           "discovered": 237,
-          "queued": 487,
-          "followed": 62,
+          "queued": 485,
+          "followed": 64,
           "skipped": 0,
           "failed": 0
         }
@@ -170,21 +170,21 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-06-16T21:26:03.516032",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-06-16T21:17:14.955998",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-06-16T21:06:34.643420",
           "category": null,
           "source": "engine"
