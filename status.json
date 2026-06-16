@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T03:28:23.942161Z",
+  "generated_at": "2026-06-16T03:58:23.922731Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 1,
@@ -57,7 +57,7 @@
         },
         "like": {
           "total": 90,
-          "done": 8,
+          "done": 9,
           "failed": 0
         },
         "reply": {
@@ -67,7 +67,7 @@
         },
         "retweet": {
           "total": 34,
-          "done": 4,
+          "done": 5,
           "failed": 0
         },
         "tweet": {
@@ -88,18 +88,23 @@
           "like": 7,
           "retweet": 1,
           "tweet": 2
+        },
+        {
+          "date": "2026-06-16",
+          "like": 1,
+          "retweet": 1
         }
       ],
       "campaign": {
         "total": 787,
-        "followed": 40,
-        "remaining": 509,
+        "followed": 42,
+        "remaining": 507,
         "failed": 0,
-        "progress": 5.1,
+        "progress": 5.3,
         "counts": {
           "discovered": 237,
-          "queued": 509,
-          "followed": 40,
+          "queued": 507,
+          "followed": 42,
           "following": 1,
           "skipped": 0,
           "failed": 0
@@ -108,14 +113,14 @@
       "engine": {
         "running": true,
         "total_planned": 23,
-        "pending": 23,
-        "executed": 0,
+        "pending": 21,
+        "executed": 2,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "2d9e5b42-1b6d-4a5d-84ca-3f750fc98378",
-          "action_type": "retweet",
+          "id": "c60749df-f741-4390-830e-73c744fcfe03",
+          "action_type": "reply",
           "category": null,
-          "scheduled_time": "2026-06-16T09:16:59.405799"
+          "scheduled_time": "2026-06-16T12:13:12.257655"
         }
       },
       "campaign_status": {
@@ -141,8 +146,8 @@
         ],
         "counts": {
           "discovered": 237,
-          "queued": 509,
-          "followed": 40,
+          "queued": 507,
+          "followed": 42,
           "skipped": 0,
           "failed": 0
         }
