@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T15:00:15.719559Z",
+  "generated_at": "2026-06-17T15:30:15.691771Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 1,
@@ -59,11 +59,11 @@
         "follow": {
           "total": 7,
           "done": 0,
-          "failed": 1
+          "failed": 2
         },
         "like": {
           "total": 128,
-          "done": 30,
+          "done": 31,
           "failed": 0
         },
         "reply": {
@@ -73,7 +73,7 @@
         },
         "retweet": {
           "total": 42,
-          "done": 9,
+          "done": 10,
           "failed": 0
         },
         "tweet": {
@@ -103,8 +103,8 @@
         },
         {
           "date": "2026-06-17",
-          "like": 9,
-          "retweet": 2,
+          "like": 10,
+          "retweet": 3,
           "tweet": 4
         }
       ],
@@ -126,14 +126,14 @@
       "engine": {
         "running": true,
         "total_planned": 20,
-        "pending": 5,
-        "executed": 15,
-        "consecutive_failures": 0,
+        "pending": 2,
+        "executed": 18,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "d1dd4323-9df3-4edd-823e-53dc1e6dfdeb",
-          "action_type": "retweet",
-          "category": null,
-          "scheduled_time": "2026-06-17T20:45:55.186999"
+          "id": "ec3b7f90-b1c0-4a63-84b6-9ca69eaec05d",
+          "action_type": "tweet",
+          "category": "observation",
+          "scheduled_time": "2026-06-17T21:10:02.608787"
         }
       },
       "campaign_status": {
@@ -203,7 +203,7 @@
         },
         {
           "action_type": "follow",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-06-17T21:00:00.915577",
           "category": null,
           "source": "engine"
@@ -217,14 +217,14 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-06-17T20:49:47.186999",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-06-17T20:45:55.186999",
           "category": null,
           "source": "engine"
