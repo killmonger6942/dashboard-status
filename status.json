@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T15:30:15.691771Z",
+  "generated_at": "2026-06-17T16:00:15.696974Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 1,
@@ -77,8 +77,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 48,
-          "done": 22,
+          "total": 49,
+          "done": 24,
           "failed": 0
         }
       },
@@ -105,19 +105,19 @@
           "date": "2026-06-17",
           "like": 10,
           "retweet": 3,
-          "tweet": 4
+          "tweet": 6
         }
       ],
       "campaign": {
         "total": 787,
-        "followed": 87,
-        "remaining": 461,
+        "followed": 90,
+        "remaining": 458,
         "failed": 1,
-        "progress": 11.1,
+        "progress": 11.4,
         "counts": {
           "discovered": 237,
-          "queued": 461,
-          "followed": 87,
+          "queued": 458,
+          "followed": 90,
           "following": 1,
           "skipped": 0,
           "failed": 1
@@ -126,14 +126,14 @@
       "engine": {
         "running": true,
         "total_planned": 20,
-        "pending": 2,
-        "executed": 18,
-        "consecutive_failures": 1,
+        "pending": 1,
+        "executed": 19,
+        "consecutive_failures": 0,
         "next_action": {
-          "id": "ec3b7f90-b1c0-4a63-84b6-9ca69eaec05d",
-          "action_type": "tweet",
-          "category": "observation",
-          "scheduled_time": "2026-06-17T21:10:02.608787"
+          "id": "d3865c58-cdc3-4f34-8136-80cf48bd30f1",
+          "action_type": "retweet",
+          "category": null,
+          "scheduled_time": "2026-06-17T21:43:05.233709"
         }
       },
       "campaign_status": {
@@ -159,8 +159,8 @@
         ],
         "counts": {
           "discovered": 237,
-          "queued": 461,
-          "followed": 87,
+          "queued": 458,
+          "followed": 90,
           "skipped": 0,
           "failed": 1
         }
@@ -189,7 +189,7 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-06-17T21:10:02.608787",
           "category": "observation",
           "source": "engine"
