@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T09:09:38.322523Z",
+  "generated_at": "2026-06-18T09:39:38.308946Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -292,7 +292,7 @@
       "is_logged_in": true,
       "is_active": true,
       "behavior_enabled": true,
-      "campaign_enabled": false,
+      "campaign_enabled": true,
       "last_session_check": "2026-06-18T09:02:33.383199",
       "profile": {
         "current": {
@@ -339,14 +339,14 @@
       },
       "timeline": [],
       "campaign": {
-        "total": 0,
+        "total": 855,
         "followed": 0,
-        "remaining": 0,
+        "remaining": 275,
         "failed": 0,
-        "progress": 0,
+        "progress": 0.0,
         "counts": {
-          "discovered": 0,
-          "queued": 0,
+          "discovered": 580,
+          "queued": 275,
           "followed": 0,
           "following": 0,
           "skipped": 0,
@@ -367,7 +367,33 @@
         }
       },
       "campaign_status": {
-        "running": false
+        "running": true,
+        "discovering": false,
+        "target_count": 275,
+        "seed_accounts": [
+          "karpathy",
+          "simonw",
+          "swyx",
+          "jeremyphoward",
+          "hwchase17",
+          "huggingface",
+          "iamdevloper",
+          "garybernhardt",
+          "dhh",
+          "ID_AA_Carmack",
+          "jonathan_blow",
+          "levelsio",
+          "dvassallo",
+          "arvidkahl",
+          "marckohlbrugge"
+        ],
+        "counts": {
+          "discovered": 580,
+          "queued": 275,
+          "followed": 0,
+          "skipped": 0,
+          "failed": 0
+        }
       },
       "recent": [
         {
