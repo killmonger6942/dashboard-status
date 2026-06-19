@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T14:14:58.383345Z",
+  "generated_at": "2026-06-19T14:44:58.377616Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -75,7 +75,7 @@
         },
         "like": {
           "total": 221,
-          "done": 41,
+          "done": 42,
           "failed": 0
         },
         "reply": {
@@ -127,7 +127,7 @@
         },
         {
           "date": "2026-06-19",
-          "like": 2,
+          "like": 3,
           "retweet": 3,
           "tweet": 4
         }
@@ -150,14 +150,14 @@
       "engine": {
         "running": true,
         "total_planned": 18,
-        "pending": 5,
-        "executed": 13,
+        "pending": 4,
+        "executed": 14,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "1ceca0cb-c5fa-471e-b782-ea6966d57b93",
+          "id": "81f1da64-f2f4-4db1-9dda-c78a3f160cc4",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-06-19T19:58:06.900929"
+          "scheduled_time": "2026-06-19T20:34:28.380849"
         }
       },
       "campaign_status": {
@@ -248,7 +248,7 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-06-19T19:58:06.900929",
           "category": null,
           "source": "engine"
@@ -369,14 +369,14 @@
       ],
       "campaign": {
         "total": 855,
-        "followed": 13,
-        "remaining": 261,
+        "followed": 15,
+        "remaining": 259,
         "failed": 1,
-        "progress": 1.5,
+        "progress": 1.8,
         "counts": {
           "discovered": 580,
-          "queued": 261,
-          "followed": 13,
+          "queued": 259,
+          "followed": 15,
           "following": 0,
           "skipped": 0,
           "failed": 1
@@ -418,8 +418,8 @@
         ],
         "counts": {
           "discovered": 580,
-          "queued": 261,
-          "followed": 13,
+          "queued": 259,
+          "followed": 15,
           "skipped": 0,
           "failed": 1
         }
