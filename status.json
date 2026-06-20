@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T07:44:58.342735Z",
+  "generated_at": "2026-06-20T08:14:58.356915Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -80,7 +80,7 @@
           "failed": 2
         },
         "like": {
-          "total": 229,
+          "total": 228,
           "done": 48,
           "failed": 1
         },
@@ -90,7 +90,7 @@
           "failed": 9
         },
         "retweet": {
-          "total": 69,
+          "total": 68,
           "done": 16,
           "failed": 0
         },
@@ -371,8 +371,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 19,
-          "done": 8,
+          "total": 20,
+          "done": 10,
           "failed": 0
         }
       },
@@ -386,19 +386,19 @@
         {
           "date": "2026-06-20",
           "like": 3,
-          "tweet": 2
+          "tweet": 4
         }
       ],
       "campaign": {
         "total": 855,
-        "followed": 26,
-        "remaining": 248,
+        "followed": 28,
+        "remaining": 246,
         "failed": 1,
-        "progress": 3.0,
+        "progress": 3.3,
         "counts": {
           "discovered": 580,
-          "queued": 248,
-          "followed": 26,
+          "queued": 246,
+          "followed": 28,
           "following": 0,
           "skipped": 0,
           "failed": 1
@@ -407,14 +407,14 @@
       "engine": {
         "running": true,
         "total_planned": 14,
-        "pending": 9,
-        "executed": 5,
-        "consecutive_failures": 1,
+        "pending": 8,
+        "executed": 6,
+        "consecutive_failures": 0,
         "next_action": {
-          "id": "a6b02274-2825-449b-9c19-0d908a28aefd",
-          "action_type": "tweet",
-          "category": "observation",
-          "scheduled_time": "2026-06-20T13:42:05.891125"
+          "id": "021c9769-37cb-489c-9a2f-eea8695f9f47",
+          "action_type": "follow",
+          "category": null,
+          "scheduled_time": "2026-06-20T16:11:58.670677"
         }
       },
       "campaign_status": {
@@ -440,8 +440,8 @@
         ],
         "counts": {
           "discovered": 580,
-          "queued": 248,
-          "followed": 26,
+          "queued": 246,
+          "followed": 28,
           "skipped": 0,
           "failed": 1
         }
@@ -505,7 +505,7 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-06-20T13:42:05.891125",
           "category": "observation",
           "source": "engine"
@@ -548,7 +548,7 @@
         {
           "action_type": "tweet",
           "status": "done",
-          "time": "2026-06-20T04:33:17.917748",
+          "time": "2026-06-20T08:13:07.095069",
           "category": null,
           "source": "manual"
         }
