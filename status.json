@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T06:14:58.349140Z",
+  "generated_at": "2026-06-20T06:44:58.332362Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -81,7 +81,7 @@
         },
         "like": {
           "total": 229,
-          "done": 46,
+          "done": 47,
           "failed": 0
         },
         "reply": {
@@ -139,7 +139,7 @@
         },
         {
           "date": "2026-06-20",
-          "like": 1,
+          "like": 2,
           "tweet": 2
         }
       ],
@@ -161,14 +161,14 @@
       "engine": {
         "running": true,
         "total_planned": 11,
-        "pending": 9,
-        "executed": 2,
+        "pending": 8,
+        "executed": 3,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "7224d569-496b-4ec0-ae96-91ab993d3d3c",
+          "id": "601598f4-d566-45f0-90e6-fbe38dd9059c",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-06-20T12:08:37.901624"
+          "scheduled_time": "2026-06-20T12:16:10.717552"
         }
       },
       "campaign_status": {
@@ -259,7 +259,7 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-06-20T12:08:37.901624",
           "category": null,
           "source": "engine"
@@ -391,14 +391,14 @@
       ],
       "campaign": {
         "total": 855,
-        "followed": 21,
-        "remaining": 253,
+        "followed": 23,
+        "remaining": 251,
         "failed": 1,
-        "progress": 2.5,
+        "progress": 2.7,
         "counts": {
           "discovered": 580,
-          "queued": 253,
-          "followed": 21,
+          "queued": 251,
+          "followed": 23,
           "following": 0,
           "skipped": 0,
           "failed": 1
@@ -440,8 +440,8 @@
         ],
         "counts": {
           "discovered": 580,
-          "queued": 253,
-          "followed": 21,
+          "queued": 251,
+          "followed": 23,
           "skipped": 0,
           "failed": 1
         }
