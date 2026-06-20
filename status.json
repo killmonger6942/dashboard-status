@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T02:14:58.333916Z",
+  "generated_at": "2026-06-20T02:44:58.344699Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -95,8 +95,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 74,
-          "done": 32,
+          "total": 75,
+          "done": 34,
           "failed": 0
         }
       },
@@ -136,6 +136,10 @@
           "like": 6,
           "retweet": 3,
           "tweet": 6
+        },
+        {
+          "date": "2026-06-20",
+          "tweet": 2
         }
       ],
       "campaign": {
@@ -156,14 +160,14 @@
       "engine": {
         "running": true,
         "total_planned": 11,
-        "pending": 11,
-        "executed": 0,
+        "pending": 10,
+        "executed": 1,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "775af94a-8e36-4291-a598-e6e8e58ee811",
-          "action_type": "tweet",
-          "category": "humor",
-          "scheduled_time": "2026-06-20T08:02:53.247727"
+          "id": "9fa26547-deae-453b-9bee-80940f876ba5",
+          "action_type": "like",
+          "category": null,
+          "scheduled_time": "2026-06-20T09:12:24.680003"
         }
       },
       "campaign_status": {
@@ -268,10 +272,17 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-06-20T08:02:53.247727",
           "category": "humor",
           "source": "engine"
+        },
+        {
+          "action_type": "tweet",
+          "status": "done",
+          "time": "2026-06-20T02:33:32.609883",
+          "category": null,
+          "source": "manual"
         },
         {
           "action_type": "tweet",
@@ -292,13 +303,6 @@
           "status": "done",
           "time": "2026-06-19T20:55:48.403750",
           "category": null,
-          "source": "engine"
-        },
-        {
-          "action_type": "tweet",
-          "status": "done",
-          "time": "2026-06-19T20:51:30.403750",
-          "category": "tip",
           "source": "engine"
         }
       ]
