@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T14:14:58.332320Z",
+  "generated_at": "2026-06-21T14:44:58.328989Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -370,7 +370,7 @@
         },
         "like": {
           "total": 74,
-          "done": 18,
+          "done": 19,
           "failed": 0
         },
         "reply": {
@@ -404,7 +404,7 @@
         },
         {
           "date": "2026-06-21",
-          "like": 4,
+          "like": 5,
           "retweet": 2,
           "tweet": 2
         }
@@ -427,14 +427,14 @@
       "engine": {
         "running": true,
         "total_planned": 14,
-        "pending": 5,
-        "executed": 9,
-        "consecutive_failures": 2,
+        "pending": 4,
+        "executed": 10,
+        "consecutive_failures": 0,
         "next_action": {
-          "id": "db399088-64f6-4ee0-b166-2c1fb0fe66f5",
-          "action_type": "like",
+          "id": "41d6716f-dff9-4c78-a12e-9a1db58910d1",
+          "action_type": "retweet",
           "category": null,
-          "scheduled_time": "2026-06-21T20:06:59.434583"
+          "scheduled_time": "2026-06-21T20:20:33.459245"
         }
       },
       "campaign_status": {
@@ -497,7 +497,7 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-06-21T20:06:59.434583",
           "category": null,
           "source": "engine"
