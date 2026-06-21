@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T06:14:58.324571Z",
+  "generated_at": "2026-06-21T06:44:58.322942Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -93,11 +93,11 @@
         "reply": {
           "total": 37,
           "done": 0,
-          "failed": 10
+          "failed": 11
         },
         "retweet": {
           "total": 58,
-          "done": 14,
+          "done": 15,
           "failed": 0
         },
         "tweet": {
@@ -142,18 +142,22 @@
           "like": 7,
           "retweet": 1,
           "tweet": 2
+        },
+        {
+          "date": "2026-06-21",
+          "retweet": 1
         }
       ],
       "campaign": {
         "total": 787,
-        "followed": 144,
-        "remaining": 404,
+        "followed": 145,
+        "remaining": 403,
         "failed": 1,
-        "progress": 18.3,
+        "progress": 18.4,
         "counts": {
           "discovered": 237,
-          "queued": 404,
-          "followed": 144,
+          "queued": 403,
+          "followed": 145,
           "following": 1,
           "skipped": 0,
           "failed": 1
@@ -162,14 +166,14 @@
       "engine": {
         "running": true,
         "total_planned": 9,
-        "pending": 9,
-        "executed": 0,
+        "pending": 7,
+        "executed": 2,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "fa5fc4cf-3c36-48cc-bc64-5c1052804530",
-          "action_type": "reply",
+          "id": "bd276c8b-85e8-47ba-9f6a-ebf4525c8564",
+          "action_type": "follow",
           "category": null,
-          "scheduled_time": "2026-06-21T12:00:40.265391"
+          "scheduled_time": "2026-06-21T16:01:27.122308"
         }
       },
       "campaign_status": {
@@ -195,8 +199,8 @@
         ],
         "counts": {
           "discovered": 237,
-          "queued": 404,
-          "followed": 144,
+          "queued": 403,
+          "followed": 145,
           "skipped": 0,
           "failed": 1
         }
@@ -253,14 +257,14 @@
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-06-21T12:05:34.265391",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-06-21T12:00:40.265391",
           "category": null,
           "source": "engine"
@@ -378,8 +382,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 22,
-          "done": 10,
+          "total": 23,
+          "done": 12,
           "failed": 0
         }
       },
@@ -399,7 +403,8 @@
         {
           "date": "2026-06-21",
           "like": 4,
-          "retweet": 2
+          "retweet": 2,
+          "tweet": 2
         }
       ],
       "campaign": {
@@ -420,14 +425,14 @@
       "engine": {
         "running": true,
         "total_planned": 14,
-        "pending": 8,
-        "executed": 6,
+        "pending": 7,
+        "executed": 7,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "a6d8e24b-6d01-4d18-b8e3-6735fae6ae5c",
-          "action_type": "tweet",
-          "category": "internet_take",
-          "scheduled_time": "2026-06-21T12:02:57.950778"
+          "id": "50081dcc-c4a0-4e20-9984-155899debabb",
+          "action_type": "follow",
+          "category": null,
+          "scheduled_time": "2026-06-21T13:46:58.310395"
         }
       },
       "campaign_status": {
@@ -511,7 +516,7 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-06-21T12:02:57.950778",
           "category": "internet_take",
           "source": "engine"
@@ -559,11 +564,11 @@
           "source": "engine"
         },
         {
-          "action_type": "reply",
-          "status": "failed",
-          "time": "2026-06-20T21:25:47.935068",
+          "action_type": "tweet",
+          "status": "done",
+          "time": "2026-06-21T06:33:32.506198",
           "category": null,
-          "source": "engine"
+          "source": "manual"
         }
       ]
     }
