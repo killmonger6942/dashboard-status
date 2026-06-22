@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T14:14:58.313130Z",
+  "generated_at": "2026-06-22T14:44:58.332779Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -104,7 +104,7 @@
         "retweet": {
           "total": 56,
           "done": 19,
-          "failed": 0
+          "failed": 1
         },
         "tweet": {
           "total": 60,
@@ -180,14 +180,14 @@
       "engine": {
         "running": true,
         "total_planned": 20,
-        "pending": 2,
-        "executed": 18,
-        "consecutive_failures": 1,
+        "pending": 1,
+        "executed": 19,
+        "consecutive_failures": 2,
         "next_action": {
-          "id": "0fd76a73-2df5-4e9b-a082-23b7501ca7a5",
-          "action_type": "retweet",
-          "category": null,
-          "scheduled_time": "2026-06-22T19:52:05.704880"
+          "id": "a9a58168-09f6-4a42-8092-1c3be44c75ac",
+          "action_type": "tweet",
+          "category": "food_life",
+          "scheduled_time": "2026-06-22T21:28:27.543512"
         }
       },
       "campaign_status": {
@@ -229,7 +229,7 @@
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-06-22T19:52:05.704880",
           "category": null,
           "source": "engine"
@@ -384,7 +384,7 @@
         "follow": {
           "total": 4,
           "done": 0,
-          "failed": 2
+          "failed": 3
         },
         "like": {
           "total": 85,
@@ -435,14 +435,14 @@
       ],
       "campaign": {
         "total": 855,
-        "followed": 79,
-        "remaining": 195,
+        "followed": 82,
+        "remaining": 192,
         "failed": 1,
-        "progress": 9.2,
+        "progress": 9.6,
         "counts": {
           "discovered": 580,
-          "queued": 195,
-          "followed": 79,
+          "queued": 192,
+          "followed": 82,
           "following": 0,
           "skipped": 0,
           "failed": 1
@@ -451,14 +451,14 @@
       "engine": {
         "running": true,
         "total_planned": 20,
-        "pending": 3,
-        "executed": 17,
-        "consecutive_failures": 0,
+        "pending": 2,
+        "executed": 18,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "8dde16ca-14f4-4104-801a-d54f8c4a2368",
-          "action_type": "follow",
-          "category": null,
-          "scheduled_time": "2026-06-22T20:12:10.586367"
+          "id": "6718391f-71b6-4273-aa9a-86e3ef712be5",
+          "action_type": "tweet",
+          "category": "observation",
+          "scheduled_time": "2026-06-22T21:01:30.672492"
         }
       },
       "campaign_status": {
@@ -484,8 +484,8 @@
         ],
         "counts": {
           "discovered": 580,
-          "queued": 195,
-          "followed": 79,
+          "queued": 192,
+          "followed": 82,
           "skipped": 0,
           "failed": 1
         }
@@ -507,7 +507,7 @@
         },
         {
           "action_type": "follow",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-06-22T20:12:10.586367",
           "category": null,
           "source": "engine"
