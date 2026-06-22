@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T15:44:58.338331Z",
+  "generated_at": "2026-06-22T16:14:58.480944Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -92,7 +92,7 @@
           "failed": 3
         },
         "like": {
-          "total": 190,
+          "total": 188,
           "done": 63,
           "failed": 2
         },
@@ -102,13 +102,13 @@
           "failed": 13
         },
         "retweet": {
-          "total": 55,
+          "total": 54,
           "done": 19,
           "failed": 1
         },
         "tweet": {
-          "total": 58,
-          "done": 29,
+          "total": 59,
+          "done": 31,
           "failed": 0
         }
       },
@@ -159,19 +159,19 @@
           "date": "2026-06-22",
           "like": 9,
           "retweet": 4,
-          "tweet": 2
+          "tweet": 4
         }
       ],
       "campaign": {
         "total": 787,
-        "followed": 176,
-        "remaining": 372,
+        "followed": 178,
+        "remaining": 370,
         "failed": 1,
-        "progress": 22.4,
+        "progress": 22.6,
         "counts": {
           "discovered": 237,
-          "queued": 372,
-          "followed": 176,
+          "queued": 370,
+          "followed": 178,
           "following": 1,
           "skipped": 0,
           "failed": 1
@@ -180,15 +180,10 @@
       "engine": {
         "running": true,
         "total_planned": 20,
-        "pending": 1,
-        "executed": 19,
-        "consecutive_failures": 2,
-        "next_action": {
-          "id": "a9a58168-09f6-4a42-8092-1c3be44c75ac",
-          "action_type": "tweet",
-          "category": "food_life",
-          "scheduled_time": "2026-06-22T21:28:27.543512"
-        }
+        "pending": 0,
+        "executed": 20,
+        "consecutive_failures": 0,
+        "next_action": null
       },
       "campaign_status": {
         "running": true,
@@ -213,8 +208,8 @@
         ],
         "counts": {
           "discovered": 237,
-          "queued": 372,
-          "followed": 176,
+          "queued": 370,
+          "followed": 178,
           "skipped": 0,
           "failed": 1
         }
@@ -222,7 +217,7 @@
       "recent": [
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-06-22T21:28:27.543512",
           "category": "food_life",
           "source": "engine"
@@ -261,6 +256,13 @@
           "time": "2026-06-22T16:26:33.304507",
           "category": null,
           "source": "engine"
+        },
+        {
+          "action_type": "tweet",
+          "status": "done",
+          "time": "2026-06-22T15:59:09.578303",
+          "category": null,
+          "source": "manual"
         },
         {
           "action_type": "retweet",
@@ -315,13 +317,6 @@
           "action_type": "like",
           "status": "done",
           "time": "2026-06-22T12:26:31.244962",
-          "category": null,
-          "source": "engine"
-        },
-        {
-          "action_type": "retweet",
-          "status": "done",
-          "time": "2026-06-22T12:13:17.863278",
           "category": null,
           "source": "engine"
         }
@@ -388,7 +383,7 @@
         },
         "like": {
           "total": 85,
-          "done": 31,
+          "done": 32,
           "failed": 0
         },
         "reply": {
@@ -428,7 +423,7 @@
         },
         {
           "date": "2026-06-22",
-          "like": 10,
+          "like": 11,
           "retweet": 3,
           "tweet": 6
         }
@@ -451,15 +446,10 @@
       "engine": {
         "running": true,
         "total_planned": 20,
-        "pending": 1,
-        "executed": 19,
+        "pending": 0,
+        "executed": 20,
         "consecutive_failures": 0,
-        "next_action": {
-          "id": "1f17e749-6687-4b66-81a0-67c8fd599f02",
-          "action_type": "like",
-          "category": null,
-          "scheduled_time": "2026-06-22T21:33:07.746639"
-        }
+        "next_action": null
       },
       "campaign_status": {
         "running": true,
@@ -493,7 +483,7 @@
       "recent": [
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-06-22T21:33:07.746639",
           "category": null,
           "source": "engine"
