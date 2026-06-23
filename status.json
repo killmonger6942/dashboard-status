@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T15:14:58.326415Z",
+  "generated_at": "2026-06-23T15:44:58.358273Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -98,18 +98,18 @@
           "failed": 2
         },
         "like": {
-          "total": 169,
-          "done": 68,
+          "total": 168,
+          "done": 67,
           "failed": 2
         },
         "reply": {
           "total": 29,
           "done": 0,
-          "failed": 11
+          "failed": 12
         },
         "retweet": {
           "total": 45,
-          "done": 19,
+          "done": 20,
           "failed": 1
         },
         "tweet": {
@@ -121,7 +121,7 @@
       "timeline": [
         {
           "date": "2026-06-16",
-          "like": 9,
+          "like": 8,
           "retweet": 2,
           "tweet": 1
         },
@@ -164,7 +164,7 @@
         {
           "date": "2026-06-23",
           "like": 14,
-          "retweet": 2,
+          "retweet": 3,
           "tweet": 6
         }
       ],
@@ -186,15 +186,10 @@
       "engine": {
         "running": true,
         "total_planned": 22,
-        "pending": 2,
-        "executed": 20,
-        "consecutive_failures": 0,
-        "next_action": {
-          "id": "816549a6-05ae-48d9-81b7-659881fcd6e3",
-          "action_type": "retweet",
-          "category": null,
-          "scheduled_time": "2026-06-23T21:06:27.460833"
-        }
+        "pending": 0,
+        "executed": 22,
+        "consecutive_failures": 1,
+        "next_action": null
       },
       "campaign_status": {
         "running": true,
@@ -228,14 +223,14 @@
       "recent": [
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-06-23T21:09:43.460833",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-06-23T21:06:27.460833",
           "category": null,
           "source": "engine"
@@ -414,8 +409,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 37,
-          "done": 26,
+          "total": 38,
+          "done": 28,
           "failed": 0
         }
       },
@@ -448,19 +443,19 @@
           "date": "2026-06-23",
           "like": 13,
           "retweet": 3,
-          "tweet": 6
+          "tweet": 8
         }
       ],
       "campaign": {
         "total": 855,
-        "followed": 100,
-        "remaining": 174,
+        "followed": 101,
+        "remaining": 173,
         "failed": 1,
-        "progress": 11.7,
+        "progress": 11.8,
         "counts": {
           "discovered": 580,
-          "queued": 174,
-          "followed": 100,
+          "queued": 173,
+          "followed": 101,
           "following": 0,
           "skipped": 0,
           "failed": 1
@@ -469,14 +464,14 @@
       "engine": {
         "running": true,
         "total_planned": 23,
-        "pending": 4,
-        "executed": 19,
+        "pending": 3,
+        "executed": 20,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "11b8c8c1-e4a5-4ad5-a3da-a4c2c47e0ea0",
-          "action_type": "tweet",
-          "category": "media",
-          "scheduled_time": "2026-06-23T21:08:14.688165"
+          "id": "ea67b1ec-ef75-4686-9b59-b996266885c2",
+          "action_type": "reply",
+          "category": null,
+          "scheduled_time": "2026-06-23T21:19:07.012338"
         }
       },
       "campaign_status": {
@@ -502,8 +497,8 @@
         ],
         "counts": {
           "discovered": 580,
-          "queued": 174,
-          "followed": 100,
+          "queued": 173,
+          "followed": 101,
           "skipped": 0,
           "failed": 1
         }
@@ -532,7 +527,7 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-06-23T21:08:14.688165",
           "category": "media",
           "source": "engine"
@@ -601,16 +596,16 @@
           "source": "engine"
         },
         {
+          "action_type": "tweet",
+          "status": "done",
+          "time": "2026-06-23T15:39:00.374312",
+          "category": null,
+          "source": "manual"
+        },
+        {
           "action_type": "like",
           "status": "done",
           "time": "2026-06-23T13:27:16.048790",
-          "category": null,
-          "source": "engine"
-        },
-        {
-          "action_type": "retweet",
-          "status": "done",
-          "time": "2026-06-23T13:14:55.300307",
           "category": null,
           "source": "engine"
         }
