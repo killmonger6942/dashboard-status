@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T15:44:58.358273Z",
+  "generated_at": "2026-06-23T16:14:58.339228Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -98,7 +98,7 @@
           "failed": 2
         },
         "like": {
-          "total": 168,
+          "total": 167,
           "done": 67,
           "failed": 2
         },
@@ -108,12 +108,12 @@
           "failed": 12
         },
         "retweet": {
-          "total": 45,
-          "done": 20,
+          "total": 44,
+          "done": 19,
           "failed": 1
         },
         "tweet": {
-          "total": 51,
+          "total": 49,
           "done": 29,
           "failed": 0
         }
@@ -122,7 +122,7 @@
         {
           "date": "2026-06-16",
           "like": 8,
-          "retweet": 2,
+          "retweet": 1,
           "tweet": 1
         },
         {
@@ -170,14 +170,14 @@
       ],
       "campaign": {
         "total": 787,
-        "followed": 192,
-        "remaining": 356,
+        "followed": 193,
+        "remaining": 355,
         "failed": 1,
-        "progress": 24.4,
+        "progress": 24.5,
         "counts": {
           "discovered": 237,
-          "queued": 356,
-          "followed": 192,
+          "queued": 355,
+          "followed": 193,
           "following": 1,
           "skipped": 0,
           "failed": 1
@@ -214,8 +214,8 @@
         ],
         "counts": {
           "discovered": 237,
-          "queued": 356,
-          "followed": 192,
+          "queued": 355,
+          "followed": 193,
           "skipped": 0,
           "failed": 1
         }
@@ -395,13 +395,13 @@
         },
         "like": {
           "total": 99,
-          "done": 45,
+          "done": 46,
           "failed": 0
         },
         "reply": {
           "total": 17,
           "done": 0,
-          "failed": 5
+          "failed": 7
         },
         "retweet": {
           "total": 28,
@@ -441,21 +441,21 @@
         },
         {
           "date": "2026-06-23",
-          "like": 13,
+          "like": 14,
           "retweet": 3,
           "tweet": 8
         }
       ],
       "campaign": {
         "total": 855,
-        "followed": 101,
-        "remaining": 173,
+        "followed": 104,
+        "remaining": 170,
         "failed": 1,
-        "progress": 11.8,
+        "progress": 12.2,
         "counts": {
           "discovered": 580,
-          "queued": 173,
-          "followed": 101,
+          "queued": 170,
+          "followed": 104,
           "following": 0,
           "skipped": 0,
           "failed": 1
@@ -464,15 +464,10 @@
       "engine": {
         "running": true,
         "total_planned": 23,
-        "pending": 3,
-        "executed": 20,
-        "consecutive_failures": 0,
-        "next_action": {
-          "id": "ea67b1ec-ef75-4686-9b59-b996266885c2",
-          "action_type": "reply",
-          "category": null,
-          "scheduled_time": "2026-06-23T21:19:07.012338"
-        }
+        "pending": 0,
+        "executed": 23,
+        "consecutive_failures": 1,
+        "next_action": null
       },
       "campaign_status": {
         "running": true,
@@ -497,8 +492,8 @@
         ],
         "counts": {
           "discovered": 580,
-          "queued": 173,
-          "followed": 101,
+          "queued": 170,
+          "followed": 104,
           "skipped": 0,
           "failed": 1
         }
@@ -506,21 +501,21 @@
       "recent": [
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-06-23T21:32:20.867822",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-06-23T21:22:33.188029",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-06-23T21:19:07.012338",
           "category": null,
           "source": "engine"
