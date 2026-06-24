@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T11:44:58.374006Z",
+  "generated_at": "2026-06-24T12:14:58.336419Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -111,7 +111,7 @@
         "reply": {
           "total": 30,
           "done": 0,
-          "failed": 14
+          "failed": 15
         },
         "retweet": {
           "total": 44,
@@ -192,14 +192,14 @@
       "engine": {
         "running": true,
         "total_planned": 23,
-        "pending": 7,
-        "executed": 16,
-        "consecutive_failures": 0,
+        "pending": 6,
+        "executed": 17,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "ea032612-1b0b-4ac9-9b44-bfdd0fd6c234",
-          "action_type": "reply",
+          "id": "13fc3140-4860-4a22-81e2-ae21d3c044ad",
+          "action_type": "retweet",
           "category": null,
-          "scheduled_time": "2026-06-24T17:17:35.239943"
+          "scheduled_time": "2026-06-24T19:53:44.746395"
         }
       },
       "campaign_status": {
@@ -276,7 +276,7 @@
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-06-24T17:17:35.239943",
           "category": null,
           "source": "engine"
