@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T14:14:58.344021Z",
+  "generated_at": "2026-06-26T14:44:58.334699Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -123,7 +123,7 @@
         "reply": {
           "total": 16,
           "done": 0,
-          "failed": 14
+          "failed": 15
         },
         "retweet": {
           "total": 22,
@@ -133,7 +133,7 @@
         "tweet": {
           "total": 33,
           "done": 27,
-          "failed": 2
+          "failed": 4
         }
       },
       "timeline": [
@@ -203,14 +203,14 @@
       "engine": {
         "running": true,
         "total_planned": 22,
-        "pending": 5,
-        "executed": 17,
-        "consecutive_failures": 0,
+        "pending": 2,
+        "executed": 20,
+        "consecutive_failures": 3,
         "next_action": {
-          "id": "13373b5a-cad2-417c-80f6-25fdb5fee978",
-          "action_type": "reply",
+          "id": "8acd0450-51bc-4e09-9954-4126218d3f6a",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-06-26T20:01:39.292002"
+          "scheduled_time": "2026-06-26T20:56:55.803074"
         }
       },
       "campaign_status": {
@@ -259,21 +259,21 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-06-26T20:14:22.185065",
           "category": "hobby",
           "source": "engine"
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-06-26T20:10:04.185065",
           "category": "hot_take",
           "source": "engine"
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-06-26T20:01:39.292002",
           "category": null,
           "source": "engine"
@@ -493,14 +493,14 @@
       ],
       "campaign": {
         "total": 855,
-        "followed": 166,
-        "remaining": 108,
+        "followed": 168,
+        "remaining": 106,
         "failed": 1,
-        "progress": 19.4,
+        "progress": 19.6,
         "counts": {
           "discovered": 580,
-          "queued": 108,
-          "followed": 166,
+          "queued": 106,
+          "followed": 168,
           "following": 0,
           "skipped": 0,
           "failed": 1
@@ -542,8 +542,8 @@
         ],
         "counts": {
           "discovered": 580,
-          "queued": 108,
-          "followed": 166,
+          "queued": 106,
+          "followed": 168,
           "skipped": 0,
           "failed": 1
         }
