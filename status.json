@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T14:14:58.376565Z",
+  "generated_at": "2026-06-27T14:44:58.362000Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -202,15 +202,10 @@
       "engine": {
         "running": true,
         "total_planned": 11,
-        "pending": 1,
-        "executed": 10,
+        "pending": 0,
+        "executed": 11,
         "consecutive_failures": 3,
-        "next_action": {
-          "id": "09fea240-1cec-458a-8cda-56f478f6676d",
-          "action_type": "tweet",
-          "category": "opinion",
-          "scheduled_time": "2026-06-27T20:09:41.567139"
-        }
+        "next_action": null
       },
       "campaign_status": {
         "running": true,
@@ -491,14 +486,14 @@
       ],
       "campaign": {
         "total": 855,
-        "followed": 189,
-        "remaining": 85,
+        "followed": 190,
+        "remaining": 84,
         "failed": 1,
-        "progress": 22.1,
+        "progress": 22.2,
         "counts": {
           "discovered": 580,
-          "queued": 85,
-          "followed": 189,
+          "queued": 84,
+          "followed": 190,
           "following": 0,
           "skipped": 0,
           "failed": 1
@@ -535,8 +530,8 @@
         ],
         "counts": {
           "discovered": 580,
-          "queued": 85,
-          "followed": 189,
+          "queued": 84,
+          "followed": 190,
           "skipped": 0,
           "failed": 1
         }
