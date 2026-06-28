@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T02:44:58.381662Z",
+  "generated_at": "2026-06-28T03:14:58.330560Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -203,14 +203,14 @@
       "engine": {
         "running": true,
         "total_planned": 9,
-        "pending": 9,
-        "executed": 0,
+        "pending": 8,
+        "executed": 1,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "f1ec79d6-42f3-40ba-905d-e962331b06d3",
-          "action_type": "tweet",
-          "category": "food_life",
-          "scheduled_time": "2026-06-28T08:26:04.528709"
+          "id": "ad68dc67-ef30-4472-8bd2-3715f3c5a994",
+          "action_type": "retweet",
+          "category": null,
+          "scheduled_time": "2026-06-28T09:11:16.288517"
         }
       },
       "campaign_status": {
@@ -493,14 +493,14 @@
       ],
       "campaign": {
         "total": 855,
-        "followed": 193,
-        "remaining": 81,
+        "followed": 194,
+        "remaining": 80,
         "failed": 1,
-        "progress": 22.6,
+        "progress": 22.7,
         "counts": {
           "discovered": 580,
-          "queued": 81,
-          "followed": 193,
+          "queued": 80,
+          "followed": 194,
           "following": 0,
           "skipped": 0,
           "failed": 1
@@ -509,14 +509,14 @@
       "engine": {
         "running": true,
         "total_planned": 12,
-        "pending": 12,
-        "executed": 0,
+        "pending": 9,
+        "executed": 3,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "e2e4450b-7204-4b51-a917-41cd3c1520b2",
+          "id": "8dd2944c-ea6a-4c8d-b00d-ac6ed24ffbd5",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-06-28T08:24:13.619592"
+          "scheduled_time": "2026-06-28T09:53:25.248138"
         }
       },
       "campaign_status": {
@@ -542,8 +542,8 @@
         ],
         "counts": {
           "discovered": 580,
-          "queued": 81,
-          "followed": 193,
+          "queued": 80,
+          "followed": 194,
           "skipped": 0,
           "failed": 1
         }
