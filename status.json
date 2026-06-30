@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T11:14:58.336870Z",
+  "generated_at": "2026-06-30T11:44:58.331802Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -203,14 +203,14 @@
       "engine": {
         "running": true,
         "total_planned": 23,
-        "pending": 8,
-        "executed": 15,
+        "pending": 3,
+        "executed": 20,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "ed68000f-2aca-4c08-8909-6c0d03679dd1",
+          "id": "94c12e63-e010-4c62-8210-946bf03dcdfd",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-06-30T16:50:57.170945"
+          "scheduled_time": "2026-06-30T20:27:32.912658"
         }
       },
       "campaign_status": {
@@ -493,14 +493,14 @@
       ],
       "campaign": {
         "total": 855,
-        "followed": 247,
-        "remaining": 27,
+        "followed": 248,
+        "remaining": 26,
         "failed": 1,
-        "progress": 28.9,
+        "progress": 29.0,
         "counts": {
           "discovered": 580,
-          "queued": 27,
-          "followed": 247,
+          "queued": 26,
+          "followed": 248,
           "following": 0,
           "skipped": 0,
           "failed": 1
@@ -509,14 +509,14 @@
       "engine": {
         "running": true,
         "total_planned": 21,
-        "pending": 7,
-        "executed": 14,
+        "pending": 5,
+        "executed": 16,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "7d6b0483-d0b6-4b98-8dd6-f286b78fd8ec",
-          "action_type": "like",
+          "id": "4e653594-caf8-4ab5-9305-9255f85c84b2",
+          "action_type": "retweet",
           "category": null,
-          "scheduled_time": "2026-06-30T16:47:15.948550"
+          "scheduled_time": "2026-06-30T20:23:29.123888"
         }
       },
       "campaign_status": {
@@ -542,8 +542,8 @@
         ],
         "counts": {
           "discovered": 580,
-          "queued": 27,
-          "followed": 247,
+          "queued": 26,
+          "followed": 248,
           "skipped": 0,
           "failed": 1
         }
