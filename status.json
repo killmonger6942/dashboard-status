@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T15:44:58.366414Z",
+  "generated_at": "2026-07-04T16:14:58.343406Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -181,14 +181,14 @@
       "timeline": [],
       "campaign": {
         "total": 787,
-        "followed": 361,
-        "remaining": 187,
+        "followed": 364,
+        "remaining": 184,
         "failed": 1,
-        "progress": 45.9,
+        "progress": 46.3,
         "counts": {
           "discovered": 237,
-          "queued": 187,
-          "followed": 361,
+          "queued": 184,
+          "followed": 364,
           "following": 1,
           "skipped": 0,
           "failed": 1
@@ -197,15 +197,10 @@
       "engine": {
         "running": true,
         "total_planned": 10,
-        "pending": 1,
-        "executed": 9,
+        "pending": 0,
+        "executed": 10,
         "consecutive_failures": 3,
-        "next_action": {
-          "id": "4bfe9893-2443-473a-82de-492a82d95a63",
-          "action_type": "tweet",
-          "category": "question",
-          "scheduled_time": "2026-07-04T21:15:26.390857"
-        }
+        "next_action": null
       },
       "campaign_status": {
         "running": true,
@@ -230,8 +225,8 @@
         ],
         "counts": {
           "discovered": 237,
-          "queued": 187,
-          "followed": 361,
+          "queued": 184,
+          "followed": 364,
           "skipped": 0,
           "failed": 1
         }
