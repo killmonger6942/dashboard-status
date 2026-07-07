@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T14:50:59.968796Z",
+  "generated_at": "2026-07-07T15:21:00.409067Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -210,14 +210,14 @@
       ],
       "campaign": {
         "total": 787,
-        "followed": 416,
-        "remaining": 132,
+        "followed": 417,
+        "remaining": 131,
         "failed": 1,
-        "progress": 52.9,
+        "progress": 53.0,
         "counts": {
           "discovered": 237,
-          "queued": 132,
-          "followed": 416,
+          "queued": 131,
+          "followed": 417,
           "following": 1,
           "skipped": 0,
           "failed": 1
@@ -259,8 +259,8 @@
         ],
         "counts": {
           "discovered": 237,
-          "queued": 132,
-          "followed": 416,
+          "queued": 131,
+          "followed": 417,
           "skipped": 0,
           "failed": 1
         }
@@ -534,7 +534,7 @@
         "tweet": {
           "total": 18,
           "done": 0,
-          "failed": 4
+          "failed": 5
         }
       },
       "timeline": [
@@ -567,14 +567,14 @@
       "engine": {
         "running": true,
         "total_planned": 20,
-        "pending": 4,
-        "executed": 16,
-        "consecutive_failures": 0,
+        "pending": 3,
+        "executed": 17,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "1e774969-5306-44ab-b80f-3ed54dfa27e1",
-          "action_type": "tweet",
-          "category": "opinion",
-          "scheduled_time": "2026-07-07T20:47:30.334787"
+          "id": "18084171-c56a-4455-949e-118d5eb00d15",
+          "action_type": "like",
+          "category": null,
+          "scheduled_time": "2026-07-07T21:19:27.172656"
         }
       },
       "campaign_status": {
@@ -604,7 +604,7 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-07-07T20:47:30.334787",
           "category": "opinion",
           "source": "engine"
