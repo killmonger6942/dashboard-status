@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T09:50:59.965026Z",
+  "generated_at": "2026-07-08T10:20:59.975771Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -192,7 +192,7 @@
           "failed": 2
         },
         "retweet": {
-          "total": 22,
+          "total": 20,
           "done": 5,
           "failed": 0
         },
@@ -232,14 +232,14 @@
       "engine": {
         "running": true,
         "total_planned": 17,
-        "pending": 8,
-        "executed": 9,
+        "pending": 7,
+        "executed": 10,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "2029b332-165e-453a-b6c9-44356fbd33b9",
-          "action_type": "retweet",
+          "id": "a701defe-1a23-4417-8ca0-6d76ef388585",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-07-08T15:45:13.100932"
+          "scheduled_time": "2026-07-08T16:59:12.586160"
         }
       },
       "campaign_status": {
@@ -529,7 +529,7 @@
           "failed": 0
         },
         "like": {
-          "total": 70,
+          "total": 68,
           "done": 17,
           "failed": 0
         },
@@ -546,7 +546,7 @@
         "tweet": {
           "total": 19,
           "done": 0,
-          "failed": 7
+          "failed": 8
         }
       },
       "timeline": [
@@ -584,14 +584,14 @@
       "engine": {
         "running": true,
         "total_planned": 22,
-        "pending": 12,
-        "executed": 10,
-        "consecutive_failures": 0,
+        "pending": 11,
+        "executed": 11,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "b6371f63-ffa9-4443-a75c-9cdbc737ac02",
-          "action_type": "tweet",
-          "category": "humor",
-          "scheduled_time": "2026-07-08T15:36:28.162295"
+          "id": "625d222c-5bda-474c-b0c8-c7503cddb0ad",
+          "action_type": "like",
+          "category": null,
+          "scheduled_time": "2026-07-08T16:14:34.090857"
         }
       },
       "campaign_status": {
@@ -677,7 +677,7 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-07-08T15:36:28.162295",
           "category": "humor",
           "source": "engine"
