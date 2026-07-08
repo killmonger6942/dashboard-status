@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T15:20:59.979517Z",
+  "generated_at": "2026-07-08T15:50:59.918846Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -216,14 +216,14 @@
       ],
       "campaign": {
         "total": 787,
-        "followed": 435,
-        "remaining": 113,
+        "followed": 436,
+        "remaining": 112,
         "failed": 1,
-        "progress": 55.3,
+        "progress": 55.4,
         "counts": {
           "discovered": 237,
-          "queued": 113,
-          "followed": 435,
+          "queued": 112,
+          "followed": 436,
           "following": 1,
           "skipped": 0,
           "failed": 1
@@ -232,14 +232,14 @@
       "engine": {
         "running": true,
         "total_planned": 17,
-        "pending": 3,
-        "executed": 14,
+        "pending": 1,
+        "executed": 16,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "9f61f37a-a3e4-41f4-be20-8c6f6ab14e79",
-          "action_type": "like",
-          "category": null,
-          "scheduled_time": "2026-07-08T21:09:36.070293"
+          "id": "8b701bae-7dcf-428e-9185-e2f0c959374a",
+          "action_type": "tweet",
+          "category": "media",
+          "scheduled_time": "2026-07-08T21:33:11.031861"
         }
       },
       "campaign_status": {
@@ -265,8 +265,8 @@
         ],
         "counts": {
           "discovered": 237,
-          "queued": 113,
-          "followed": 435,
+          "queued": 112,
+          "followed": 436,
           "skipped": 0,
           "failed": 1
         }
@@ -536,17 +536,17 @@
         "reply": {
           "total": 13,
           "done": 0,
-          "failed": 2
+          "failed": 3
         },
         "retweet": {
           "total": 23,
-          "done": 9,
+          "done": 10,
           "failed": 0
         },
         "tweet": {
           "total": 18,
           "done": 0,
-          "failed": 8
+          "failed": 9
         }
       },
       "timeline": [
@@ -563,7 +563,7 @@
         {
           "date": "2026-07-08",
           "like": 11,
-          "retweet": 4
+          "retweet": 5
         }
       ],
       "campaign": {
@@ -584,15 +584,10 @@
       "engine": {
         "running": true,
         "total_planned": 22,
-        "pending": 3,
-        "executed": 19,
+        "pending": 0,
+        "executed": 22,
         "consecutive_failures": 0,
-        "next_action": {
-          "id": "47af78b5-fef4-46a1-9afd-c254d680fdde",
-          "action_type": "tweet",
-          "category": "bangalore",
-          "scheduled_time": "2026-07-08T20:52:22.153073"
-        }
+        "next_action": null
       },
       "campaign_status": {
         "running": false
@@ -600,21 +595,21 @@
       "recent": [
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-08T21:15:45.964617",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-07-08T21:12:37.964617",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-07-08T20:52:22.153073",
           "category": "bangalore",
           "source": "engine"
