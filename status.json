@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T09:51:00.176556Z",
+  "generated_at": "2026-07-09T10:20:59.970861Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -222,14 +222,14 @@
       ],
       "campaign": {
         "total": 787,
-        "followed": 448,
-        "remaining": 100,
+        "followed": 449,
+        "remaining": 99,
         "failed": 1,
-        "progress": 56.9,
+        "progress": 57.1,
         "counts": {
           "discovered": 237,
-          "queued": 100,
-          "followed": 448,
+          "queued": 99,
+          "followed": 449,
           "following": 1,
           "skipped": 0,
           "failed": 1
@@ -271,8 +271,8 @@
         ],
         "counts": {
           "discovered": 237,
-          "queued": 100,
-          "followed": 448,
+          "queued": 99,
+          "followed": 449,
           "skipped": 0,
           "failed": 1
         }
@@ -542,7 +542,7 @@
         },
         "like": {
           "total": 67,
-          "done": 28,
+          "done": 29,
           "failed": 0
         },
         "reply": {
@@ -579,7 +579,7 @@
         },
         {
           "date": "2026-07-09",
-          "like": 5
+          "like": 6
         }
       ],
       "campaign": {
@@ -600,14 +600,14 @@
       "engine": {
         "running": true,
         "total_planned": 15,
-        "pending": 8,
-        "executed": 7,
-        "consecutive_failures": 1,
+        "pending": 7,
+        "executed": 8,
+        "consecutive_failures": 0,
         "next_action": {
-          "id": "d3a77b98-859f-4898-a7af-f25a26a8e94c",
-          "action_type": "like",
+          "id": "41c643b7-48b4-4d7f-8f69-eca65a235ee9",
+          "action_type": "reply",
           "category": null,
-          "scheduled_time": "2026-07-09T15:35:36.369223"
+          "scheduled_time": "2026-07-09T16:02:16.026565"
         }
       },
       "campaign_status": {
@@ -665,7 +665,7 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-09T15:35:36.369223",
           "category": null,
           "source": "engine"
