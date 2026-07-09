@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T14:50:59.916416Z",
+  "generated_at": "2026-07-09T15:20:59.925738Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -222,14 +222,14 @@
       ],
       "campaign": {
         "total": 787,
-        "followed": 457,
-        "remaining": 91,
+        "followed": 460,
+        "remaining": 88,
         "failed": 1,
-        "progress": 58.1,
+        "progress": 58.4,
         "counts": {
           "discovered": 237,
-          "queued": 91,
-          "followed": 457,
+          "queued": 88,
+          "followed": 460,
           "following": 1,
           "skipped": 0,
           "failed": 1
@@ -271,8 +271,8 @@
         ],
         "counts": {
           "discovered": 237,
-          "queued": 91,
-          "followed": 457,
+          "queued": 88,
+          "followed": 460,
           "skipped": 0,
           "failed": 1
         }
@@ -558,7 +558,7 @@
         "tweet": {
           "total": 19,
           "done": 0,
-          "failed": 10
+          "failed": 11
         }
       },
       "timeline": [
@@ -601,14 +601,14 @@
       "engine": {
         "running": true,
         "total_planned": 15,
-        "pending": 3,
-        "executed": 12,
-        "consecutive_failures": 0,
+        "pending": 2,
+        "executed": 13,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "e2ed51eb-c100-465a-b194-61f23bb4fb68",
-          "action_type": "tweet",
-          "category": "daily_life",
-          "scheduled_time": "2026-07-09T20:26:09.161260"
+          "id": "775976a6-1e23-43a4-baaf-9609862b3bbd",
+          "action_type": "follow",
+          "category": null,
+          "scheduled_time": "2026-07-09T21:22:02.594139"
         }
       },
       "campaign_status": {
@@ -631,7 +631,7 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-07-09T20:26:09.161260",
           "category": "daily_life",
           "source": "engine"
