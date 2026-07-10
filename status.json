@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T11:20:59.915765Z",
+  "generated_at": "2026-07-10T11:51:00.442655Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -228,14 +228,14 @@
       ],
       "campaign": {
         "total": 787,
-        "followed": 476,
-        "remaining": 72,
+        "followed": 479,
+        "remaining": 69,
         "failed": 1,
-        "progress": 60.5,
+        "progress": 60.9,
         "counts": {
           "discovered": 237,
-          "queued": 72,
-          "followed": 476,
+          "queued": 69,
+          "followed": 479,
           "following": 1,
           "skipped": 0,
           "failed": 1
@@ -277,8 +277,8 @@
         ],
         "counts": {
           "discovered": 237,
-          "queued": 72,
-          "followed": 476,
+          "queued": 69,
+          "followed": 479,
           "skipped": 0,
           "failed": 1
         }
@@ -554,7 +554,7 @@
         },
         "like": {
           "total": 78,
-          "done": 39,
+          "done": 40,
           "failed": 0
         },
         "reply": {
@@ -596,7 +596,7 @@
         },
         {
           "date": "2026-07-10",
-          "like": 8,
+          "like": 9,
           "retweet": 4
         }
       ],
@@ -618,14 +618,14 @@
       "engine": {
         "running": true,
         "total_planned": 22,
-        "pending": 6,
-        "executed": 16,
-        "consecutive_failures": 2,
+        "pending": 5,
+        "executed": 17,
+        "consecutive_failures": 0,
         "next_action": {
-          "id": "30a2a08c-2316-4ac9-b566-868336ac5f6b",
+          "id": "fcd539b9-2a56-49c1-a87a-9a2813e14104",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-07-10T16:54:15.939909"
+          "scheduled_time": "2026-07-10T19:39:54.054763"
         }
       },
       "campaign_status": {
@@ -669,7 +669,7 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-10T16:54:15.939909",
           "category": null,
           "source": "engine"
