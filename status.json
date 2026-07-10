@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T10:50:59.909322Z",
+  "generated_at": "2026-07-10T11:20:59.915765Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -228,14 +228,14 @@
       ],
       "campaign": {
         "total": 787,
-        "followed": 471,
-        "remaining": 77,
+        "followed": 476,
+        "remaining": 72,
         "failed": 1,
-        "progress": 59.8,
+        "progress": 60.5,
         "counts": {
           "discovered": 237,
-          "queued": 77,
-          "followed": 471,
+          "queued": 72,
+          "followed": 476,
           "following": 1,
           "skipped": 0,
           "failed": 1
@@ -244,14 +244,14 @@
       "engine": {
         "running": true,
         "total_planned": 22,
-        "pending": 13,
-        "executed": 9,
+        "pending": 9,
+        "executed": 13,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "468aa901-87bf-4f08-a0e9-a065a4be3f41",
-          "action_type": "like",
-          "category": null,
-          "scheduled_time": "2026-07-10T16:22:54.062350"
+          "id": "1e777d14-c127-466f-81da-e037e1ced528",
+          "action_type": "tweet",
+          "category": "internet_take",
+          "scheduled_time": "2026-07-10T19:31:32.562495"
         }
       },
       "campaign_status": {
@@ -277,8 +277,8 @@
         ],
         "counts": {
           "discovered": 237,
-          "queued": 77,
-          "followed": 471,
+          "queued": 72,
+          "followed": 476,
           "skipped": 0,
           "failed": 1
         }
@@ -560,7 +560,7 @@
         "reply": {
           "total": 15,
           "done": 0,
-          "failed": 4
+          "failed": 5
         },
         "retweet": {
           "total": 29,
@@ -570,7 +570,7 @@
         "tweet": {
           "total": 21,
           "done": 0,
-          "failed": 12
+          "failed": 13
         }
       },
       "timeline": [
@@ -618,14 +618,14 @@
       "engine": {
         "running": true,
         "total_planned": 22,
-        "pending": 8,
-        "executed": 14,
-        "consecutive_failures": 0,
+        "pending": 6,
+        "executed": 16,
+        "consecutive_failures": 2,
         "next_action": {
-          "id": "817f8218-7667-42ba-ad6d-e2ecb127d460",
-          "action_type": "tweet",
-          "category": "question",
-          "scheduled_time": "2026-07-10T16:38:12.322130"
+          "id": "30a2a08c-2316-4ac9-b566-868336ac5f6b",
+          "action_type": "like",
+          "category": null,
+          "scheduled_time": "2026-07-10T16:54:15.939909"
         }
       },
       "campaign_status": {
@@ -676,14 +676,14 @@
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-07-10T16:50:21.939909",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-07-10T16:38:12.322130",
           "category": "question",
           "source": "engine"
