@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T03:20:59.954979Z",
+  "generated_at": "2026-07-11T03:50:59.996479Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -250,14 +250,14 @@
       "engine": {
         "running": true,
         "total_planned": 14,
-        "pending": 13,
-        "executed": 1,
+        "pending": 12,
+        "executed": 2,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "b99f644b-37f8-4290-be3c-0ef0b3220374",
+          "id": "bc2e0e98-c1b0-4b6b-b37f-d21e21d4b29d",
           "action_type": "retweet",
           "category": null,
-          "scheduled_time": "2026-07-11T09:01:06.249068"
+          "scheduled_time": "2026-07-11T12:10:25.116238"
         }
       },
       "campaign_status": {
@@ -566,7 +566,7 @@
         },
         "like": {
           "total": 85,
-          "done": 43,
+          "done": 44,
           "failed": 0
         },
         "reply": {
@@ -576,13 +576,13 @@
         },
         "retweet": {
           "total": 32,
-          "done": 17,
+          "done": 18,
           "failed": 1
         },
         "tweet": {
           "total": 23,
           "done": 0,
-          "failed": 13
+          "failed": 14
         }
       },
       "timeline": [
@@ -613,7 +613,8 @@
         },
         {
           "date": "2026-07-11",
-          "like": 1
+          "like": 2,
+          "retweet": 1
         }
       ],
       "campaign": {
@@ -634,14 +635,14 @@
       "engine": {
         "running": true,
         "total_planned": 13,
-        "pending": 12,
-        "executed": 1,
+        "pending": 9,
+        "executed": 4,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "ec4ab9eb-11ba-42b4-a2a0-00354e0c0980",
-          "action_type": "tweet",
-          "category": "tip",
-          "scheduled_time": "2026-07-11T09:09:51.067763"
+          "id": "41cbf152-22dd-4e3a-99b0-ba3ee6e55e10",
+          "action_type": "retweet",
+          "category": null,
+          "scheduled_time": "2026-07-11T12:08:00.450034"
         }
       },
       "campaign_status": {
@@ -713,21 +714,21 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-11T09:20:06.375815",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-11T09:16:41.125043",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-07-11T09:09:51.067763",
           "category": "tip",
           "source": "engine"
