@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T07:51:00.265777Z",
+  "generated_at": "2026-07-11T08:21:00.683464Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
     "logged_in": 2,
     "active": 2,
-    "total_followers": 28
+    "total_followers": 27
   },
   "accounts": [
     {
@@ -19,13 +19,13 @@
       "last_session_check": "2026-06-13T15:19:45.310792",
       "profile": {
         "current": {
-          "followers": 24,
-          "following": 499,
+          "followers": 23,
+          "following": 503,
           "tweets": 75
         },
         "growth": {
-          "followers": 24,
-          "following": 491,
+          "followers": 23,
+          "following": 495,
           "tweets": 60
         },
         "history": [
@@ -187,8 +187,8 @@
           },
           {
             "date": "2026-07-11",
-            "followers": 24,
-            "following": 499,
+            "followers": 23,
+            "following": 503,
             "tweets": 75
           }
         ]
@@ -250,14 +250,14 @@
       "engine": {
         "running": true,
         "total_planned": 14,
-        "pending": 11,
-        "executed": 3,
+        "pending": 9,
+        "executed": 5,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "60290b51-1af1-409c-9ea3-de75257d7a90",
-          "action_type": "retweet",
+          "id": "663616b3-6d1d-4423-8334-af98023035b2",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-07-11T13:24:03.406477"
+          "scheduled_time": "2026-07-11T15:48:19.928811"
         }
       },
       "campaign_status": {
@@ -410,12 +410,12 @@
         "current": {
           "followers": 4,
           "following": 320,
-          "tweets": 45
+          "tweets": 46
         },
         "growth": {
           "followers": 4,
           "following": 274,
-          "tweets": 45
+          "tweets": 46
         },
         "history": [
           {
@@ -554,7 +554,7 @@
             "date": "2026-07-11",
             "followers": 4,
             "following": 320,
-            "tweets": 45
+            "tweets": 46
           }
         ]
       },
@@ -566,7 +566,7 @@
         },
         "like": {
           "total": 85,
-          "done": 46,
+          "done": 47,
           "failed": 0
         },
         "reply": {
@@ -576,13 +576,13 @@
         },
         "retweet": {
           "total": 32,
-          "done": 19,
+          "done": 20,
           "failed": 1
         },
         "tweet": {
           "total": 23,
           "done": 0,
-          "failed": 14
+          "failed": 15
         }
       },
       "timeline": [
@@ -613,8 +613,8 @@
         },
         {
           "date": "2026-07-11",
-          "like": 4,
-          "retweet": 2
+          "like": 5,
+          "retweet": 3
         }
       ],
       "campaign": {
@@ -635,14 +635,14 @@
       "engine": {
         "running": true,
         "total_planned": 13,
-        "pending": 6,
-        "executed": 7,
+        "pending": 3,
+        "executed": 10,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "24e0b488-307e-437f-8bb7-5ab501733e0d",
-          "action_type": "tweet",
-          "category": "opinion",
-          "scheduled_time": "2026-07-11T13:27:01.129183"
+          "id": "090d72ad-c340-42ee-9f14-1a329f09b028",
+          "action_type": "reply",
+          "category": null,
+          "scheduled_time": "2026-07-11T17:16:00.064281"
         }
       },
       "campaign_status": {
@@ -672,21 +672,21 @@
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-11T13:43:55.377818",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-11T13:31:02.129183",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-07-11T13:27:01.129183",
           "category": "opinion",
           "source": "engine"
