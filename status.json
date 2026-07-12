@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T14:50:59.913635Z",
+  "generated_at": "2026-07-12T15:20:59.924648Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -240,14 +240,14 @@
       ],
       "campaign": {
         "total": 787,
-        "followed": 518,
-        "remaining": 30,
+        "followed": 522,
+        "remaining": 26,
         "failed": 1,
-        "progress": 65.8,
+        "progress": 66.3,
         "counts": {
           "discovered": 237,
-          "queued": 30,
-          "followed": 518,
+          "queued": 26,
+          "followed": 522,
           "following": 1,
           "skipped": 0,
           "failed": 1
@@ -256,15 +256,10 @@
       "engine": {
         "running": true,
         "total_planned": 14,
-        "pending": 1,
-        "executed": 13,
+        "pending": 0,
+        "executed": 14,
         "consecutive_failures": 3,
-        "next_action": {
-          "id": "f92706e8-6a6e-42c6-bc7f-38626f11cd8f",
-          "action_type": "tweet",
-          "category": "food_life",
-          "scheduled_time": "2026-07-12T20:33:07.155418"
-        }
+        "next_action": null
       },
       "campaign_status": {
         "running": true,
@@ -289,8 +284,8 @@
         ],
         "counts": {
           "discovered": 237,
-          "queued": 30,
-          "followed": 518,
+          "queued": 26,
+          "followed": 522,
           "skipped": 0,
           "failed": 1
         }
@@ -578,7 +573,7 @@
         },
         "like": {
           "total": 83,
-          "done": 54,
+          "done": 55,
           "failed": 0
         },
         "reply": {
@@ -630,7 +625,7 @@
         },
         {
           "date": "2026-07-12",
-          "like": 5,
+          "like": 6,
           "retweet": 1
         }
       ],
@@ -652,14 +647,14 @@
       "engine": {
         "running": true,
         "total_planned": 10,
-        "pending": 2,
-        "executed": 8,
+        "pending": 1,
+        "executed": 9,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "4165c1e6-30ad-4ddf-929c-280e4284629d",
+          "id": "c5e8a5cc-98f5-4d8e-9451-1ed214889f2d",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-07-12T20:30:43.821774"
+          "scheduled_time": "2026-07-12T21:43:40.993309"
         }
       },
       "campaign_status": {
@@ -675,7 +670,7 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-12T20:30:43.821774",
           "category": null,
           "source": "engine"
