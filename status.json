@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T10:20:59.948083Z",
+  "generated_at": "2026-07-12T10:50:59.982068Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -256,14 +256,14 @@
       "engine": {
         "running": true,
         "total_planned": 14,
-        "pending": 8,
-        "executed": 6,
+        "pending": 4,
+        "executed": 10,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "c4c97888-30f5-4268-aabc-d053eb87008f",
-          "action_type": "like",
+          "id": "0e10cd7a-f41a-4eb9-aa8b-016c91c0a055",
+          "action_type": "reply",
           "category": null,
-          "scheduled_time": "2026-07-12T16:00:49.608292"
+          "scheduled_time": "2026-07-12T17:12:05.648349"
         }
       },
       "campaign_status": {
@@ -594,7 +594,7 @@
         "tweet": {
           "total": 21,
           "done": 0,
-          "failed": 15
+          "failed": 16
         }
       },
       "timeline": [
@@ -651,14 +651,14 @@
       "engine": {
         "running": true,
         "total_planned": 10,
-        "pending": 7,
-        "executed": 3,
-        "consecutive_failures": 0,
+        "pending": 6,
+        "executed": 4,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "4efd3fd4-309b-45f6-9697-34ab5c8e4e29",
-          "action_type": "tweet",
-          "category": "nostalgia",
-          "scheduled_time": "2026-07-12T16:14:46.229286"
+          "id": "5576bcc7-951f-4dad-99c5-8985de9cf196",
+          "action_type": "reply",
+          "category": null,
+          "scheduled_time": "2026-07-12T17:00:29.798162"
         }
       },
       "campaign_status": {
@@ -709,7 +709,7 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-07-12T16:14:46.229286",
           "category": "nostalgia",
           "source": "engine"
