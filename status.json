@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T02:50:59.921787Z",
+  "generated_at": "2026-07-13T03:20:59.983018Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -246,14 +246,14 @@
       ],
       "campaign": {
         "total": 787,
-        "followed": 523,
-        "remaining": 25,
+        "followed": 524,
+        "remaining": 24,
         "failed": 1,
-        "progress": 66.5,
+        "progress": 66.6,
         "counts": {
           "discovered": 237,
-          "queued": 25,
-          "followed": 523,
+          "queued": 24,
+          "followed": 524,
           "following": 1,
           "skipped": 0,
           "failed": 1
@@ -262,14 +262,14 @@
       "engine": {
         "running": true,
         "total_planned": 17,
-        "pending": 17,
-        "executed": 0,
+        "pending": 16,
+        "executed": 1,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "85857246-bfb2-464d-8515-a88da2caba25",
-          "action_type": "reply",
+          "id": "70daf75f-1eb0-4f24-84b3-0b83cc46a37d",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-07-13T08:26:02.590610"
+          "scheduled_time": "2026-07-13T09:03:50.608556"
         }
       },
       "campaign_status": {
@@ -295,8 +295,8 @@
         ],
         "counts": {
           "discovered": 237,
-          "queued": 25,
-          "followed": 523,
+          "queued": 24,
+          "followed": 524,
           "skipped": 0,
           "failed": 1
         }
@@ -590,7 +590,7 @@
         },
         "like": {
           "total": 92,
-          "done": 56,
+          "done": 58,
           "failed": 0
         },
         "reply": {
@@ -644,6 +644,10 @@
           "date": "2026-07-12",
           "like": 7,
           "retweet": 1
+        },
+        {
+          "date": "2026-07-13",
+          "like": 2
         }
       ],
       "campaign": {
@@ -664,14 +668,14 @@
       "engine": {
         "running": true,
         "total_planned": 23,
-        "pending": 23,
-        "executed": 0,
+        "pending": 21,
+        "executed": 2,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "b2a65d21-fd54-455d-8343-dc04bd936abb",
+          "id": "7a01cb89-8157-45a6-a061-cfc2fbca845c",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-07-13T08:40:46.313283"
+          "scheduled_time": "2026-07-13T09:10:48.207819"
         }
       },
       "campaign_status": {
