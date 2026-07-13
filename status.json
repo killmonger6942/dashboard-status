@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T10:21:00.056994Z",
+  "generated_at": "2026-07-13T10:50:59.943475Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -600,7 +600,7 @@
         },
         "retweet": {
           "total": 29,
-          "done": 21,
+          "done": 22,
           "failed": 1
         },
         "tweet": {
@@ -647,19 +647,20 @@
         },
         {
           "date": "2026-07-13",
-          "like": 12
+          "like": 12,
+          "retweet": 1
         }
       ],
       "campaign": {
         "total": 855,
-        "followed": 279,
-        "remaining": 270,
+        "followed": 282,
+        "remaining": 267,
         "failed": 1,
-        "progress": 32.6,
+        "progress": 33.0,
         "counts": {
           "discovered": 305,
-          "queued": 270,
-          "followed": 279,
+          "queued": 267,
+          "followed": 282,
           "following": 0,
           "skipped": 0,
           "failed": 1
@@ -668,14 +669,14 @@
       "engine": {
         "running": true,
         "total_planned": 23,
-        "pending": 8,
-        "executed": 15,
-        "consecutive_failures": 1,
+        "pending": 7,
+        "executed": 16,
+        "consecutive_failures": 0,
         "next_action": {
-          "id": "3eb8010a-ee15-40a0-8c4f-d9c8a8cb3ae3",
-          "action_type": "retweet",
-          "category": null,
-          "scheduled_time": "2026-07-13T16:06:49.098782"
+          "id": "b36c833a-cf68-4370-b2ff-3933cd910d91",
+          "action_type": "tweet",
+          "category": "opinion",
+          "scheduled_time": "2026-07-13T16:29:55.444746"
         }
       },
       "campaign_status": {
@@ -701,8 +702,8 @@
         ],
         "counts": {
           "discovered": 305,
-          "queued": 270,
-          "followed": 279,
+          "queued": 267,
+          "followed": 282,
           "skipped": 0,
           "failed": 1
         }
@@ -759,7 +760,7 @@
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-13T16:06:49.098782",
           "category": null,
           "source": "engine"
