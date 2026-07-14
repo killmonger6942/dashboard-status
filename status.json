@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T03:51:00.114955Z",
+  "generated_at": "2026-07-14T04:20:59.936738Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -597,13 +597,13 @@
         },
         "like": {
           "total": 80,
-          "done": 72,
+          "done": 73,
           "failed": 0
         },
         "reply": {
           "total": 14,
           "done": 0,
-          "failed": 12
+          "failed": 13
         },
         "retweet": {
           "total": 27,
@@ -654,19 +654,19 @@
         },
         {
           "date": "2026-07-14",
-          "like": 2
+          "like": 3
         }
       ],
       "campaign": {
         "total": 855,
-        "followed": 294,
-        "remaining": 255,
+        "followed": 295,
+        "remaining": 254,
         "failed": 1,
-        "progress": 34.4,
+        "progress": 34.5,
         "counts": {
           "discovered": 305,
-          "queued": 255,
-          "followed": 294,
+          "queued": 254,
+          "followed": 295,
           "following": 0,
           "skipped": 0,
           "failed": 1
@@ -675,14 +675,14 @@
       "engine": {
         "running": true,
         "total_planned": 18,
-        "pending": 15,
-        "executed": 3,
-        "consecutive_failures": 0,
+        "pending": 13,
+        "executed": 5,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "00ae84bf-5cd1-4bea-bb0a-f577f9997262",
+          "id": "9b08c2e6-2c20-4e6c-8c95-fceeee5320c8",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-07-14T09:31:16.471192"
+          "scheduled_time": "2026-07-14T09:57:00.193111"
         }
       },
       "campaign_status": {
@@ -708,8 +708,8 @@
         ],
         "counts": {
           "discovered": 305,
-          "queued": 255,
-          "followed": 294,
+          "queued": 254,
+          "followed": 295,
           "skipped": 0,
           "failed": 1
         }
@@ -808,14 +808,14 @@
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-07-14T09:45:08.126550",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-14T09:31:16.471192",
           "category": null,
           "source": "engine"
