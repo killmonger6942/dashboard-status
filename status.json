@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T15:18:46.504835Z",
+  "generated_at": "2026-07-15T15:48:47.960515Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -219,16 +219,16 @@
         },
         "like": {
           "total": 92,
-          "done": 10,
+          "done": 12,
           "failed": 1
         },
         "reply": {
           "total": 16,
           "done": 0,
-          "failed": 1
+          "failed": 2
         },
         "retweet": {
-          "total": 23,
+          "total": 22,
           "done": 2,
           "failed": 0
         },
@@ -241,7 +241,7 @@
       "timeline": [
         {
           "date": "2026-07-15",
-          "like": 10,
+          "like": 12,
           "retweet": 2
         }
       ],
@@ -263,14 +263,14 @@
       "engine": {
         "running": true,
         "total_planned": 22,
-        "pending": 4,
-        "executed": 18,
+        "pending": 1,
+        "executed": 21,
         "consecutive_failures": 1,
         "next_action": {
-          "id": "fadb1043-3eb6-4d14-80d2-b63b59cfc5f5",
+          "id": "99940214-dfc6-4747-b4f9-dedc841a0ed3",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-07-15T20:51:17.772643"
+          "scheduled_time": "2026-07-15T21:40:22.125408"
         }
       },
       "campaign_status": {
@@ -293,21 +293,21 @@
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-07-15T20:57:31.772643",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-15T20:54:30.772643",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-15T20:51:17.772643",
           "category": null,
           "source": "engine"
@@ -591,9 +591,9 @@
           "failed": 1
         },
         "tweet": {
-          "total": 19,
+          "total": 18,
           "done": 0,
-          "failed": 17
+          "failed": 16
         }
       },
       "timeline": [
