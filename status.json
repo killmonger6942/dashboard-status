@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T14:48:46.510827Z",
+  "generated_at": "2026-07-15T15:18:46.504835Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -219,7 +219,7 @@
         },
         "like": {
           "total": 92,
-          "done": 8,
+          "done": 10,
           "failed": 1
         },
         "reply": {
@@ -235,13 +235,13 @@
         "tweet": {
           "total": 20,
           "done": 0,
-          "failed": 3
+          "failed": 4
         }
       },
       "timeline": [
         {
           "date": "2026-07-15",
-          "like": 8,
+          "like": 10,
           "retweet": 2
         }
       ],
@@ -263,14 +263,14 @@
       "engine": {
         "running": true,
         "total_planned": 22,
-        "pending": 7,
-        "executed": 15,
-        "consecutive_failures": 0,
+        "pending": 4,
+        "executed": 18,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "7d5b0955-ba4e-4f8b-9460-fa1bfbd3b981",
+          "id": "fadb1043-3eb6-4d14-80d2-b63b59cfc5f5",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-07-15T20:24:57.845145"
+          "scheduled_time": "2026-07-15T20:51:17.772643"
         }
       },
       "campaign_status": {
@@ -314,7 +314,7 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-07-15T20:47:28.772643",
           "category": "opinion",
           "source": "engine"
@@ -328,14 +328,14 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-15T20:32:31.061823",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-15T20:24:57.845145",
           "category": null,
           "source": "engine"
@@ -640,14 +640,14 @@
       ],
       "campaign": {
         "total": 855,
-        "followed": 345,
-        "remaining": 204,
+        "followed": 347,
+        "remaining": 202,
         "failed": 1,
-        "progress": 40.4,
+        "progress": 40.6,
         "counts": {
           "discovered": 305,
-          "queued": 204,
-          "followed": 345,
+          "queued": 202,
+          "followed": 347,
           "following": 0,
           "skipped": 0,
           "failed": 1
@@ -689,8 +689,8 @@
         ],
         "counts": {
           "discovered": 305,
-          "queued": 204,
-          "followed": 345,
+          "queued": 202,
+          "followed": 347,
           "skipped": 0,
           "failed": 1
         }
