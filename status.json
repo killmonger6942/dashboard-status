@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T07:18:46.512241Z",
+  "generated_at": "2026-07-17T07:48:46.683320Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -599,7 +599,7 @@
         },
         "like": {
           "total": 101,
-          "done": 81,
+          "done": 82,
           "failed": 0
         },
         "reply": {
@@ -656,20 +656,20 @@
         },
         {
           "date": "2026-07-17",
-          "like": 4,
+          "like": 5,
           "retweet": 2
         }
       ],
       "campaign": {
         "total": 855,
-        "followed": 379,
-        "remaining": 170,
+        "followed": 381,
+        "remaining": 168,
         "failed": 1,
-        "progress": 44.3,
+        "progress": 44.6,
         "counts": {
           "discovered": 305,
-          "queued": 170,
-          "followed": 379,
+          "queued": 168,
+          "followed": 381,
           "following": 0,
           "skipped": 0,
           "failed": 1
@@ -678,14 +678,14 @@
       "engine": {
         "running": true,
         "total_planned": 19,
-        "pending": 11,
-        "executed": 8,
-        "consecutive_failures": 2,
+        "pending": 10,
+        "executed": 9,
+        "consecutive_failures": 0,
         "next_action": {
-          "id": "91c46095-0121-4388-bf00-7d97acebce51",
+          "id": "1a08d3cd-27ea-4d62-ac8e-fa96814b7b24",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-07-17T12:54:39.484052"
+          "scheduled_time": "2026-07-17T13:20:25.676072"
         }
       },
       "campaign_status": {
@@ -711,8 +711,8 @@
         ],
         "counts": {
           "discovered": 305,
-          "queued": 170,
-          "followed": 379,
+          "queued": 168,
+          "followed": 381,
           "skipped": 0,
           "failed": 1
         }
@@ -790,7 +790,7 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-17T12:54:39.484052",
           "category": null,
           "source": "engine"
