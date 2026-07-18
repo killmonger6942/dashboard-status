@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T07:18:46.572239Z",
+  "generated_at": "2026-07-18T07:48:46.511075Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -235,7 +235,7 @@
         "tweet": {
           "total": 21,
           "done": 0,
-          "failed": 9
+          "failed": 10
         }
       },
       "timeline": [
@@ -278,14 +278,14 @@
       "engine": {
         "running": true,
         "total_planned": 11,
-        "pending": 9,
-        "executed": 2,
-        "consecutive_failures": 0,
+        "pending": 8,
+        "executed": 3,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "6cc0468b-383c-4750-8e77-35ea09c4a759",
+          "id": "4f7127e0-74d7-4076-a2a8-446e54da38ea",
           "action_type": "tweet",
-          "category": "question",
-          "scheduled_time": "2026-07-18T12:52:22.078117"
+          "category": "food_life",
+          "scheduled_time": "2026-07-18T15:32:04.737412"
         }
       },
       "campaign_status": {
@@ -350,7 +350,7 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-07-18T12:52:22.078117",
           "category": "question",
           "source": "engine"
@@ -668,14 +668,14 @@
       ],
       "campaign": {
         "total": 855,
-        "followed": 394,
-        "remaining": 155,
+        "followed": 395,
+        "remaining": 154,
         "failed": 1,
-        "progress": 46.1,
+        "progress": 46.2,
         "counts": {
           "discovered": 305,
-          "queued": 155,
-          "followed": 394,
+          "queued": 154,
+          "followed": 395,
           "following": 0,
           "skipped": 0,
           "failed": 1
@@ -684,14 +684,14 @@
       "engine": {
         "running": true,
         "total_planned": 11,
-        "pending": 8,
-        "executed": 3,
+        "pending": 7,
+        "executed": 4,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "a4d7340e-c7c0-4f33-93a9-2a0d44df3742",
-          "action_type": "reply",
+          "id": "42e70bba-e518-47f1-83b5-b398853b67a3",
+          "action_type": "retweet",
           "category": null,
-          "scheduled_time": "2026-07-18T13:03:21.693234"
+          "scheduled_time": "2026-07-18T16:12:58.205850"
         }
       },
       "campaign_status": {
@@ -717,8 +717,8 @@
         ],
         "counts": {
           "discovered": 305,
-          "queued": 155,
-          "followed": 394,
+          "queued": 154,
+          "followed": 395,
           "skipped": 0,
           "failed": 1
         }
