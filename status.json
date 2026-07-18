@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T09:48:46.515415Z",
+  "generated_at": "2026-07-18T10:18:46.531551Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -219,7 +219,7 @@
         },
         "like": {
           "total": 93,
-          "done": 40,
+          "done": 41,
           "failed": 1
         },
         "reply": {
@@ -235,7 +235,7 @@
         "tweet": {
           "total": 20,
           "done": 0,
-          "failed": 10
+          "failed": 11
         }
       },
       "timeline": [
@@ -256,7 +256,7 @@
         },
         {
           "date": "2026-07-18",
-          "like": 1,
+          "like": 2,
           "retweet": 1
         }
       ],
@@ -278,14 +278,14 @@
       "engine": {
         "running": true,
         "total_planned": 11,
-        "pending": 8,
-        "executed": 3,
-        "consecutive_failures": 1,
+        "pending": 6,
+        "executed": 5,
+        "consecutive_failures": 0,
         "next_action": {
-          "id": "4f7127e0-74d7-4076-a2a8-446e54da38ea",
-          "action_type": "tweet",
-          "category": "food_life",
-          "scheduled_time": "2026-07-18T15:32:04.737412"
+          "id": "8d70ce1c-9f1b-4166-977d-e83e004374a2",
+          "action_type": "retweet",
+          "category": null,
+          "scheduled_time": "2026-07-18T16:07:19.255582"
         }
       },
       "campaign_status": {
@@ -336,14 +336,14 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-18T15:37:27.855542",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-07-18T15:32:04.737412",
           "category": "food_life",
           "source": "engine"
@@ -668,14 +668,14 @@
       ],
       "campaign": {
         "total": 855,
-        "followed": 396,
-        "remaining": 153,
+        "followed": 397,
+        "remaining": 152,
         "failed": 1,
-        "progress": 46.3,
+        "progress": 46.4,
         "counts": {
           "discovered": 305,
-          "queued": 153,
-          "followed": 396,
+          "queued": 152,
+          "followed": 397,
           "following": 0,
           "skipped": 0,
           "failed": 1
@@ -717,8 +717,8 @@
         ],
         "counts": {
           "discovered": 305,
-          "queued": 153,
-          "followed": 396,
+          "queued": 152,
+          "followed": 397,
           "skipped": 0,
           "failed": 1
         }
