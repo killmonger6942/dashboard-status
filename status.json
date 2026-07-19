@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T10:18:46.513814Z",
+  "generated_at": "2026-07-19T10:48:46.555069Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -219,7 +219,7 @@
         },
         "like": {
           "total": 88,
-          "done": 45,
+          "done": 46,
           "failed": 1
         },
         "reply": {
@@ -229,7 +229,7 @@
         },
         "retweet": {
           "total": 22,
-          "done": 13,
+          "done": 14,
           "failed": 0
         },
         "tweet": {
@@ -261,8 +261,8 @@
         },
         {
           "date": "2026-07-19",
-          "like": 1,
-          "retweet": 1
+          "like": 2,
+          "retweet": 2
         }
       ],
       "campaign": {
@@ -283,14 +283,14 @@
       "engine": {
         "running": true,
         "total_planned": 10,
-        "pending": 6,
-        "executed": 4,
+        "pending": 4,
+        "executed": 6,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "437c2755-8cff-4a74-aad6-8a8bf612f4e6",
-          "action_type": "retweet",
+          "id": "64a9e58b-097f-41c7-b51f-9150996f732f",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-07-19T15:57:52.452017"
+          "scheduled_time": "2026-07-19T16:52:24.723893"
         }
       },
       "campaign_status": {
@@ -327,14 +327,14 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-19T16:02:32.452017",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-19T15:57:52.452017",
           "category": null,
           "source": "engine"
@@ -668,14 +668,14 @@
       ],
       "campaign": {
         "total": 855,
-        "followed": 421,
-        "remaining": 128,
+        "followed": 422,
+        "remaining": 127,
         "failed": 1,
-        "progress": 49.2,
+        "progress": 49.4,
         "counts": {
           "discovered": 305,
-          "queued": 128,
-          "followed": 421,
+          "queued": 127,
+          "followed": 422,
           "following": 0,
           "skipped": 0,
           "failed": 1
@@ -717,8 +717,8 @@
         ],
         "counts": {
           "discovered": 305,
-          "queued": 128,
-          "followed": 421,
+          "queued": 127,
+          "followed": 422,
           "skipped": 0,
           "failed": 1
         }
