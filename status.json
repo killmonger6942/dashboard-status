@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T06:48:46.546805Z",
+  "generated_at": "2026-07-19T07:18:46.528559Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -215,7 +215,7 @@
         "follow": {
           "total": 5,
           "done": 0,
-          "failed": 2
+          "failed": 3
         },
         "like": {
           "total": 90,
@@ -282,14 +282,14 @@
       "engine": {
         "running": true,
         "total_planned": 10,
-        "pending": 8,
-        "executed": 2,
-        "consecutive_failures": 1,
+        "pending": 7,
+        "executed": 3,
+        "consecutive_failures": 2,
         "next_action": {
-          "id": "b2b9b897-ce6e-456c-beea-21778afd1c6e",
-          "action_type": "follow",
+          "id": "a5e1e0dc-6d45-4b19-930f-a87b314db094",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-07-19T12:40:36.442940"
+          "scheduled_time": "2026-07-19T13:18:22.505871"
         }
       },
       "campaign_status": {
@@ -347,7 +347,7 @@
         },
         {
           "action_type": "follow",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-07-19T12:40:36.442940",
           "category": null,
           "source": "engine"
@@ -667,14 +667,14 @@
       ],
       "campaign": {
         "total": 855,
-        "followed": 415,
-        "remaining": 134,
+        "followed": 419,
+        "remaining": 130,
         "failed": 1,
-        "progress": 48.5,
+        "progress": 49.0,
         "counts": {
           "discovered": 305,
-          "queued": 134,
-          "followed": 415,
+          "queued": 130,
+          "followed": 419,
           "following": 0,
           "skipped": 0,
           "failed": 1
@@ -716,8 +716,8 @@
         ],
         "counts": {
           "discovered": 305,
-          "queued": 134,
-          "followed": 415,
+          "queued": 130,
+          "followed": 419,
           "skipped": 0,
           "failed": 1
         }
