@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T07:48:46.539271Z",
+  "generated_at": "2026-07-20T08:18:46.546068Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 2,
@@ -21,12 +21,12 @@
         "current": {
           "followers": 22,
           "following": 561,
-          "tweets": 88
+          "tweets": 89
         },
         "growth": {
           "followers": 0,
           "following": 410,
-          "tweets": 31
+          "tweets": 32
         },
         "history": [
           {
@@ -207,7 +207,7 @@
             "date": "2026-07-20",
             "followers": 22,
             "following": 561,
-            "tweets": 88
+            "tweets": 89
           }
         ]
       },
@@ -219,17 +219,17 @@
         },
         "like": {
           "total": 95,
-          "done": 52,
+          "done": 53,
           "failed": 1
         },
         "reply": {
           "total": 18,
           "done": 0,
-          "failed": 11
+          "failed": 12
         },
         "retweet": {
           "total": 25,
-          "done": 16,
+          "done": 17,
           "failed": 0
         },
         "tweet": {
@@ -266,8 +266,8 @@
         },
         {
           "date": "2026-07-20",
-          "like": 3,
-          "retweet": 2
+          "like": 4,
+          "retweet": 3
         }
       ],
       "campaign": {
@@ -288,14 +288,14 @@
       "engine": {
         "running": true,
         "total_planned": 24,
-        "pending": 16,
-        "executed": 8,
-        "consecutive_failures": 0,
+        "pending": 13,
+        "executed": 11,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "c2e03c59-b3e8-42b9-b211-3f7ee7fa7d6a",
+          "id": "542a32b5-24af-4ae1-a4ea-5c213d7df7ca",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-07-20T13:36:09.580530"
+          "scheduled_time": "2026-07-20T15:47:48.035788"
         }
       },
       "campaign_status": {
@@ -395,14 +395,14 @@
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-07-20T13:43:52.580530",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-20T13:39:11.580530",
           "category": null,
           "source": "engine"
@@ -421,12 +421,12 @@
       "profile": {
         "current": {
           "followers": 4,
-          "following": 478,
+          "following": 486,
           "tweets": 62
         },
         "growth": {
           "followers": 4,
-          "following": 392,
+          "following": 400,
           "tweets": 51
         },
         "history": [
@@ -607,7 +607,7 @@
           {
             "date": "2026-07-20",
             "followers": 4,
-            "following": 478,
+            "following": 486,
             "tweets": 62
           }
         ]
@@ -668,14 +668,14 @@
       ],
       "campaign": {
         "total": 855,
-        "followed": 441,
-        "remaining": 108,
+        "followed": 443,
+        "remaining": 106,
         "failed": 1,
-        "progress": 51.6,
+        "progress": 51.8,
         "counts": {
           "discovered": 305,
-          "queued": 108,
-          "followed": 441,
+          "queued": 106,
+          "followed": 443,
           "following": 0,
           "skipped": 0,
           "failed": 1
@@ -684,14 +684,14 @@
       "engine": {
         "running": true,
         "total_planned": 20,
-        "pending": 12,
-        "executed": 8,
+        "pending": 11,
+        "executed": 9,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "ee29ae1d-2c4b-48fa-9597-a60819dc2035",
+          "id": "83dcfa5e-d51c-4c57-9f8a-80e73fc66bd5",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-07-20T13:21:10.060899"
+          "scheduled_time": "2026-07-20T15:41:39.328254"
         }
       },
       "campaign_status": {
@@ -717,8 +717,8 @@
         ],
         "counts": {
           "discovered": 305,
-          "queued": 108,
-          "followed": 441,
+          "queued": 106,
+          "followed": 443,
           "skipped": 0,
           "failed": 1
         }
