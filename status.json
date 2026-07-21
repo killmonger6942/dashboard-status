@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T14:52:19.196979Z",
+  "generated_at": "2026-07-21T15:22:19.176410Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -626,7 +626,7 @@
         },
         "like": {
           "total": 135,
-          "done": 43,
+          "done": 47,
           "failed": 0
         },
         "reply": {
@@ -668,21 +668,21 @@
         },
         {
           "date": "2026-07-21",
-          "like": 5,
+          "like": 9,
           "retweet": 3,
           "tweet": 2
         }
       ],
       "campaign": {
         "total": 855,
-        "followed": 490,
-        "remaining": 59,
+        "followed": 495,
+        "remaining": 54,
         "failed": 1,
-        "progress": 57.3,
+        "progress": 57.9,
         "counts": {
           "discovered": 305,
-          "queued": 59,
-          "followed": 490,
+          "queued": 54,
+          "followed": 495,
           "following": 0,
           "skipped": 0,
           "failed": 1
@@ -691,14 +691,14 @@
       "engine": {
         "running": true,
         "total_planned": 22,
-        "pending": 7,
-        "executed": 15,
-        "consecutive_failures": 1,
+        "pending": 3,
+        "executed": 19,
+        "consecutive_failures": 0,
         "next_action": {
-          "id": "64040d1c-357f-442d-8b03-252d4ba4a0a5",
+          "id": "cce571fd-66ca-4cb1-a989-f26627251d58",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-07-21T20:26:24.698812"
+          "scheduled_time": "2026-07-21T20:57:10.433429"
         }
       },
       "campaign_status": {
@@ -724,8 +724,8 @@
         ],
         "counts": {
           "discovered": 305,
-          "queued": 59,
-          "followed": 490,
+          "queued": 54,
+          "followed": 495,
           "skipped": 0,
           "failed": 1
         }
@@ -831,7 +831,7 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-21T20:46:38.186652",
           "category": null,
           "source": "engine"
@@ -864,13 +864,13 @@
         },
         "like": {
           "total": 24,
-          "done": 2,
+          "done": 4,
           "failed": 0
         },
         "reply": {
           "total": 4,
           "done": 0,
-          "failed": 1
+          "failed": 3
         },
         "retweet": {
           "total": 5,
@@ -886,7 +886,7 @@
       "timeline": [
         {
           "date": "2026-07-21",
-          "like": 2,
+          "like": 4,
           "retweet": 1,
           "tweet": 2
         }
@@ -909,14 +909,14 @@
       "engine": {
         "running": true,
         "total_planned": 17,
-        "pending": 6,
-        "executed": 11,
+        "pending": 2,
+        "executed": 15,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "c76d43be-dcb1-4b87-a18a-55a8c8e3b792",
-          "action_type": "reply",
+          "id": "b445b543-7678-4d74-8de3-74957f8761ea",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-07-21T20:23:18.283443"
+          "scheduled_time": "2026-07-21T21:05:37.633552"
         }
       },
       "campaign_status": {
@@ -960,14 +960,14 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-21T20:35:12.803762",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-07-21T20:30:28.803762",
           "category": null,
           "source": "engine"
@@ -981,14 +981,14 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-21T20:26:29.185650",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-07-21T20:23:18.283443",
           "category": null,
           "source": "engine"
