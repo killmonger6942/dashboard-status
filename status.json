@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-21T10:02:23.622087Z",
+  "generated_at": "2026-07-21T10:32:23.640008Z",
   "refresh_minutes": 30,
   "totals": {
-    "accounts": 2,
-    "logged_in": 2,
-    "active": 2,
+    "accounts": 3,
+    "logged_in": 3,
+    "active": 3,
     "total_followers": 26
   },
   "accounts": [
@@ -218,8 +218,8 @@
           "failed": 3
         },
         "like": {
-          "total": 119,
-          "done": 65,
+          "total": 118,
+          "done": 66,
           "failed": 1
         },
         "reply": {
@@ -271,7 +271,7 @@
         },
         {
           "date": "2026-07-21",
-          "like": 3,
+          "like": 4,
           "retweet": 1,
           "tweet": 2
         }
@@ -294,14 +294,14 @@
       "engine": {
         "running": true,
         "total_planned": 17,
-        "pending": 8,
-        "executed": 9,
-        "consecutive_failures": 1,
+        "pending": 7,
+        "executed": 10,
+        "consecutive_failures": 0,
         "next_action": {
-          "id": "5c8b2f44-7ddc-426a-b7f7-8de536a0e7ae",
-          "action_type": "like",
-          "category": null,
-          "scheduled_time": "2026-07-21T15:45:11.380410"
+          "id": "9794e1b1-3490-456b-8f94-556784a3629d",
+          "action_type": "tweet",
+          "category": "personal_experience",
+          "scheduled_time": "2026-07-21T16:22:21.705577"
         }
       },
       "campaign_status": {
@@ -636,13 +636,13 @@
         },
         "retweet": {
           "total": 43,
-          "done": 13,
+          "done": 14,
           "failed": 0
         },
         "tweet": {
-          "total": 30,
+          "total": 31,
           "done": 2,
-          "failed": 10
+          "failed": 11
         }
       },
       "timeline": [
@@ -669,20 +669,20 @@
         {
           "date": "2026-07-21",
           "like": 2,
-          "retweet": 1,
+          "retweet": 2,
           "tweet": 2
         }
       ],
       "campaign": {
         "total": 855,
-        "followed": 471,
-        "remaining": 78,
+        "followed": 472,
+        "remaining": 77,
         "failed": 1,
-        "progress": 55.1,
+        "progress": 55.2,
         "counts": {
           "discovered": 305,
-          "queued": 78,
-          "followed": 471,
+          "queued": 77,
+          "followed": 472,
           "following": 0,
           "skipped": 0,
           "failed": 1
@@ -691,14 +691,14 @@
       "engine": {
         "running": true,
         "total_planned": 18,
-        "pending": 10,
-        "executed": 8,
-        "consecutive_failures": 0,
+        "pending": 8,
+        "executed": 10,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "b3151025-d0cc-4918-a905-97617324eefc",
-          "action_type": "retweet",
+          "id": "5dc61d55-6445-4f73-86ef-06687b2b493c",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-07-21T15:40:58.856734"
+          "scheduled_time": "2026-07-21T16:16:15.122038"
         }
       },
       "campaign_status": {
@@ -724,8 +724,8 @@
         ],
         "counts": {
           "discovered": 305,
-          "queued": 78,
-          "followed": 471,
+          "queued": 77,
+          "followed": 472,
           "skipped": 0,
           "failed": 1
         }
@@ -837,6 +837,49 @@
           "source": "engine"
         }
       ]
+    },
+    {
+      "id": "5c9558b7-d2cf-4038-96f4-b5df31b7f4b5",
+      "username": "TruthSeeker_Awa",
+      "display_name": "",
+      "is_logged_in": true,
+      "is_active": true,
+      "behavior_enabled": false,
+      "campaign_enabled": false,
+      "last_session_check": "2026-07-21T10:23:50.887173",
+      "profile": {
+        "current": {
+          "followers": 0,
+          "following": 0,
+          "tweets": 0
+        },
+        "growth": {},
+        "history": []
+      },
+      "actions_7d": {},
+      "timeline": [],
+      "campaign": {
+        "total": 0,
+        "followed": 0,
+        "remaining": 0,
+        "failed": 0,
+        "progress": 0,
+        "counts": {
+          "discovered": 0,
+          "queued": 0,
+          "followed": 0,
+          "following": 0,
+          "skipped": 0,
+          "failed": 0
+        }
+      },
+      "engine": {
+        "running": false
+      },
+      "campaign_status": {
+        "running": false
+      },
+      "recent": []
     }
   ]
 }
