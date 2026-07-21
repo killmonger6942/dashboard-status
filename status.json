@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-21T11:32:23.709254Z",
+  "generated_at": "2026-07-21T11:57:17.416496Z",
   "refresh_minutes": 30,
   "totals": {
-    "accounts": 5,
-    "logged_in": 3,
-    "active": 5,
+    "accounts": 2,
+    "logged_in": 2,
+    "active": 2,
     "total_followers": 26
   },
   "accounts": [
@@ -213,27 +213,27 @@
       },
       "actions_7d": {
         "follow": {
-          "total": 5,
+          "total": 6,
           "done": 0,
           "failed": 3
         },
         "like": {
-          "total": 118,
+          "total": 133,
           "done": 66,
           "failed": 1
         },
         "reply": {
-          "total": 23,
+          "total": 24,
           "done": 0,
           "failed": 15
         },
         "retweet": {
-          "total": 32,
+          "total": 37,
           "done": 19,
           "failed": 0
         },
         "tweet": {
-          "total": 34,
+          "total": 36,
           "done": 4,
           "failed": 16
         }
@@ -293,15 +293,15 @@
       },
       "engine": {
         "running": true,
-        "total_planned": 17,
+        "total_planned": 24,
         "pending": 6,
-        "executed": 11,
+        "executed": 18,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "7a767893-4569-4b26-8eb8-c45cc44b8883",
-          "action_type": "reply",
+          "id": "90d1f090-1045-4136-8d5e-995d348592b6",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-07-21T20:04:16.050633"
+          "scheduled_time": "2026-07-21T19:57:04.932284"
         }
       },
       "campaign_status": {
@@ -309,9 +309,23 @@
       },
       "recent": [
         {
+          "action_type": "like",
+          "status": "pending",
+          "time": "2026-07-21T21:43:58.419289",
+          "category": null,
+          "source": "engine"
+        },
+        {
           "action_type": "reply",
           "status": "pending",
           "time": "2026-07-21T21:42:25.875427",
+          "category": null,
+          "source": "engine"
+        },
+        {
+          "action_type": "like",
+          "status": "pending",
+          "time": "2026-07-21T21:40:54.916335",
           "category": null,
           "source": "engine"
         },
@@ -340,6 +354,20 @@
           "action_type": "like",
           "status": "pending",
           "time": "2026-07-21T21:15:49.242960",
+          "category": null,
+          "source": "engine"
+        },
+        {
+          "action_type": "like",
+          "status": "pending",
+          "time": "2026-07-21T21:12:19.046797",
+          "category": null,
+          "source": "engine"
+        },
+        {
+          "action_type": "retweet",
+          "status": "pending",
+          "time": "2026-07-21T21:08:05.672183",
           "category": null,
           "source": "engine"
         },
@@ -382,34 +410,6 @@
           "action_type": "retweet",
           "status": "pending",
           "time": "2026-07-21T20:20:14.137203",
-          "category": null,
-          "source": "engine"
-        },
-        {
-          "action_type": "tweet",
-          "status": "pending",
-          "time": "2026-07-21T20:16:23.790497",
-          "category": "hot_take",
-          "source": "engine"
-        },
-        {
-          "action_type": "tweet",
-          "status": "pending",
-          "time": "2026-07-21T20:08:32.524318",
-          "category": "coffee",
-          "source": "engine"
-        },
-        {
-          "action_type": "reply",
-          "status": "pending",
-          "time": "2026-07-21T20:04:16.050633",
-          "category": null,
-          "source": "engine"
-        },
-        {
-          "action_type": "retweet",
-          "status": "pending",
-          "time": "2026-07-21T20:03:57.524318",
           "category": null,
           "source": "engine"
         }
@@ -620,27 +620,27 @@
       },
       "actions_7d": {
         "follow": {
-          "total": 4,
+          "total": 5,
           "done": 0,
           "failed": 0
         },
         "like": {
-          "total": 112,
+          "total": 125,
           "done": 44,
           "failed": 0
         },
         "reply": {
-          "total": 28,
+          "total": 29,
           "done": 0,
           "failed": 9
         },
         "retweet": {
-          "total": 43,
+          "total": 46,
           "done": 14,
           "failed": 0
         },
         "tweet": {
-          "total": 31,
+          "total": 35,
           "done": 2,
           "failed": 11
         }
@@ -690,15 +690,15 @@
       },
       "engine": {
         "running": true,
-        "total_planned": 18,
-        "pending": 5,
-        "executed": 13,
+        "total_planned": 22,
+        "pending": 2,
+        "executed": 20,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "a1d7410b-da37-40e7-98d8-4209b404b581",
-          "action_type": "tweet",
-          "category": "humor",
-          "scheduled_time": "2026-07-21T19:37:50.084204"
+          "id": "1310fbe8-8467-479c-ba4d-ab8b56dc44d4",
+          "action_type": "retweet",
+          "category": null,
+          "scheduled_time": "2026-07-21T20:11:16.244322"
         }
       },
       "campaign_status": {
@@ -776,6 +776,13 @@
         {
           "action_type": "like",
           "status": "pending",
+          "time": "2026-07-21T20:54:06.837128",
+          "category": null,
+          "source": "engine"
+        },
+        {
+          "action_type": "like",
+          "status": "pending",
           "time": "2026-07-21T20:53:11.374320",
           "category": null,
           "source": "engine"
@@ -828,144 +835,8 @@
           "time": "2026-07-21T20:35:18.067342",
           "category": null,
           "source": "engine"
-        },
-        {
-          "action_type": "like",
-          "status": "pending",
-          "time": "2026-07-21T20:28:37.273475",
-          "category": null,
-          "source": "engine"
         }
       ]
-    },
-    {
-      "id": "5c9558b7-d2cf-4038-96f4-b5df31b7f4b5",
-      "username": "TruthSeeker_Awa",
-      "display_name": "",
-      "is_logged_in": true,
-      "is_active": true,
-      "behavior_enabled": false,
-      "campaign_enabled": false,
-      "last_session_check": "2026-07-21T10:23:50.887173",
-      "profile": {
-        "current": {
-          "followers": 0,
-          "following": 0,
-          "tweets": 0
-        },
-        "growth": {},
-        "history": []
-      },
-      "actions_7d": {},
-      "timeline": [],
-      "campaign": {
-        "total": 0,
-        "followed": 0,
-        "remaining": 0,
-        "failed": 0,
-        "progress": 0,
-        "counts": {
-          "discovered": 0,
-          "queued": 0,
-          "followed": 0,
-          "following": 0,
-          "skipped": 0,
-          "failed": 0
-        }
-      },
-      "engine": {
-        "running": false
-      },
-      "campaign_status": {
-        "running": false
-      },
-      "recent": []
-    },
-    {
-      "id": "193eeb87-b775-410a-a46d-a14275d41ad4",
-      "username": "SigmaMindsetcha",
-      "display_name": "",
-      "is_logged_in": false,
-      "is_active": true,
-      "behavior_enabled": false,
-      "campaign_enabled": false,
-      "last_session_check": null,
-      "profile": {
-        "current": {
-          "followers": 0,
-          "following": 0,
-          "tweets": 0
-        },
-        "growth": {},
-        "history": []
-      },
-      "actions_7d": {},
-      "timeline": [],
-      "campaign": {
-        "total": 0,
-        "followed": 0,
-        "remaining": 0,
-        "failed": 0,
-        "progress": 0,
-        "counts": {
-          "discovered": 0,
-          "queued": 0,
-          "followed": 0,
-          "following": 0,
-          "skipped": 0,
-          "failed": 0
-        }
-      },
-      "engine": {
-        "running": false
-      },
-      "campaign_status": {
-        "running": false
-      },
-      "recent": []
-    },
-    {
-      "id": "e5b8765b-ec13-4d75-a069-300a5e9e1af4",
-      "username": "Collapseisnow",
-      "display_name": "",
-      "is_logged_in": false,
-      "is_active": true,
-      "behavior_enabled": false,
-      "campaign_enabled": false,
-      "last_session_check": null,
-      "profile": {
-        "current": {
-          "followers": 0,
-          "following": 0,
-          "tweets": 0
-        },
-        "growth": {},
-        "history": []
-      },
-      "actions_7d": {},
-      "timeline": [],
-      "campaign": {
-        "total": 0,
-        "followed": 0,
-        "remaining": 0,
-        "failed": 0,
-        "progress": 0,
-        "counts": {
-          "discovered": 0,
-          "queued": 0,
-          "followed": 0,
-          "following": 0,
-          "skipped": 0,
-          "failed": 0
-        }
-      },
-      "engine": {
-        "running": false
-      },
-      "campaign_status": {
-        "running": false
-      },
-      "recent": []
     }
   ]
 }
