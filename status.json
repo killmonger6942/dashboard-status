@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T09:52:19.203274Z",
+  "generated_at": "2026-07-22T10:22:19.152717Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -218,7 +218,7 @@
           "failed": 4
         },
         "like": {
-          "total": 143,
+          "total": 141,
           "done": 69,
           "failed": 1
         },
@@ -229,7 +229,7 @@
         },
         "retweet": {
           "total": 42,
-          "done": 21,
+          "done": 22,
           "failed": 0
         },
         "tweet": {
@@ -241,7 +241,7 @@
       "timeline": [
         {
           "date": "2026-07-15",
-          "like": 11,
+          "like": 10,
           "retweet": 2
         },
         {
@@ -277,8 +277,8 @@
         },
         {
           "date": "2026-07-22",
-          "like": 3,
-          "retweet": 2
+          "like": 4,
+          "retweet": 3
         }
       ],
       "campaign": {
@@ -299,14 +299,14 @@
       "engine": {
         "running": true,
         "total_planned": 21,
-        "pending": 14,
-        "executed": 7,
+        "pending": 12,
+        "executed": 9,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "361d306a-c489-405a-be53-b16113e3edd6",
-          "action_type": "retweet",
+          "id": "fe770e46-84d6-405b-9074-84bbb9ecdb7e",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-07-22T15:34:40.953174"
+          "scheduled_time": "2026-07-22T16:06:07.709445"
         }
       },
       "campaign_status": {
@@ -399,14 +399,14 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-22T15:38:06.953174",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-22T15:34:40.953174",
           "category": null,
           "source": "engine"
@@ -631,13 +631,13 @@
         },
         "like": {
           "total": 133,
-          "done": 45,
+          "done": 46,
           "failed": 0
         },
         "reply": {
-          "total": 32,
+          "total": 30,
           "done": 0,
-          "failed": 10
+          "failed": 9
         },
         "retweet": {
           "total": 48,
@@ -674,21 +674,21 @@
         },
         {
           "date": "2026-07-22",
-          "like": 6,
+          "like": 7,
           "retweet": 2,
           "tweet": 2
         }
       ],
       "campaign": {
         "total": 855,
-        "followed": 503,
-        "remaining": 46,
+        "followed": 507,
+        "remaining": 42,
         "failed": 1,
-        "progress": 58.8,
+        "progress": 59.3,
         "counts": {
           "discovered": 305,
-          "queued": 46,
-          "followed": 503,
+          "queued": 42,
+          "followed": 507,
           "following": 0,
           "skipped": 0,
           "failed": 1
@@ -697,14 +697,14 @@
       "engine": {
         "running": true,
         "total_planned": 18,
-        "pending": 8,
-        "executed": 10,
+        "pending": 7,
+        "executed": 11,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "8d3fcb77-9d34-468e-b851-01f141c83255",
+          "id": "9ae2635f-165f-4a60-9d8c-106007a345a5",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-07-22T15:45:11.450378"
+          "scheduled_time": "2026-07-22T16:23:48.401227"
         }
       },
       "campaign_status": {
@@ -730,8 +730,8 @@
         ],
         "counts": {
           "discovered": 305,
-          "queued": 46,
-          "followed": 503,
+          "queued": 42,
+          "followed": 507,
           "skipped": 0,
           "failed": 1
         }
@@ -788,7 +788,7 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-22T15:45:11.450378",
           "category": null,
           "source": "engine"
