@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T10:52:19.193936Z",
+  "generated_at": "2026-07-23T11:22:19.162068Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -683,14 +683,14 @@
       ],
       "campaign": {
         "total": 855,
-        "followed": 528,
-        "remaining": 21,
+        "followed": 530,
+        "remaining": 19,
         "failed": 1,
-        "progress": 61.8,
+        "progress": 62.0,
         "counts": {
           "discovered": 305,
-          "queued": 21,
-          "followed": 528,
+          "queued": 19,
+          "followed": 530,
           "following": 0,
           "skipped": 0,
           "failed": 1
@@ -732,8 +732,8 @@
         ],
         "counts": {
           "discovered": 305,
-          "queued": 21,
-          "followed": 528,
+          "queued": 19,
+          "followed": 530,
           "skipped": 0,
           "failed": 1
         }
@@ -895,13 +895,13 @@
         },
         "like": {
           "total": 44,
-          "done": 21,
+          "done": 22,
           "failed": 0
         },
         "reply": {
           "total": 9,
           "done": 0,
-          "failed": 6
+          "failed": 7
         },
         "retweet": {
           "total": 10,
@@ -929,7 +929,7 @@
         },
         {
           "date": "2026-07-23",
-          "like": 5,
+          "like": 6,
           "tweet": 4
         }
       ],
@@ -951,14 +951,14 @@
       "engine": {
         "running": true,
         "total_planned": 18,
-        "pending": 9,
-        "executed": 9,
-        "consecutive_failures": 0,
+        "pending": 7,
+        "executed": 11,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "2089e0ed-b8c1-4456-8bcc-4b9664907364",
+          "id": "a51b5e6b-b83c-4541-97f4-c6174bcb61a9",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-07-23T16:38:21.227522"
+          "scheduled_time": "2026-07-23T19:38:07.969526"
         }
       },
       "campaign_status": {
@@ -1016,14 +1016,14 @@
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-07-23T16:51:28.524388",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-23T16:38:21.227522",
           "category": null,
           "source": "engine"
