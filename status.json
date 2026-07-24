@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T06:22:19.156736Z",
+  "generated_at": "2026-07-24T06:52:19.176282Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -215,7 +215,7 @@
         "follow": {
           "total": 7,
           "done": 0,
-          "failed": 4
+          "failed": 5
         },
         "like": {
           "total": 129,
@@ -302,14 +302,14 @@
       "engine": {
         "running": true,
         "total_planned": 19,
-        "pending": 13,
-        "executed": 6,
-        "consecutive_failures": 0,
+        "pending": 12,
+        "executed": 7,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "f7939720-584d-4cf4-ab38-ea21832b2ef7",
-          "action_type": "follow",
+          "id": "35866eca-b03b-48da-bd5e-657ac6d4eabd",
+          "action_type": "retweet",
           "category": null,
-          "scheduled_time": "2026-07-24T12:17:17.262591"
+          "scheduled_time": "2026-07-24T12:35:33.374337"
         }
       },
       "campaign_status": {
@@ -402,7 +402,7 @@
         },
         {
           "action_type": "follow",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-07-24T12:17:17.262591",
           "category": null,
           "source": "engine"
@@ -908,7 +908,7 @@
         "reply": {
           "total": 12,
           "done": 0,
-          "failed": 10
+          "failed": 11
         },
         "retweet": {
           "total": 13,
@@ -964,14 +964,14 @@
       "engine": {
         "running": true,
         "total_planned": 26,
-        "pending": 19,
-        "executed": 7,
-        "consecutive_failures": 0,
+        "pending": 18,
+        "executed": 8,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "5e980b76-9654-4e95-bf72-172082ce6c8c",
-          "action_type": "reply",
+          "id": "0c4e95c2-ddbb-42a2-a725-c906b1e7c812",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-07-24T12:21:07.886172"
+          "scheduled_time": "2026-07-24T13:03:43.241770"
         }
       },
       "campaign_status": {
