@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T09:52:19.191038Z",
+  "generated_at": "2026-07-24T10:22:19.176757Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -218,8 +218,8 @@
           "failed": 5
         },
         "like": {
-          "total": 128,
-          "done": 64,
+          "total": 127,
+          "done": 63,
           "failed": 1
         },
         "reply": {
@@ -241,7 +241,7 @@
       "timeline": [
         {
           "date": "2026-07-17",
-          "like": 12,
+          "like": 11,
           "retweet": 4
         },
         {
@@ -634,7 +634,7 @@
         },
         "like": {
           "total": 119,
-          "done": 40,
+          "done": 42,
           "failed": 0
         },
         "reply": {
@@ -643,21 +643,20 @@
           "failed": 11
         },
         "retweet": {
-          "total": 42,
-          "done": 11,
+          "total": 41,
+          "done": 10,
           "failed": 0
         },
         "tweet": {
-          "total": 40,
-          "done": 10,
+          "total": 41,
+          "done": 12,
           "failed": 4
         }
       },
       "timeline": [
         {
           "date": "2026-07-17",
-          "like": 3,
-          "retweet": 1
+          "like": 3
         },
         {
           "date": "2026-07-21",
@@ -679,20 +678,21 @@
         },
         {
           "date": "2026-07-24",
-          "like": 6,
-          "retweet": 2
+          "like": 8,
+          "retweet": 2,
+          "tweet": 2
         }
       ],
       "campaign": {
         "total": 855,
-        "followed": 542,
-        "remaining": 7,
+        "followed": 543,
+        "remaining": 6,
         "failed": 1,
-        "progress": 63.4,
+        "progress": 63.5,
         "counts": {
           "discovered": 305,
-          "queued": 7,
-          "followed": 542,
+          "queued": 6,
+          "followed": 543,
           "following": 0,
           "skipped": 0,
           "failed": 1
@@ -701,14 +701,14 @@
       "engine": {
         "running": true,
         "total_planned": 18,
-        "pending": 9,
-        "executed": 9,
+        "pending": 6,
+        "executed": 12,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "b5933e5a-9a9d-40bb-acd5-6e7f64231619",
-          "action_type": "like",
+          "id": "825c3674-f54f-408b-b411-540d8955eb57",
+          "action_type": "retweet",
           "category": null,
-          "scheduled_time": "2026-07-24T15:35:34.807140"
+          "scheduled_time": "2026-07-24T16:00:07.354660"
         }
       },
       "campaign_status": {
@@ -734,8 +734,8 @@
         ],
         "counts": {
           "discovered": 305,
-          "queued": 7,
-          "followed": 542,
+          "queued": 6,
+          "followed": 543,
           "skipped": 0,
           "failed": 1
         }
@@ -785,21 +785,21 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-24T15:51:59.542098",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-24T15:39:43.807140",
           "category": "humor",
           "source": "engine"
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-24T15:35:34.807140",
           "category": null,
           "source": "engine"
@@ -833,16 +833,16 @@
           "source": "engine"
         },
         {
-          "action_type": "like",
+          "action_type": "tweet",
           "status": "done",
-          "time": "2026-07-24T10:10:13.114727",
+          "time": "2026-07-24T10:10:28.235850",
           "category": null,
-          "source": "engine"
+          "source": "manual"
         },
         {
           "action_type": "like",
           "status": "done",
-          "time": "2026-07-24T09:49:05.789035",
+          "time": "2026-07-24T10:10:13.114727",
           "category": null,
           "source": "engine"
         }
