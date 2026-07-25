@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T02:52:19.156496Z",
+  "generated_at": "2026-07-25T03:22:19.203742Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -629,7 +629,7 @@
         },
         "like": {
           "total": 118,
-          "done": 42,
+          "done": 44,
           "failed": 0
         },
         "reply": {
@@ -639,7 +639,7 @@
         },
         "retweet": {
           "total": 44,
-          "done": 11,
+          "done": 12,
           "failed": 0
         },
         "tweet": {
@@ -672,6 +672,11 @@
           "like": 11,
           "retweet": 3,
           "tweet": 4
+        },
+        {
+          "date": "2026-07-25",
+          "like": 2,
+          "retweet": 1
         }
       ],
       "campaign": {
@@ -692,14 +697,14 @@
       "engine": {
         "running": true,
         "total_planned": 14,
-        "pending": 14,
-        "executed": 0,
+        "pending": 11,
+        "executed": 3,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "de383317-0f7b-461e-95e4-a78b81d990c6",
+          "id": "d72126d8-325c-46c0-b750-0dac5f7ec220",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-07-25T08:23:23.029253"
+          "scheduled_time": "2026-07-25T08:55:47.273656"
         }
       },
       "campaign_status": {
@@ -811,21 +816,21 @@
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-25T08:34:43.001166",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-25T08:26:36.029253",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-25T08:23:23.029253",
           "category": null,
           "source": "engine"
