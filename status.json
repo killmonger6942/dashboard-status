@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T06:52:19.403858Z",
+  "generated_at": "2026-07-27T07:22:19.222282Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -219,17 +219,17 @@
         },
         "like": {
           "total": 134,
-          "done": 66,
+          "done": 68,
           "failed": 1
         },
         "reply": {
           "total": 21,
           "done": 0,
-          "failed": 13
+          "failed": 14
         },
         "retweet": {
           "total": 43,
-          "done": 24,
+          "done": 25,
           "failed": 0
         },
         "tweet": {
@@ -282,8 +282,8 @@
         },
         {
           "date": "2026-07-27",
-          "like": 3,
-          "retweet": 2
+          "like": 5,
+          "retweet": 3
         }
       ],
       "campaign": {
@@ -304,14 +304,14 @@
       "engine": {
         "running": true,
         "total_planned": 24,
-        "pending": 18,
-        "executed": 6,
+        "pending": 14,
+        "executed": 10,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "37689ed6-be89-4e5f-9910-39c1b3210599",
+          "id": "26d8d440-ba5d-4d16-8dba-7ded9e72c362",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-07-27T12:38:16.601103"
+          "scheduled_time": "2026-07-27T12:57:47.733598"
         }
       },
       "campaign_status": {
@@ -418,7 +418,7 @@
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-27T12:49:25.150601",
           "category": null,
           "source": "engine"
@@ -642,11 +642,11 @@
         "reply": {
           "total": 27,
           "done": 0,
-          "failed": 12
+          "failed": 13
         },
         "retweet": {
           "total": 47,
-          "done": 16,
+          "done": 17,
           "failed": 0
         },
         "tweet": {
@@ -695,6 +695,7 @@
         {
           "date": "2026-07-27",
           "like": 4,
+          "retweet": 1,
           "tweet": 2
         }
       ],
@@ -716,14 +717,14 @@
       "engine": {
         "running": true,
         "total_planned": 17,
-        "pending": 12,
-        "executed": 5,
-        "consecutive_failures": 0,
+        "pending": 10,
+        "executed": 7,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "cc06c98b-c3d2-4cf0-ab7c-9be27a55578e",
+          "id": "730134d7-bb3f-45a7-98a7-d2e5d96d4718",
           "action_type": "retweet",
           "category": null,
-          "scheduled_time": "2026-07-27T12:24:39.328126"
+          "scheduled_time": "2026-07-27T13:14:50.393410"
         }
       },
       "campaign_status": {
@@ -828,14 +829,14 @@
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-07-27T12:37:05.737421",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-27T12:24:39.328126",
           "category": null,
           "source": "engine"
@@ -936,7 +937,7 @@
         },
         "like": {
           "total": 83,
-          "done": 58,
+          "done": 59,
           "failed": 0
         },
         "reply": {
@@ -994,7 +995,7 @@
         },
         {
           "date": "2026-07-27",
-          "like": 2,
+          "like": 3,
           "retweet": 1
         }
       ],
@@ -1016,14 +1017,14 @@
       "engine": {
         "running": true,
         "total_planned": 20,
-        "pending": 16,
-        "executed": 4,
+        "pending": 15,
+        "executed": 5,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "187a99c4-fd94-4163-a959-248c60deac23",
-          "action_type": "like",
-          "category": null,
-          "scheduled_time": "2026-07-27T12:44:33.943803"
+          "id": "aeabd4f8-4e6c-404c-a8d4-5c1e427fa0d5",
+          "action_type": "tweet",
+          "category": "daily_life",
+          "scheduled_time": "2026-07-27T13:01:41.034591"
         }
       },
       "campaign_status": {
