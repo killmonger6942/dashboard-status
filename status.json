@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T02:52:19.168073Z",
+  "generated_at": "2026-07-29T03:22:19.190540Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -642,7 +642,7 @@
         },
         "retweet": {
           "total": 21,
-          "done": 18,
+          "done": 19,
           "failed": 0
         },
         "tweet": {
@@ -693,6 +693,10 @@
           "like": 11,
           "retweet": 2,
           "tweet": 8
+        },
+        {
+          "date": "2026-07-29",
+          "retweet": 1
         }
       ],
       "campaign": {
@@ -713,14 +717,14 @@
       "engine": {
         "running": true,
         "total_planned": 20,
-        "pending": 19,
-        "executed": 1,
-        "consecutive_failures": 2,
+        "pending": 18,
+        "executed": 2,
+        "consecutive_failures": 0,
         "next_action": {
-          "id": "c0e8bbf8-5a08-4d3b-ac40-ddb53dd26dd7",
-          "action_type": "retweet",
+          "id": "3de297c0-0f58-4859-b190-d2fb274a2c38",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-07-29T08:42:35.542062"
+          "scheduled_time": "2026-07-29T09:03:27.282084"
         }
       },
       "campaign_status": {
@@ -941,7 +945,7 @@
         "follow": {
           "total": 6,
           "done": 0,
-          "failed": 5
+          "failed": 6
         },
         "like": {
           "total": 85,
@@ -1026,14 +1030,14 @@
       "engine": {
         "running": true,
         "total_planned": 25,
-        "pending": 25,
-        "executed": 0,
-        "consecutive_failures": 0,
+        "pending": 24,
+        "executed": 1,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "2a0271f6-0602-49c7-973a-7d0c538487f2",
-          "action_type": "follow",
+          "id": "e075206d-e1f0-4443-8168-118c73f8db6b",
+          "action_type": "retweet",
           "category": null,
-          "scheduled_time": "2026-07-29T08:50:12.381463"
+          "scheduled_time": "2026-07-29T08:55:02.381463"
         }
       },
       "campaign_status": {
