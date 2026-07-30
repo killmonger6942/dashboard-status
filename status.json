@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T02:52:19.161448Z",
+  "generated_at": "2026-07-30T03:22:19.165528Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -969,12 +969,12 @@
         },
         "retweet": {
           "total": 25,
-          "done": 22,
+          "done": 23,
           "failed": 0
         },
         "tweet": {
-          "total": 47,
-          "done": 44,
+          "total": 48,
+          "done": 47,
           "failed": 1
         }
       },
@@ -983,7 +983,7 @@
           "date": "2026-07-23",
           "like": 10,
           "retweet": 2,
-          "tweet": 4
+          "tweet": 3
         },
         {
           "date": "2026-07-24",
@@ -1023,7 +1023,8 @@
         },
         {
           "date": "2026-07-30",
-          "tweet": 4
+          "retweet": 1,
+          "tweet": 8
         }
       ],
       "campaign": {
@@ -1044,14 +1045,14 @@
       "engine": {
         "running": true,
         "total_planned": 17,
-        "pending": 15,
-        "executed": 2,
+        "pending": 12,
+        "executed": 5,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "7424efb1-2957-44c4-86cf-8901f1f82315",
-          "action_type": "tweet",
-          "category": "hot_take",
-          "scheduled_time": "2026-07-30T08:27:01.703005"
+          "id": "f6ecf7fd-9e6f-454e-832f-577c90aec7d8",
+          "action_type": "like",
+          "category": null,
+          "scheduled_time": "2026-07-30T12:10:15.578468"
         }
       },
       "campaign_status": {
@@ -1144,21 +1145,21 @@
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-30T08:43:32.805479",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-30T08:32:15.527822",
           "category": "nostalgia",
           "source": "engine"
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-07-30T08:27:01.703005",
           "category": "hot_take",
           "source": "engine"
