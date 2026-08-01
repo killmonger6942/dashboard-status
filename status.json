@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T09:52:19.147786Z",
+  "generated_at": "2026-08-01T10:22:19.142209Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -228,8 +228,8 @@
           "failed": 9
         },
         "retweet": {
-          "total": 25,
-          "done": 23,
+          "total": 24,
+          "done": 22,
           "failed": 1
         },
         "tweet": {
@@ -242,7 +242,7 @@
         {
           "date": "2026-07-25",
           "like": 7,
-          "retweet": 2,
+          "retweet": 1,
           "tweet": 4
         },
         {
@@ -637,7 +637,7 @@
           "failed": 5
         },
         "like": {
-          "total": 78,
+          "total": 77,
           "done": 76,
           "failed": 0
         },
@@ -660,7 +660,7 @@
       "timeline": [
         {
           "date": "2026-07-25",
-          "like": 4,
+          "like": 3,
           "retweet": 2,
           "tweet": 1
         },
@@ -702,7 +702,7 @@
         },
         {
           "date": "2026-08-01",
-          "like": 5,
+          "like": 6,
           "retweet": 1,
           "tweet": 2
         }
@@ -725,14 +725,14 @@
       "engine": {
         "running": true,
         "total_planned": 11,
-        "pending": 4,
-        "executed": 7,
+        "pending": 3,
+        "executed": 8,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "6fdaca92-5c81-440d-bd95-295b754ff8bd",
-          "action_type": "like",
+          "id": "8901f1dc-9058-4c63-b262-a5c5f99b7c41",
+          "action_type": "reply",
           "category": null,
-          "scheduled_time": "2026-08-01T15:43:22.364317"
+          "scheduled_time": "2026-08-01T16:04:54.612650"
         }
       },
       "campaign_status": {
@@ -788,7 +788,7 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-01T15:43:22.364317",
           "category": null,
           "source": "engine"
@@ -989,8 +989,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 42,
-          "done": 40,
+          "total": 43,
+          "done": 42,
           "failed": 1
         }
       },
@@ -1040,7 +1040,8 @@
         {
           "date": "2026-08-01",
           "like": 4,
-          "retweet": 1
+          "retweet": 1,
+          "tweet": 2
         }
       ],
       "campaign": {
@@ -1061,14 +1062,14 @@
       "engine": {
         "running": true,
         "total_planned": 13,
-        "pending": 6,
-        "executed": 7,
+        "pending": 5,
+        "executed": 8,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "257e29b7-ac64-4daa-bb42-ad2757f5ae03",
-          "action_type": "tweet",
-          "category": "meta",
-          "scheduled_time": "2026-08-01T15:36:21.061167"
+          "id": "2a853cab-6b78-453f-8976-3f96fecac5c3",
+          "action_type": "like",
+          "category": null,
+          "scheduled_time": "2026-08-01T16:11:15.777792"
         }
       },
       "campaign_status": {
@@ -1112,7 +1113,7 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-01T15:36:21.061167",
           "category": "meta",
           "source": "engine"
@@ -1153,6 +1154,13 @@
           "source": "engine"
         },
         {
+          "action_type": "tweet",
+          "status": "done",
+          "time": "2026-08-01T10:07:03.702424",
+          "category": null,
+          "source": "manual"
+        },
+        {
           "action_type": "like",
           "status": "done",
           "time": "2026-08-01T10:02:27.014320",
@@ -1171,13 +1179,6 @@
           "status": "failed",
           "time": "2026-07-31T21:16:56.424461",
           "category": null,
-          "source": "engine"
-        },
-        {
-          "action_type": "tweet",
-          "status": "done",
-          "time": "2026-07-31T20:09:59.874321",
-          "category": "question",
           "source": "engine"
         }
       ]
