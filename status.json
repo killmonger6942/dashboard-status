@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T10:22:19.142209Z",
+  "generated_at": "2026-08-01T10:52:19.173085Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -219,13 +219,13 @@
         },
         "like": {
           "total": 92,
-          "done": 85,
+          "done": 86,
           "failed": 0
         },
         "reply": {
           "total": 10,
           "done": 0,
-          "failed": 9
+          "failed": 10
         },
         "retweet": {
           "total": 24,
@@ -283,7 +283,7 @@
         },
         {
           "date": "2026-08-01",
-          "like": 1,
+          "like": 2,
           "retweet": 1,
           "tweet": 2
         }
@@ -306,14 +306,14 @@
       "engine": {
         "running": true,
         "total_planned": 14,
-        "pending": 10,
-        "executed": 4,
-        "consecutive_failures": 0,
+        "pending": 8,
+        "executed": 6,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "92a740c9-b9ca-4015-a447-1aa6a3ed3632",
+          "id": "e9cd3ae2-2593-4794-8d6d-6ed06f953308",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-08-01T15:53:04.679080"
+          "scheduled_time": "2026-08-01T16:23:08.560392"
         }
       },
       "campaign_status": {
@@ -378,14 +378,14 @@
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-08-01T16:01:39.208356",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-01T15:53:04.679080",
           "category": null,
           "source": "engine"
@@ -644,7 +644,7 @@
         "reply": {
           "total": 14,
           "done": 0,
-          "failed": 13
+          "failed": 14
         },
         "retweet": {
           "total": 21,
@@ -725,14 +725,14 @@
       "engine": {
         "running": true,
         "total_planned": 11,
-        "pending": 3,
-        "executed": 8,
-        "consecutive_failures": 0,
+        "pending": 2,
+        "executed": 9,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "8901f1dc-9058-4c63-b262-a5c5f99b7c41",
-          "action_type": "reply",
+          "id": "6f89584d-5cc8-43a9-8486-bffec58fa47a",
+          "action_type": "retweet",
           "category": null,
-          "scheduled_time": "2026-08-01T16:04:54.612650"
+          "scheduled_time": "2026-08-01T17:16:21.127814"
         }
       },
       "campaign_status": {
@@ -781,7 +781,7 @@
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-08-01T16:04:54.612650",
           "category": null,
           "source": "engine"
@@ -975,7 +975,7 @@
         },
         "like": {
           "total": 79,
-          "done": 74,
+          "done": 75,
           "failed": 0
         },
         "reply": {
@@ -1039,7 +1039,7 @@
         },
         {
           "date": "2026-08-01",
-          "like": 4,
+          "like": 5,
           "retweet": 1,
           "tweet": 2
         }
@@ -1062,14 +1062,14 @@
       "engine": {
         "running": true,
         "total_planned": 13,
-        "pending": 5,
-        "executed": 8,
+        "pending": 4,
+        "executed": 9,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "2a853cab-6b78-453f-8976-3f96fecac5c3",
+          "id": "7d63b53d-a8b2-486f-9168-47f5b4ec82dd",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-08-01T16:11:15.777792"
+          "scheduled_time": "2026-08-01T16:40:19.842215"
         }
       },
       "campaign_status": {
@@ -1106,7 +1106,7 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-01T16:11:15.777792",
           "category": null,
           "source": "engine"
