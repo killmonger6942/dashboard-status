@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T14:22:19.201028Z",
+  "generated_at": "2026-08-02T14:52:19.210977Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -647,8 +647,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 39,
-          "done": 38,
+          "total": 38,
+          "done": 37,
           "failed": 0
         }
       },
@@ -657,7 +657,7 @@
           "date": "2026-07-26",
           "like": 3,
           "retweet": 2,
-          "tweet": 4
+          "tweet": 3
         },
         {
           "date": "2026-07-27",
@@ -990,8 +990,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 39,
-          "done": 36,
+          "total": 40,
+          "done": 38,
           "failed": 1
         }
       },
@@ -1040,7 +1040,8 @@
         {
           "date": "2026-08-02",
           "like": 8,
-          "retweet": 2
+          "retweet": 2,
+          "tweet": 2
         }
       ],
       "campaign": {
@@ -1061,14 +1062,14 @@
       "engine": {
         "running": true,
         "total_planned": 14,
-        "pending": 2,
-        "executed": 12,
-        "consecutive_failures": 1,
+        "pending": 1,
+        "executed": 13,
+        "consecutive_failures": 0,
         "next_action": {
-          "id": "1b3586d6-d55b-4637-a261-a6251fa67f95",
+          "id": "33c30df6-ff44-4851-963b-7c559a109ac4",
           "action_type": "tweet",
-          "category": "personal_experience",
-          "scheduled_time": "2026-08-02T19:57:34.457111"
+          "category": "hobby",
+          "scheduled_time": "2026-08-02T21:33:59.181628"
         }
       },
       "campaign_status": {
@@ -1084,7 +1085,7 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-02T19:57:34.457111",
           "category": "personal_experience",
           "source": "engine"
@@ -1109,6 +1110,13 @@
           "time": "2026-08-02T16:13:55.698453",
           "category": null,
           "source": "engine"
+        },
+        {
+          "action_type": "tweet",
+          "status": "done",
+          "time": "2026-08-02T14:28:21.023402",
+          "category": null,
+          "source": "manual"
         },
         {
           "action_type": "like",
@@ -1170,13 +1178,6 @@
           "action_type": "reply",
           "status": "failed",
           "time": "2026-08-02T08:37:43.713932",
-          "category": null,
-          "source": "engine"
-        },
-        {
-          "action_type": "like",
-          "status": "done",
-          "time": "2026-08-01T21:06:59.349041",
           "category": null,
           "source": "engine"
         }
