@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T14:52:19.210977Z",
+  "generated_at": "2026-08-02T15:22:19.200993Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -647,8 +647,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 38,
-          "done": 37,
+          "total": 39,
+          "done": 39,
           "failed": 0
         }
       },
@@ -699,7 +699,7 @@
           "date": "2026-08-02",
           "like": 8,
           "retweet": 2,
-          "tweet": 2
+          "tweet": 4
         }
       ],
       "campaign": {
@@ -720,14 +720,14 @@
       "engine": {
         "running": true,
         "total_planned": 14,
-        "pending": 2,
-        "executed": 12,
+        "pending": 1,
+        "executed": 13,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "47d3cd26-0770-428c-887b-50d7063fe846",
-          "action_type": "tweet",
-          "category": "humor",
-          "scheduled_time": "2026-08-02T20:32:29.389631"
+          "id": "63c815a5-c3e1-4a3d-9edc-d581e1aeffe3",
+          "action_type": "retweet",
+          "category": null,
+          "scheduled_time": "2026-08-02T21:34:11.130223"
         }
       },
       "campaign_status": {
@@ -769,7 +769,7 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-02T20:32:29.389631",
           "category": "humor",
           "source": "engine"
@@ -794,6 +794,13 @@
           "time": "2026-08-02T16:08:11.731154",
           "category": null,
           "source": "engine"
+        },
+        {
+          "action_type": "tweet",
+          "status": "done",
+          "time": "2026-08-02T15:03:09.948812",
+          "category": null,
+          "source": "manual"
         },
         {
           "action_type": "retweet",
@@ -857,13 +864,6 @@
           "time": "2026-08-02T08:17:51.594916",
           "category": "question",
           "source": "engine"
-        },
-        {
-          "action_type": "tweet",
-          "status": "done",
-          "time": "2026-08-02T02:48:38.739808",
-          "category": null,
-          "source": "manual"
         }
       ]
     },
