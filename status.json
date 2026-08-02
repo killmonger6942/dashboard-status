@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T13:52:19.208536Z",
+  "generated_at": "2026-08-02T14:22:19.201028Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -643,7 +643,7 @@
         },
         "retweet": {
           "total": 22,
-          "done": 20,
+          "done": 21,
           "failed": 0
         },
         "tweet": {
@@ -698,7 +698,7 @@
         {
           "date": "2026-08-02",
           "like": 8,
-          "retweet": 1,
+          "retweet": 2,
           "tweet": 2
         }
       ],
@@ -720,14 +720,14 @@
       "engine": {
         "running": true,
         "total_planned": 14,
-        "pending": 3,
-        "executed": 11,
+        "pending": 2,
+        "executed": 12,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "dc5f1bbf-a80b-4235-800c-96322633bc6c",
-          "action_type": "retweet",
-          "category": null,
-          "scheduled_time": "2026-08-02T19:46:40.677200"
+          "id": "47d3cd26-0770-428c-887b-50d7063fe846",
+          "action_type": "tweet",
+          "category": "humor",
+          "scheduled_time": "2026-08-02T20:32:29.389631"
         }
       },
       "campaign_status": {
@@ -776,7 +776,7 @@
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-02T19:46:40.677200",
           "category": null,
           "source": "engine"
