@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T10:52:19.265814Z",
+  "generated_at": "2026-08-04T11:22:19.202600Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -234,7 +234,7 @@
         },
         "tweet": {
           "total": 39,
-          "done": 36,
+          "done": 37,
           "failed": 0
         }
       },
@@ -243,7 +243,7 @@
           "date": "2026-07-28",
           "like": 9,
           "retweet": 2,
-          "tweet": 2
+          "tweet": 1
         },
         {
           "date": "2026-07-29",
@@ -285,7 +285,7 @@
           "date": "2026-08-04",
           "like": 8,
           "retweet": 3,
-          "tweet": 2
+          "tweet": 4
         }
       ],
       "campaign": {
@@ -306,14 +306,14 @@
       "engine": {
         "running": true,
         "total_planned": 21,
-        "pending": 8,
-        "executed": 13,
+        "pending": 7,
+        "executed": 14,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "802479c4-6ae4-47c5-9776-5545be774fcb",
+          "id": "60c27475-f8e7-4f15-8748-2a6c38a9d7d3",
           "action_type": "tweet",
-          "category": "tip",
-          "scheduled_time": "2026-08-04T16:25:05.054676"
+          "category": "coffee",
+          "scheduled_time": "2026-08-04T16:53:38.907259"
         }
       },
       "campaign_status": {
@@ -371,7 +371,7 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-04T16:25:05.054676",
           "category": "tip",
           "source": "engine"
@@ -412,17 +412,17 @@
           "source": "engine"
         },
         {
+          "action_type": "tweet",
+          "status": "done",
+          "time": "2026-08-04T10:56:00.625264",
+          "category": null,
+          "source": "manual"
+        },
+        {
           "action_type": "retweet",
           "status": "done",
           "time": "2026-08-04T09:57:16.291679",
           "category": null,
-          "source": "engine"
-        },
-        {
-          "action_type": "tweet",
-          "status": "done",
-          "time": "2026-08-04T09:39:22.170071",
-          "category": "relatable",
           "source": "engine"
         }
       ]
@@ -652,8 +652,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 41,
-          "done": 39,
+          "total": 40,
+          "done": 38,
           "failed": 0
         }
       },
@@ -662,7 +662,7 @@
           "date": "2026-07-28",
           "like": 8,
           "retweet": 1,
-          "tweet": 7
+          "tweet": 6
         },
         {
           "date": "2026-07-29",
