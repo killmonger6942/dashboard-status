@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T09:52:19.155044Z",
+  "generated_at": "2026-08-05T10:22:19.193772Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -218,8 +218,8 @@
           "failed": 2
         },
         "like": {
-          "total": 93,
-          "done": 86,
+          "total": 91,
+          "done": 85,
           "failed": 0
         },
         "reply": {
@@ -233,17 +233,17 @@
           "failed": 1
         },
         "tweet": {
-          "total": 45,
-          "done": 44,
+          "total": 44,
+          "done": 43,
           "failed": 0
         }
       },
       "timeline": [
         {
           "date": "2026-07-29",
-          "like": 12,
+          "like": 10,
           "retweet": 1,
-          "tweet": 6
+          "tweet": 5
         },
         {
           "date": "2026-07-30",
@@ -283,7 +283,7 @@
         },
         {
           "date": "2026-08-05",
-          "like": 5,
+          "like": 6,
           "retweet": 1,
           "tweet": 4
         }
@@ -306,14 +306,14 @@
       "engine": {
         "running": true,
         "total_planned": 20,
-        "pending": 10,
-        "executed": 10,
+        "pending": 9,
+        "executed": 11,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "4d345312-bf23-4441-a2e9-e96591b67d9e",
+          "id": "f3f4d685-fcf7-4b42-b00a-dc4313dceb77",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-08-05T15:31:42.989667"
+          "scheduled_time": "2026-08-05T16:21:14.789079"
         }
       },
       "campaign_status": {
@@ -385,7 +385,7 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-05T15:31:42.989667",
           "category": null,
           "source": "engine"
@@ -637,7 +637,7 @@
           "failed": 4
         },
         "like": {
-          "total": 86,
+          "total": 85,
           "done": 83,
           "failed": 0
         },
@@ -653,16 +653,16 @@
         },
         "tweet": {
           "total": 38,
-          "done": 37,
+          "done": 38,
           "failed": 0
         }
       },
       "timeline": [
         {
           "date": "2026-07-29",
-          "like": 11,
+          "like": 10,
           "retweet": 2,
-          "tweet": 3
+          "tweet": 2
         },
         {
           "date": "2026-07-30",
@@ -702,9 +702,9 @@
         },
         {
           "date": "2026-08-05",
-          "like": 10,
+          "like": 11,
           "retweet": 2,
-          "tweet": 2
+          "tweet": 4
         }
       ],
       "campaign": {
@@ -725,14 +725,14 @@
       "engine": {
         "running": true,
         "total_planned": 21,
-        "pending": 6,
-        "executed": 15,
+        "pending": 4,
+        "executed": 17,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "74f025b9-971f-4da6-a120-5855fd5876bc",
-          "action_type": "like",
+          "id": "dced4b5d-611c-4107-ad10-d37bb5cc0522",
+          "action_type": "retweet",
           "category": null,
-          "scheduled_time": "2026-08-05T15:33:53.515334"
+          "scheduled_time": "2026-08-05T16:24:28.525350"
         }
       },
       "campaign_status": {
@@ -795,14 +795,14 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-05T15:50:49.731671",
           "category": "internet_take",
           "source": "engine"
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-05T15:33:53.515334",
           "category": null,
           "source": "engine"
@@ -850,6 +850,13 @@
           "source": "engine"
         },
         {
+          "action_type": "tweet",
+          "status": "done",
+          "time": "2026-08-05T10:21:31.287974",
+          "category": null,
+          "source": "manual"
+        },
+        {
           "action_type": "like",
           "status": "done",
           "time": "2026-08-05T10:00:04.014461",
@@ -860,13 +867,6 @@
           "action_type": "like",
           "status": "done",
           "time": "2026-08-05T09:54:47.052762",
-          "category": null,
-          "source": "engine"
-        },
-        {
-          "action_type": "reply",
-          "status": "failed",
-          "time": "2026-08-05T09:49:52.386641",
           "category": null,
           "source": "engine"
         }
@@ -999,7 +999,7 @@
         },
         "like": {
           "total": 77,
-          "done": 71,
+          "done": 72,
           "failed": 0
         },
         "reply": {
@@ -1009,7 +1009,7 @@
         },
         "retweet": {
           "total": 27,
-          "done": 25,
+          "done": 26,
           "failed": 0
         },
         "tweet": {
@@ -1063,8 +1063,8 @@
         },
         {
           "date": "2026-08-05",
-          "like": 6,
-          "retweet": 2
+          "like": 7,
+          "retweet": 3
         }
       ],
       "campaign": {
@@ -1085,14 +1085,14 @@
       "engine": {
         "running": true,
         "total_planned": 19,
-        "pending": 11,
-        "executed": 8,
+        "pending": 9,
+        "executed": 10,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "3d50b7b4-2a61-43b7-81b5-dd0d05263a73",
+          "id": "081cba2f-2795-421e-9429-36044323494d",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-08-05T15:36:19.031354"
+          "scheduled_time": "2026-08-05T16:08:25.123884"
         }
       },
       "campaign_status": {
@@ -1164,14 +1164,14 @@
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-05T15:41:12.031354",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-05T15:36:19.031354",
           "category": null,
           "source": "engine"
