@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T06:22:19.157658Z",
+  "generated_at": "2026-08-06T06:52:19.154926Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -229,7 +229,7 @@
         },
         "retweet": {
           "total": 23,
-          "done": 18,
+          "done": 19,
           "failed": 1
         },
         "tweet": {
@@ -283,7 +283,8 @@
         },
         {
           "date": "2026-08-06",
-          "like": 2
+          "like": 2,
+          "retweet": 1
         }
       ],
       "campaign": {
@@ -304,14 +305,14 @@
       "engine": {
         "running": true,
         "total_planned": 26,
-        "pending": 22,
-        "executed": 4,
-        "consecutive_failures": 1,
+        "pending": 21,
+        "executed": 5,
+        "consecutive_failures": 0,
         "next_action": {
-          "id": "82bb2f00-f497-4f11-a927-d58e8c082c4a",
-          "action_type": "retweet",
+          "id": "8e1f7b03-f65a-4435-b4c7-00c52a5126ac",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-08-06T12:05:23.151205"
+          "scheduled_time": "2026-08-06T12:35:48.250683"
         }
       },
       "campaign_status": {
@@ -1017,8 +1018,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 36,
-          "done": 34,
+          "total": 38,
+          "done": 36,
           "failed": 0
         }
       },
@@ -1068,7 +1069,7 @@
         {
           "date": "2026-08-06",
           "like": 3,
-          "tweet": 2
+          "tweet": 4
         }
       ],
       "campaign": {
@@ -1089,14 +1090,14 @@
       "engine": {
         "running": true,
         "total_planned": 18,
-        "pending": 13,
-        "executed": 5,
+        "pending": 11,
+        "executed": 7,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "d9b8861b-9378-4773-ae66-97222ecc57aa",
-          "action_type": "tweet",
-          "category": "question",
-          "scheduled_time": "2026-08-06T12:03:53.426941"
+          "id": "08647923-a861-4e9c-b837-2268ffa7907c",
+          "action_type": "retweet",
+          "category": null,
+          "scheduled_time": "2026-08-06T12:50:09.846831"
         }
       },
       "campaign_status": {
@@ -1182,14 +1183,14 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "executing",
           "time": "2026-08-06T12:21:54.831655",
           "category": "hobby",
           "source": "engine"
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-06T12:03:53.426941",
           "category": "question",
           "source": "engine"
