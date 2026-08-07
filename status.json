@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T10:52:19.223781Z",
+  "generated_at": "2026-08-07T11:22:19.203408Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -219,7 +219,7 @@
         },
         "like": {
           "total": 90,
-          "done": 88,
+          "done": 89,
           "failed": 0
         },
         "reply": {
@@ -233,8 +233,8 @@
           "failed": 1
         },
         "tweet": {
-          "total": 38,
-          "done": 36,
+          "total": 39,
+          "done": 38,
           "failed": 0
         }
       },
@@ -283,8 +283,9 @@
         },
         {
           "date": "2026-08-07",
-          "like": 7,
-          "retweet": 3
+          "like": 8,
+          "retweet": 3,
+          "tweet": 2
         }
       ],
       "campaign": {
@@ -305,14 +306,14 @@
       "engine": {
         "running": true,
         "total_planned": 16,
-        "pending": 5,
-        "executed": 11,
+        "pending": 3,
+        "executed": 13,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "d4b3ce90-fad3-4186-b0a9-6eeecd9e34a1",
-          "action_type": "like",
-          "category": null,
-          "scheduled_time": "2026-08-07T16:41:59.881759"
+          "id": "f11c805d-aa5a-4cd5-9d68-a090ac89a5cb",
+          "action_type": "tweet",
+          "category": "bangalore",
+          "scheduled_time": "2026-08-07T20:25:26.904191"
         }
       },
       "campaign_status": {
@@ -342,14 +343,14 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-07T16:45:12.648358",
           "category": "media",
           "source": "engine"
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-07T16:41:59.881759",
           "category": null,
           "source": "engine"
@@ -411,16 +412,16 @@
           "source": "engine"
         },
         {
-          "action_type": "like",
+          "action_type": "tweet",
           "status": "done",
-          "time": "2026-08-07T08:45:07.524142",
+          "time": "2026-08-07T11:15:59.657097",
           "category": null,
-          "source": "engine"
+          "source": "manual"
         },
         {
           "action_type": "like",
           "status": "done",
-          "time": "2026-08-07T08:16:57.173642",
+          "time": "2026-08-07T08:45:07.524142",
           "category": null,
           "source": "engine"
         }
