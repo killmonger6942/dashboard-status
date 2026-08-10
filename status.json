@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T02:52:19.161142Z",
+  "generated_at": "2026-08-10T03:22:19.170950Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -215,11 +215,11 @@
         "follow": {
           "total": 5,
           "done": 0,
-          "failed": 4
+          "failed": 5
         },
         "like": {
           "total": 88,
-          "done": 78,
+          "done": 79,
           "failed": 1
         },
         "reply": {
@@ -233,8 +233,8 @@
           "failed": 1
         },
         "tweet": {
-          "total": 41,
-          "done": 37,
+          "total": 38,
+          "done": 34,
           "failed": 0
         }
       },
@@ -243,7 +243,7 @@
           "date": "2026-08-03",
           "like": 15,
           "retweet": 2,
-          "tweet": 7
+          "tweet": 4
         },
         {
           "date": "2026-08-04",
@@ -280,6 +280,10 @@
           "like": 8,
           "retweet": 2,
           "tweet": 4
+        },
+        {
+          "date": "2026-08-10",
+          "like": 1
         }
       ],
       "campaign": {
@@ -300,14 +304,14 @@
       "engine": {
         "running": true,
         "total_planned": 21,
-        "pending": 21,
-        "executed": 0,
-        "consecutive_failures": 0,
+        "pending": 19,
+        "executed": 2,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "d87c9391-2897-4270-bf2d-9764bb892825",
-          "action_type": "like",
-          "category": null,
-          "scheduled_time": "2026-08-10T08:37:17.110507"
+          "id": "a82bdafa-76ac-42a1-85fe-2b00d3eced68",
+          "action_type": "tweet",
+          "category": "personal_experience",
+          "scheduled_time": "2026-08-10T08:55:34.402636"
         }
       },
       "campaign_status": {
@@ -646,8 +650,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 43,
-          "done": 41,
+          "total": 42,
+          "done": 40,
           "failed": 0
         }
       },
@@ -656,7 +660,7 @@
           "date": "2026-08-03",
           "like": 10,
           "retweet": 3,
-          "tweet": 7
+          "tweet": 6
         },
         {
           "date": "2026-08-04",
