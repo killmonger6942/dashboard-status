@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T15:52:19.160268Z",
+  "generated_at": "2026-08-10T16:22:19.902442Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -218,8 +218,8 @@
           "failed": 5
         },
         "like": {
-          "total": 84,
-          "done": 83,
+          "total": 83,
+          "done": 82,
           "failed": 1
         },
         "reply": {
@@ -229,7 +229,7 @@
         },
         "retweet": {
           "total": 24,
-          "done": 22,
+          "done": 23,
           "failed": 1
         },
         "tweet": {
@@ -241,7 +241,7 @@
       "timeline": [
         {
           "date": "2026-08-03",
-          "like": 11,
+          "like": 10,
           "retweet": 1
         },
         {
@@ -283,7 +283,7 @@
         {
           "date": "2026-08-10",
           "like": 9,
-          "retweet": 4,
+          "retweet": 5,
           "tweet": 8
         }
       ],
@@ -305,15 +305,10 @@
       "engine": {
         "running": true,
         "total_planned": 21,
-        "pending": 1,
-        "executed": 20,
+        "pending": 0,
+        "executed": 21,
         "consecutive_failures": 0,
-        "next_action": {
-          "id": "4172392d-1a6b-4b7b-af94-bd97840a03c5",
-          "action_type": "retweet",
-          "category": null,
-          "scheduled_time": "2026-08-10T21:44:47.951337"
-        }
+        "next_action": null
       },
       "campaign_status": {
         "running": false
@@ -321,7 +316,7 @@
       "recent": [
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-10T21:44:47.951337",
           "category": null,
           "source": "engine"
@@ -636,7 +631,7 @@
           "failed": 5
         },
         "like": {
-          "total": 61,
+          "total": 60,
           "done": 60,
           "failed": 0
         },
@@ -647,7 +642,7 @@
         },
         "retweet": {
           "total": 25,
-          "done": 24,
+          "done": 25,
           "failed": 0
         },
         "tweet": {
@@ -659,7 +654,7 @@
       "timeline": [
         {
           "date": "2026-08-03",
-          "like": 3,
+          "like": 2,
           "retweet": 2,
           "tweet": 1
         },
@@ -701,8 +696,8 @@
         },
         {
           "date": "2026-08-10",
-          "like": 8,
-          "retweet": 3,
+          "like": 9,
+          "retweet": 4,
           "tweet": 4
         }
       ],
@@ -724,15 +719,10 @@
       "engine": {
         "running": true,
         "total_planned": 19,
-        "pending": 2,
-        "executed": 17,
+        "pending": 0,
+        "executed": 19,
         "consecutive_failures": 0,
-        "next_action": {
-          "id": "07b91737-8d45-4e4c-bd84-cfb83433059b",
-          "action_type": "retweet",
-          "category": null,
-          "scheduled_time": "2026-08-10T21:31:31.643990"
-        }
+        "next_action": null
       },
       "campaign_status": {
         "running": false,
@@ -766,14 +756,14 @@
       "recent": [
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-10T21:40:24.751880",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-10T21:31:31.643990",
           "category": null,
           "source": "engine"
@@ -1027,8 +1017,8 @@
           "failed": 4
         },
         "like": {
-          "total": 68,
-          "done": 68,
+          "total": 67,
+          "done": 67,
           "failed": 0
         },
         "reply": {
@@ -1042,17 +1032,16 @@
           "failed": 0
         },
         "tweet": {
-          "total": 37,
-          "done": 37,
+          "total": 36,
+          "done": 36,
           "failed": 0
         }
       },
       "timeline": [
         {
           "date": "2026-08-03",
-          "like": 4,
-          "retweet": 5,
-          "tweet": 1
+          "like": 3,
+          "retweet": 5
         },
         {
           "date": "2026-08-04",
