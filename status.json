@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T09:52:19.219484Z",
+  "generated_at": "2026-08-11T10:22:19.160787Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -228,8 +228,8 @@
           "failed": 12
         },
         "retweet": {
-          "total": 25,
-          "done": 23,
+          "total": 24,
+          "done": 22,
           "failed": 1
         },
         "tweet": {
@@ -242,7 +242,7 @@
         {
           "date": "2026-08-04",
           "like": 7,
-          "retweet": 2,
+          "retweet": 1,
           "tweet": 6
         },
         {
@@ -1034,13 +1034,13 @@
         },
         "like": {
           "total": 71,
-          "done": 69,
+          "done": 70,
           "failed": 0
         },
         "reply": {
           "total": 16,
           "done": 0,
-          "failed": 15
+          "failed": 16
         },
         "retweet": {
           "total": 26,
@@ -1098,7 +1098,7 @@
         },
         {
           "date": "2026-08-11",
-          "like": 9,
+          "like": 10,
           "retweet": 3,
           "tweet": 4
         }
@@ -1121,14 +1121,14 @@
       "engine": {
         "running": true,
         "total_planned": 20,
-        "pending": 3,
-        "executed": 17,
+        "pending": 1,
+        "executed": 19,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "da5fe70f-7d43-40f2-9d3f-4192a20f9d5e",
-          "action_type": "reply",
+          "id": "c1bf109b-9fa5-419a-9116-7b70b5e8fedd",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-08-11T15:30:01.334636"
+          "scheduled_time": "2026-08-11T19:34:27.462532"
         }
       },
       "campaign_status": {
@@ -1144,14 +1144,14 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-11T15:43:17.324814",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-08-11T15:30:01.334636",
           "category": null,
           "source": "engine"
