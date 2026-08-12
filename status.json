@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T14:52:19.178756Z",
+  "generated_at": "2026-08-12T15:22:19.177665Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -219,7 +219,7 @@
         },
         "like": {
           "total": 80,
-          "done": 77,
+          "done": 78,
           "failed": 2
         },
         "reply": {
@@ -283,7 +283,7 @@
         },
         {
           "date": "2026-08-12",
-          "like": 10,
+          "like": 11,
           "retweet": 4,
           "tweet": 8
         }
@@ -306,15 +306,10 @@
       "engine": {
         "running": true,
         "total_planned": 23,
-        "pending": 1,
-        "executed": 22,
+        "pending": 0,
+        "executed": 23,
         "consecutive_failures": 0,
-        "next_action": {
-          "id": "7baf481e-94e4-41e0-82fe-abaca571d3e6",
-          "action_type": "like",
-          "category": null,
-          "scheduled_time": "2026-08-12T20:36:15.902943"
-        }
+        "next_action": null
       },
       "campaign_status": {
         "running": false
@@ -322,7 +317,7 @@
       "recent": [
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-12T20:36:15.902943",
           "category": null,
           "source": "engine"
@@ -1047,7 +1042,7 @@
         "reply": {
           "total": 16,
           "done": 0,
-          "failed": 15
+          "failed": 16
         },
         "retweet": {
           "total": 26,
@@ -1128,14 +1123,14 @@
       "engine": {
         "running": true,
         "total_planned": 26,
-        "pending": 7,
-        "executed": 19,
-        "consecutive_failures": 0,
+        "pending": 6,
+        "executed": 20,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "7c6e4f40-0241-485c-af49-5174003a16c2",
-          "action_type": "reply",
+          "id": "eb30c9b7-3e0f-4a10-bbee-ceafddb7b2cb",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-08-12T20:36:52.959216"
+          "scheduled_time": "2026-08-12T20:57:35.221760"
         }
       },
       "campaign_status": {
@@ -1186,7 +1181,7 @@
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-08-12T20:36:52.959216",
           "category": null,
           "source": "engine"
