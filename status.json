@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T03:03:40.952111Z",
+  "generated_at": "2026-08-13T03:33:40.941341Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -229,7 +229,7 @@
         },
         "retweet": {
           "total": 32,
-          "done": 24,
+          "done": 25,
           "failed": 1
         },
         "tweet": {
@@ -283,7 +283,8 @@
         },
         {
           "date": "2026-08-13",
-          "like": 1
+          "like": 1,
+          "retweet": 1
         }
       ],
       "campaign": {
@@ -304,14 +305,14 @@
       "engine": {
         "running": true,
         "total_planned": 18,
-        "pending": 17,
-        "executed": 1,
+        "pending": 16,
+        "executed": 2,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "b3c2e9f4-2cb0-4d08-8479-aa008f201ab7",
-          "action_type": "retweet",
+          "id": "62ffdc83-9ebf-428d-8649-ea8dcf42db7c",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-08-13T08:52:26.018060"
+          "scheduled_time": "2026-08-13T12:01:01.023600"
         }
       },
       "campaign_status": {
@@ -642,7 +643,7 @@
         "reply": {
           "total": 20,
           "done": 0,
-          "failed": 17
+          "failed": 18
         },
         "retweet": {
           "total": 27,
@@ -650,8 +651,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 45,
-          "done": 40,
+          "total": 44,
+          "done": 39,
           "failed": 0
         }
       },
@@ -660,7 +661,7 @@
           "date": "2026-08-06",
           "like": 8,
           "retweet": 3,
-          "tweet": 8
+          "tweet": 7
         },
         {
           "date": "2026-08-07",
@@ -721,14 +722,14 @@
       "engine": {
         "running": true,
         "total_planned": 22,
-        "pending": 21,
-        "executed": 1,
-        "consecutive_failures": 0,
+        "pending": 20,
+        "executed": 2,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "7d4f6f54-17dd-4b04-9182-06ab00ac2ceb",
-          "action_type": "reply",
+          "id": "336b99d0-43aa-4034-9f67-f9693c61220a",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-08-13T08:56:31.078596"
+          "scheduled_time": "2026-08-13T09:05:11.923165"
         }
       },
       "campaign_status": {
@@ -1017,7 +1018,7 @@
         },
         "like": {
           "total": 86,
-          "done": 70,
+          "done": 71,
           "failed": 0
         },
         "reply": {
@@ -1031,8 +1032,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 40,
-          "done": 36,
+          "total": 39,
+          "done": 35,
           "failed": 0
         }
       },
@@ -1041,7 +1042,7 @@
           "date": "2026-08-06",
           "like": 8,
           "retweet": 5,
-          "tweet": 6
+          "tweet": 5
         },
         {
           "date": "2026-08-07",
@@ -1078,6 +1079,10 @@
           "like": 15,
           "retweet": 5,
           "tweet": 6
+        },
+        {
+          "date": "2026-08-13",
+          "like": 1
         }
       ],
       "campaign": {
@@ -1098,14 +1103,14 @@
       "engine": {
         "running": true,
         "total_planned": 14,
-        "pending": 13,
-        "executed": 1,
-        "consecutive_failures": 1,
+        "pending": 12,
+        "executed": 2,
+        "consecutive_failures": 0,
         "next_action": {
-          "id": "78268cbb-058d-481f-bdd6-5191c54cb598",
+          "id": "9a0b078a-62eb-4dbf-be17-afb0bb80b8ab",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-08-13T08:55:39.251237"
+          "scheduled_time": "2026-08-13T09:05:50.918941"
         }
       },
       "campaign_status": {
@@ -1198,7 +1203,7 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-13T08:55:39.251237",
           "category": null,
           "source": "engine"
