@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T06:33:40.969666Z",
+  "generated_at": "2026-08-14T07:03:40.925992Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -638,7 +638,7 @@
         },
         "like": {
           "total": 85,
-          "done": 65,
+          "done": 66,
           "failed": 0
         },
         "reply": {
@@ -653,7 +653,7 @@
         },
         "tweet": {
           "total": 44,
-          "done": 38,
+          "done": 39,
           "failed": 0
         }
       },
@@ -662,7 +662,7 @@
           "date": "2026-08-07",
           "like": 9,
           "retweet": 4,
-          "tweet": 8
+          "tweet": 7
         },
         {
           "date": "2026-08-08",
@@ -702,8 +702,9 @@
         },
         {
           "date": "2026-08-14",
-          "like": 4,
-          "retweet": 3
+          "like": 5,
+          "retweet": 3,
+          "tweet": 2
         }
       ],
       "campaign": {
@@ -724,14 +725,14 @@
       "engine": {
         "running": true,
         "total_planned": 21,
-        "pending": 14,
-        "executed": 7,
+        "pending": 12,
+        "executed": 9,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "ee5196db-db38-406b-b5ef-85a000bdf765",
-          "action_type": "tweet",
-          "category": "personal_experience",
-          "scheduled_time": "2026-08-14T12:15:45.565741"
+          "id": "23156e1f-a261-42d4-9f9c-5a8cb521b78f",
+          "action_type": "like",
+          "category": null,
+          "scheduled_time": "2026-08-14T12:44:34.307325"
         }
       },
       "campaign_status": {
@@ -824,14 +825,14 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-14T12:26:07.374698",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-14T12:15:45.565741",
           "category": "personal_experience",
           "source": "engine"
@@ -1040,8 +1041,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 39,
-          "done": 34,
+          "total": 40,
+          "done": 36,
           "failed": 0
         }
       },
@@ -1090,7 +1091,8 @@
         },
         {
           "date": "2026-08-14",
-          "retweet": 2
+          "retweet": 2,
+          "tweet": 2
         }
       ],
       "campaign": {
@@ -1111,14 +1113,14 @@
       "engine": {
         "running": true,
         "total_planned": 18,
-        "pending": 16,
-        "executed": 2,
+        "pending": 14,
+        "executed": 4,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "245cd708-37ff-4af7-9a17-273d36037055",
-          "action_type": "tweet",
-          "category": "personal_experience",
-          "scheduled_time": "2026-08-14T12:12:22.802877"
+          "id": "8f47e69e-7c52-4415-96c7-530a47278e25",
+          "action_type": "like",
+          "category": null,
+          "scheduled_time": "2026-08-14T12:39:41.266861"
         }
       },
       "campaign_status": {
