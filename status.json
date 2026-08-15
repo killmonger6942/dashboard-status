@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T11:33:40.933987Z",
+  "generated_at": "2026-08-15T12:03:41.003591Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -223,9 +223,9 @@
           "failed": 2
         },
         "reply": {
-          "total": 20,
+          "total": 19,
           "done": 0,
-          "failed": 16
+          "failed": 15
         },
         "retweet": {
           "total": 30,
@@ -638,7 +638,7 @@
         },
         "like": {
           "total": 81,
-          "done": 65,
+          "done": 66,
           "failed": 0
         },
         "reply": {
@@ -702,7 +702,7 @@
         },
         {
           "date": "2026-08-15",
-          "like": 4,
+          "like": 5,
           "retweet": 1,
           "tweet": 4
         }
@@ -725,14 +725,14 @@
       "engine": {
         "running": true,
         "total_planned": 12,
-        "pending": 4,
-        "executed": 8,
+        "pending": 3,
+        "executed": 9,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "35d6db1b-67cf-4d77-ac9c-117a9d5f6ec9",
-          "action_type": "like",
+          "id": "68b100b4-ab8f-4159-8b0e-83e9f1d81f42",
+          "action_type": "retweet",
           "category": null,
-          "scheduled_time": "2026-08-15T17:08:47.545769"
+          "scheduled_time": "2026-08-15T19:43:29.299610"
         }
       },
       "campaign_status": {
@@ -762,7 +762,7 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-15T17:08:47.545769",
           "category": null,
           "source": "engine"
@@ -1043,12 +1043,12 @@
         },
         "retweet": {
           "total": 26,
-          "done": 23,
+          "done": 24,
           "failed": 0
         },
         "tweet": {
-          "total": 38,
-          "done": 35,
+          "total": 39,
+          "done": 37,
           "failed": 0
         }
       },
@@ -1097,8 +1097,8 @@
         {
           "date": "2026-08-15",
           "like": 4,
-          "retweet": 1,
-          "tweet": 2
+          "retweet": 2,
+          "tweet": 4
         }
       ],
       "campaign": {
@@ -1119,14 +1119,14 @@
       "engine": {
         "running": true,
         "total_planned": 10,
-        "pending": 4,
-        "executed": 6,
+        "pending": 2,
+        "executed": 8,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "8fdef0ce-2e15-4d00-a310-3caa003641a8",
-          "action_type": "retweet",
+          "id": "cfe6d131-5900-4422-ae80-b0062e9632b2",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-08-15T17:09:22.106782"
+          "scheduled_time": "2026-08-15T20:29:41.846926"
         }
       },
       "campaign_status": {
@@ -1149,14 +1149,14 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-15T17:16:36.562982",
           "category": "hobby",
           "source": "engine"
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-15T17:09:22.106782",
           "category": null,
           "source": "engine"
@@ -1188,6 +1188,13 @@
           "time": "2026-08-15T13:14:04.256159",
           "category": null,
           "source": "engine"
+        },
+        {
+          "action_type": "tweet",
+          "status": "done",
+          "time": "2026-08-15T11:47:22.586311",
+          "category": null,
+          "source": "manual"
         },
         {
           "action_type": "retweet",
@@ -1228,13 +1235,6 @@
           "action_type": "reply",
           "status": "failed",
           "time": "2026-08-14T19:38:14.048654",
-          "category": null,
-          "source": "engine"
-        },
-        {
-          "action_type": "like",
-          "status": "done",
-          "time": "2026-08-14T19:31:02.059151",
           "category": null,
           "source": "engine"
         }
