@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T10:03:44.549853Z",
+  "generated_at": "2026-08-19T10:33:41.025044Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -21,12 +21,12 @@
         "current": {
           "followers": 21,
           "following": 565,
-          "tweets": 239
+          "tweets": 240
         },
         "growth": {
           "followers": -1,
           "following": 4,
-          "tweets": 147
+          "tweets": 148
         },
         "history": [
           {
@@ -207,7 +207,7 @@
             "date": "2026-08-19",
             "followers": 21,
             "following": 565,
-            "tweets": 239
+            "tweets": 240
           }
         ]
       },
@@ -233,7 +233,7 @@
           "failed": 0
         },
         "tweet": {
-          "total": 41,
+          "total": 40,
           "done": 36,
           "failed": 1
         }
@@ -439,12 +439,12 @@
         "current": {
           "followers": 6,
           "following": 590,
-          "tweets": 192
+          "tweets": 193
         },
         "growth": {
           "followers": 2,
           "following": 48,
-          "tweets": 131
+          "tweets": 132
         },
         "history": [
           {
@@ -625,7 +625,7 @@
             "date": "2026-08-19",
             "followers": 6,
             "following": 590,
-            "tweets": 192
+            "tweets": 193
           }
         ]
       },
@@ -636,8 +636,8 @@
           "failed": 3
         },
         "like": {
-          "total": 95,
-          "done": 73,
+          "total": 94,
+          "done": 74,
           "failed": 0
         },
         "reply": {
@@ -646,7 +646,7 @@
           "failed": 10
         },
         "retweet": {
-          "total": 29,
+          "total": 28,
           "done": 26,
           "failed": 0
         },
@@ -659,8 +659,8 @@
       "timeline": [
         {
           "date": "2026-08-12",
-          "like": 8,
-          "retweet": 4,
+          "like": 7,
+          "retweet": 3,
           "tweet": 5
         },
         {
@@ -701,8 +701,8 @@
         },
         {
           "date": "2026-08-19",
-          "like": 1,
-          "retweet": 2
+          "like": 3,
+          "retweet": 3
         }
       ],
       "campaign": {
@@ -723,14 +723,14 @@
       "engine": {
         "running": true,
         "total_planned": 16,
-        "pending": 13,
-        "executed": 3,
+        "pending": 10,
+        "executed": 6,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "8f36d680-2beb-4c85-8f4d-14e36ecd176e",
-          "action_type": "retweet",
-          "category": null,
-          "scheduled_time": "2026-08-19T15:45:34.263425"
+          "id": "49218a8c-ca88-4ba3-aef6-7977a6b326c2",
+          "action_type": "tweet",
+          "category": "observation",
+          "scheduled_time": "2026-08-19T16:23:22.592834"
         }
       },
       "campaign_status": {
@@ -809,21 +809,21 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-19T16:02:37.942783",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-19T15:50:11.524518",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-19T15:45:34.263425",
           "category": null,
           "source": "engine"
@@ -1136,14 +1136,14 @@
       "engine": {
         "running": true,
         "total_planned": 20,
-        "pending": 10,
-        "executed": 10,
+        "pending": 9,
+        "executed": 11,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "04186369-9abf-4b1c-ba5c-7e39183196c6",
-          "action_type": "like",
+          "id": "23c97954-6cb8-4d63-9eda-d5abe2e19f3b",
+          "action_type": "reply",
           "category": null,
-          "scheduled_time": "2026-08-19T15:43:47.142276"
+          "scheduled_time": "2026-08-19T16:22:42.801680"
         }
       },
       "campaign_status": {
