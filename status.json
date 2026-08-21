@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T16:03:40.957920Z",
+  "generated_at": "2026-08-21T16:33:40.968829Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -630,8 +630,8 @@
           "failed": 3
         },
         "like": {
-          "total": 78,
-          "done": 76,
+          "total": 76,
+          "done": 75,
           "failed": 1
         },
         "reply": {
@@ -653,7 +653,7 @@
       "timeline": [
         {
           "date": "2026-08-14",
-          "like": 4,
+          "like": 2,
           "retweet": 2,
           "tweet": 1
         },
@@ -695,7 +695,7 @@
         },
         {
           "date": "2026-08-21",
-          "like": 13,
+          "like": 14,
           "retweet": 3,
           "tweet": 4
         }
@@ -718,15 +718,10 @@
       "engine": {
         "running": true,
         "total_planned": 21,
-        "pending": 1,
-        "executed": 20,
+        "pending": 0,
+        "executed": 21,
         "consecutive_failures": 0,
-        "next_action": {
-          "id": "451178b9-5342-4b27-8f37-ad90aa4f1cf5",
-          "action_type": "like",
-          "category": null,
-          "scheduled_time": "2026-08-21T21:36:48.941670"
-        }
+        "next_action": null
       },
       "campaign_status": {
         "running": false
@@ -734,7 +729,7 @@
       "recent": [
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-21T21:36:48.941670",
           "category": null,
           "source": "engine"
@@ -1119,15 +1114,10 @@
       "engine": {
         "running": true,
         "total_planned": 20,
-        "pending": 1,
-        "executed": 19,
+        "pending": 0,
+        "executed": 20,
         "consecutive_failures": 3,
-        "next_action": {
-          "id": "82361716-9da9-480f-8e9f-5eb7a8959da1",
-          "action_type": "reply",
-          "category": null,
-          "scheduled_time": "2026-08-21T21:39:48.035744"
-        }
+        "next_action": null
       },
       "campaign_status": {
         "running": false
