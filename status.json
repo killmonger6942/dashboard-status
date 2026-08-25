@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T03:03:40.948441Z",
+  "generated_at": "2026-08-25T03:33:40.936516Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -281,14 +281,14 @@
       "engine": {
         "running": true,
         "total_planned": 16,
-        "pending": 16,
-        "executed": 0,
+        "pending": 13,
+        "executed": 3,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "a624d2cb-fefb-4b3b-ab93-101ee094dd4d",
+          "id": "86c689e5-f939-41dc-9d3c-ab52a8c67936",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-08-25T08:37:13.978357"
+          "scheduled_time": "2026-08-25T09:06:35.448127"
         }
       },
       "campaign_status": {
@@ -623,7 +623,7 @@
         },
         "retweet": {
           "total": 26,
-          "done": 22,
+          "done": 23,
           "failed": 0
         },
         "tweet": {
@@ -677,7 +677,8 @@
         },
         {
           "date": "2026-08-25",
-          "like": 1
+          "like": 1,
+          "retweet": 1
         }
       ],
       "campaign": {
@@ -698,14 +699,14 @@
       "engine": {
         "running": true,
         "total_planned": 18,
-        "pending": 17,
-        "executed": 1,
+        "pending": 16,
+        "executed": 2,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "9506ed06-561f-4acb-9717-c4f0247bc852",
+          "id": "1c6048f5-ee21-4dde-a57e-60935858a3a3",
           "action_type": "retweet",
           "category": null,
-          "scheduled_time": "2026-08-25T08:56:44.881813"
+          "scheduled_time": "2026-08-25T12:26:37.693063"
         }
       },
       "campaign_status": {
@@ -1075,14 +1076,14 @@
       "engine": {
         "running": true,
         "total_planned": 26,
-        "pending": 25,
-        "executed": 1,
+        "pending": 23,
+        "executed": 3,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "2ed3a4ff-0d4d-4e89-bc5d-9ff8e4ac17d8",
-          "action_type": "tweet",
-          "category": "observation",
-          "scheduled_time": "2026-08-25T08:49:52.104762"
+          "id": "9d9cd664-ee53-4642-beff-d9d739cd801f",
+          "action_type": "reply",
+          "category": null,
+          "scheduled_time": "2026-08-25T09:06:45.159245"
         }
       },
       "campaign_status": {
