@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T10:03:41.327002Z",
+  "generated_at": "2026-08-26T10:33:41.056136Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -409,12 +409,12 @@
         "current": {
           "followers": 6,
           "following": 590,
-          "tweets": 227
+          "tweets": 228
         },
         "growth": {
           "followers": 1,
           "following": 0,
-          "tweets": 135
+          "tweets": 136
         },
         "history": [
           {
@@ -595,7 +595,7 @@
             "date": "2026-08-26",
             "followers": 6,
             "following": 590,
-            "tweets": 227
+            "tweets": 228
           }
         ]
       },
@@ -621,8 +621,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 35,
-          "done": 32,
+          "total": 36,
+          "done": 34,
           "failed": 0
         }
       },
@@ -672,7 +672,8 @@
         {
           "date": "2026-08-26",
           "like": 6,
-          "retweet": 1
+          "retweet": 1,
+          "tweet": 2
         }
       ],
       "campaign": {
@@ -693,14 +694,14 @@
       "engine": {
         "running": true,
         "total_planned": 17,
-        "pending": 9,
-        "executed": 8,
+        "pending": 8,
+        "executed": 9,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "4c7c8f67-4eb4-4bb2-be2d-adc29a431b45",
-          "action_type": "tweet",
-          "category": "internet_take",
-          "scheduled_time": "2026-08-26T15:37:22.930063"
+          "id": "a6932af9-71b4-4bd2-a69e-2bfc3a079df8",
+          "action_type": "like",
+          "category": null,
+          "scheduled_time": "2026-08-26T16:21:25.778453"
         }
       },
       "campaign_status": {
@@ -765,7 +766,7 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-26T15:37:22.930063",
           "category": "internet_take",
           "source": "engine"
@@ -806,11 +807,11 @@
           "source": "engine"
         },
         {
-          "action_type": "like",
+          "action_type": "tweet",
           "status": "done",
-          "time": "2026-08-26T08:37:43.253218",
+          "time": "2026-08-26T10:08:10.433848",
           "category": null,
-          "source": "engine"
+          "source": "manual"
         }
       ]
     },
