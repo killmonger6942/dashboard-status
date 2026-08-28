@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T07:33:40.942590Z",
+  "generated_at": "2026-08-28T08:03:41.253314Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -263,14 +263,14 @@
       "engine": {
         "running": true,
         "total_planned": 20,
-        "pending": 11,
-        "executed": 9,
+        "pending": 10,
+        "executed": 10,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "6b9ef4ff-1ec0-48a7-a962-d3f413531a9f",
-          "action_type": "tweet",
-          "category": "personal_experience",
-          "scheduled_time": "2026-08-28T13:19:13.152850"
+          "id": "9badc349-7923-4288-a6da-7eaf25a3bb33",
+          "action_type": "retweet",
+          "category": null,
+          "scheduled_time": "2026-08-28T13:43:41.434735"
         }
       },
       "campaign_status": {
@@ -605,12 +605,12 @@
         },
         "retweet": {
           "total": 27,
-          "done": 23,
+          "done": 25,
           "failed": 0
         },
         "tweet": {
-          "total": 38,
-          "done": 37,
+          "total": 39,
+          "done": 39,
           "failed": 0
         }
       },
@@ -660,8 +660,8 @@
         {
           "date": "2026-08-28",
           "like": 4,
-          "retweet": 1,
-          "tweet": 2
+          "retweet": 3,
+          "tweet": 4
         }
       ],
       "campaign": {
@@ -682,14 +682,14 @@
       "engine": {
         "running": true,
         "total_planned": 20,
-        "pending": 13,
-        "executed": 7,
+        "pending": 10,
+        "executed": 10,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "9e42654b-b49d-4a0d-9d00-51d0cdde4dd2",
-          "action_type": "tweet",
-          "category": "coffee",
-          "scheduled_time": "2026-08-28T13:06:58.284184"
+          "id": "4774878d-9828-4b1f-ab14-af5b4cf91833",
+          "action_type": "retweet",
+          "category": null,
+          "scheduled_time": "2026-08-28T13:43:19.759089"
         }
       },
       "campaign_status": {
@@ -768,21 +768,21 @@
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-28T13:17:33.381303",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-28T13:13:08.381303",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-28T13:06:58.284184",
           "category": "coffee",
           "source": "engine"
