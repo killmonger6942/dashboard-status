@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T15:33:40.979673Z",
+  "generated_at": "2026-08-28T16:03:40.960352Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -257,15 +257,10 @@
       "engine": {
         "running": true,
         "total_planned": 20,
-        "pending": 1,
-        "executed": 19,
+        "pending": 0,
+        "executed": 20,
         "consecutive_failures": 3,
-        "next_action": {
-          "id": "9d0db2e3-bdd7-435a-b90f-84234b805bc3",
-          "action_type": "like",
-          "category": null,
-          "scheduled_time": "2026-08-28T21:06:58.366884"
-        }
+        "next_action": null
       },
       "campaign_status": {
         "running": false
@@ -588,7 +583,7 @@
           "failed": 4
         },
         "like": {
-          "total": 72,
+          "total": 71,
           "done": 71,
           "failed": 0
         },
@@ -611,7 +606,7 @@
       "timeline": [
         {
           "date": "2026-08-21",
-          "like": 11,
+          "like": 10,
           "retweet": 2
         },
         {
@@ -652,7 +647,7 @@
         },
         {
           "date": "2026-08-28",
-          "like": 11,
+          "like": 12,
           "retweet": 5,
           "tweet": 4
         }
@@ -675,15 +670,10 @@
       "engine": {
         "running": true,
         "total_planned": 20,
-        "pending": 1,
-        "executed": 19,
+        "pending": 0,
+        "executed": 20,
         "consecutive_failures": 0,
-        "next_action": {
-          "id": "c60bd81f-b3bd-42cf-8807-4b23c60ae80a",
-          "action_type": "like",
-          "category": null,
-          "scheduled_time": "2026-08-28T21:15:22.867481"
-        }
+        "next_action": null
       },
       "campaign_status": {
         "running": false
@@ -691,7 +681,7 @@
       "recent": [
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-28T21:15:22.867481",
           "category": null,
           "source": "engine"
@@ -1045,14 +1035,14 @@
       "engine": {
         "running": true,
         "total_planned": 26,
-        "pending": 6,
-        "executed": 20,
+        "pending": 1,
+        "executed": 25,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "20a43a53-fa81-4724-a3cd-f874aca4ad41",
-          "action_type": "like",
+          "id": "49874ef8-edef-477c-88e8-4266d59c431d",
+          "action_type": "reply",
           "category": null,
-          "scheduled_time": "2026-08-28T21:06:10.747844"
+          "scheduled_time": "2026-08-28T21:36:35.341530"
         }
       },
       "campaign_status": {
