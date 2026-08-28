@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T07:03:40.930337Z",
+  "generated_at": "2026-08-28T07:33:40.942590Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -263,14 +263,14 @@
       "engine": {
         "running": true,
         "total_planned": 20,
-        "pending": 14,
-        "executed": 6,
+        "pending": 11,
+        "executed": 9,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "61dd90d7-af30-4f81-9add-642f82d0f89b",
+          "id": "6b9ef4ff-1ec0-48a7-a962-d3f413531a9f",
           "action_type": "tweet",
-          "category": "media",
-          "scheduled_time": "2026-08-28T12:48:34.963041"
+          "category": "personal_experience",
+          "scheduled_time": "2026-08-28T13:19:13.152850"
         }
       },
       "campaign_status": {
@@ -595,7 +595,7 @@
         },
         "like": {
           "total": 75,
-          "done": 66,
+          "done": 67,
           "failed": 0
         },
         "reply": {
@@ -659,7 +659,7 @@
         },
         {
           "date": "2026-08-28",
-          "like": 3,
+          "like": 4,
           "retweet": 1,
           "tweet": 2
         }
@@ -682,14 +682,14 @@
       "engine": {
         "running": true,
         "total_planned": 20,
-        "pending": 14,
-        "executed": 6,
+        "pending": 13,
+        "executed": 7,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "9b6cfa27-ffbf-4d1c-a449-6ff8c7f3b608",
-          "action_type": "like",
-          "category": null,
-          "scheduled_time": "2026-08-28T12:44:03.620925"
+          "id": "9e42654b-b49d-4a0d-9d00-51d0cdde4dd2",
+          "action_type": "tweet",
+          "category": "coffee",
+          "scheduled_time": "2026-08-28T13:06:58.284184"
         }
       },
       "campaign_status": {
@@ -789,7 +789,7 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-28T12:44:03.620925",
           "category": null,
           "source": "engine"
