@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T02:03:41.938536Z",
+  "generated_at": "2026-08-30T02:33:40.993502Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -595,7 +595,7 @@
         "reply": {
           "total": 11,
           "done": 0,
-          "failed": 10
+          "failed": 11
         },
         "retweet": {
           "total": 25,
@@ -670,14 +670,14 @@
       "engine": {
         "running": true,
         "total_planned": 14,
-        "pending": 14,
-        "executed": 0,
-        "consecutive_failures": 0,
+        "pending": 13,
+        "executed": 1,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "d324e8ae-e2ac-42ae-b53c-796a007a9c92",
-          "action_type": "reply",
-          "category": null,
-          "scheduled_time": "2026-08-30T08:01:42.236344"
+          "id": "3ea5ee82-f643-412d-81f2-5363deba5091",
+          "action_type": "tweet",
+          "category": "bangalore",
+          "scheduled_time": "2026-08-30T08:29:16.079611"
         }
       },
       "campaign_status": {
@@ -777,7 +777,7 @@
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-08-30T08:01:42.236344",
           "category": null,
           "source": "engine"
