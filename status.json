@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T07:33:40.944531Z",
+  "generated_at": "2026-08-30T08:03:40.963870Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -257,14 +257,14 @@
       "engine": {
         "running": true,
         "total_planned": 15,
-        "pending": 10,
-        "executed": 5,
+        "pending": 9,
+        "executed": 6,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "ef87ea46-9eee-4f18-bea5-97785194b572",
-          "action_type": "like",
-          "category": null,
-          "scheduled_time": "2026-08-30T13:21:58.948564"
+          "id": "2e813001-c1a0-4ba0-90b3-32ae4f05d9b5",
+          "action_type": "tweet",
+          "category": "tip",
+          "scheduled_time": "2026-08-30T15:30:25.859677"
         }
       },
       "campaign_status": {
@@ -599,12 +599,12 @@
         },
         "retweet": {
           "total": 25,
-          "done": 24,
+          "done": 25,
           "failed": 0
         },
         "tweet": {
-          "total": 38,
-          "done": 37,
+          "total": 39,
+          "done": 39,
           "failed": 0
         }
       },
@@ -654,8 +654,8 @@
         {
           "date": "2026-08-30",
           "like": 5,
-          "retweet": 1,
-          "tweet": 2
+          "retweet": 2,
+          "tweet": 4
         }
       ],
       "campaign": {
@@ -676,14 +676,14 @@
       "engine": {
         "running": true,
         "total_planned": 14,
-        "pending": 6,
-        "executed": 8,
+        "pending": 4,
+        "executed": 10,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "08fc5485-e088-49d4-8568-687dcdff0361",
-          "action_type": "tweet",
-          "category": "hot_take",
-          "scheduled_time": "2026-08-30T13:10:07.255869"
+          "id": "3f9a0750-0adf-43ad-a75e-94514557f9b1",
+          "action_type": "like",
+          "category": null,
+          "scheduled_time": "2026-08-30T13:40:59.656593"
         }
       },
       "campaign_status": {
@@ -720,14 +720,14 @@
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-30T13:18:48.729829",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-30T13:10:07.255869",
           "category": "hot_take",
           "source": "engine"
@@ -791,7 +791,7 @@
         {
           "action_type": "tweet",
           "status": "done",
-          "time": "2026-08-30T03:00:02.572386",
+          "time": "2026-08-30T07:40:54.912205",
           "category": null,
           "source": "manual"
         }
