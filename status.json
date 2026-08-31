@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T04:03:40.995103Z",
+  "generated_at": "2026-08-31T04:33:40.988984Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -257,14 +257,14 @@
       "engine": {
         "running": true,
         "total_planned": 18,
-        "pending": 12,
-        "executed": 6,
+        "pending": 11,
+        "executed": 7,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "d1c28238-80e0-47ee-94ee-7570afcf31f0",
-          "action_type": "reply",
-          "category": null,
-          "scheduled_time": "2026-08-31T09:50:09.244689"
+          "id": "0dafd0e6-07a7-4de6-bc0e-1945e8f86105",
+          "action_type": "tweet",
+          "category": "observation",
+          "scheduled_time": "2026-08-31T12:58:57.559936"
         }
       },
       "campaign_status": {
@@ -589,17 +589,17 @@
         },
         "like": {
           "total": 74,
-          "done": 65,
+          "done": 67,
           "failed": 0
         },
         "reply": {
           "total": 11,
           "done": 0,
-          "failed": 9
+          "failed": 10
         },
         "retweet": {
           "total": 28,
-          "done": 24,
+          "done": 25,
           "failed": 0
         },
         "tweet": {
@@ -653,7 +653,8 @@
         },
         {
           "date": "2026-08-31",
-          "like": 1,
+          "like": 3,
+          "retweet": 1,
           "tweet": 2
         }
       ],
@@ -675,14 +676,14 @@
       "engine": {
         "running": true,
         "total_planned": 19,
-        "pending": 17,
-        "executed": 2,
+        "pending": 13,
+        "executed": 6,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "8a27120e-ee58-4565-84b9-8e69468a7341",
-          "action_type": "reply",
+          "id": "020396b6-bb00-4645-af10-e304bc8e0ab3",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-08-31T09:42:37.872912"
+          "scheduled_time": "2026-08-31T12:15:39.143554"
         }
       },
       "campaign_status": {
@@ -782,14 +783,14 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-31T09:57:37.032666",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-08-31T09:53:33.230034",
           "category": null,
           "source": "engine"
@@ -1045,14 +1046,14 @@
       "engine": {
         "running": true,
         "total_planned": 17,
-        "pending": 16,
-        "executed": 1,
+        "pending": 15,
+        "executed": 2,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "08db4e52-2e37-448c-8d52-fe01d22dde83",
-          "action_type": "tweet",
-          "category": "bangalore",
-          "scheduled_time": "2026-08-31T09:46:13.644713"
+          "id": "75161a30-b557-4a3c-b663-30f27725c6db",
+          "action_type": "like",
+          "category": null,
+          "scheduled_time": "2026-08-31T12:14:53.200578"
         }
       },
       "campaign_status": {
