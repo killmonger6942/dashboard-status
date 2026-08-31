@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T14:33:41.054136Z",
+  "generated_at": "2026-08-31T15:03:40.941764Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -257,15 +257,10 @@
       "engine": {
         "running": true,
         "total_planned": 18,
-        "pending": 2,
-        "executed": 16,
+        "pending": 0,
+        "executed": 18,
         "consecutive_failures": 3,
-        "next_action": {
-          "id": "7dfadf27-7920-412b-9d32-6a9a120bf0d2",
-          "action_type": "retweet",
-          "category": null,
-          "scheduled_time": "2026-08-31T20:19:53.829152"
-        }
+        "next_action": null
       },
       "campaign_status": {
         "running": false
@@ -585,7 +580,7 @@
         "follow": {
           "total": 3,
           "done": 0,
-          "failed": 2
+          "failed": 3
         },
         "like": {
           "total": 70,
@@ -603,8 +598,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 37,
-          "done": 37,
+          "total": 36,
+          "done": 36,
           "failed": 0
         }
       },
@@ -613,7 +608,7 @@
           "date": "2026-08-24",
           "like": 5,
           "retweet": 2,
-          "tweet": 3
+          "tweet": 2
         },
         {
           "date": "2026-08-25",
@@ -676,14 +671,14 @@
       "engine": {
         "running": true,
         "total_planned": 19,
-        "pending": 2,
-        "executed": 17,
-        "consecutive_failures": 1,
+        "pending": 1,
+        "executed": 18,
+        "consecutive_failures": 2,
         "next_action": {
-          "id": "3b4f0829-d2f3-481c-9bde-7592bc4129d8",
-          "action_type": "follow",
+          "id": "62dfece9-fd96-4f0f-984d-00c912d4a019",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-08-31T20:17:40.570507"
+          "scheduled_time": "2026-08-31T21:25:31.411542"
         }
       },
       "campaign_status": {
@@ -699,7 +694,7 @@
         },
         {
           "action_type": "follow",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-08-31T20:17:40.570507",
           "category": null,
           "source": "engine"
