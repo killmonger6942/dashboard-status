@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T10:33:41.046692Z",
+  "generated_at": "2026-09-01T11:03:41.019886Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -257,14 +257,14 @@
       "engine": {
         "running": true,
         "total_planned": 21,
-        "pending": 11,
-        "executed": 10,
+        "pending": 9,
+        "executed": 12,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "de8b5d23-5c00-4c7a-b5f9-de386273de1e",
-          "action_type": "like",
-          "category": null,
-          "scheduled_time": "2026-09-01T16:07:49.072149"
+          "id": "13bbda97-0670-4345-a664-45c051e1ba34",
+          "action_type": "tweet",
+          "category": "opinion",
+          "scheduled_time": "2026-09-01T16:42:14.404867"
         }
       },
       "campaign_status": {
@@ -589,13 +589,13 @@
         },
         "like": {
           "total": 74,
-          "done": 69,
+          "done": 71,
           "failed": 0
         },
         "reply": {
           "total": 11,
           "done": 0,
-          "failed": 10
+          "failed": 11
         },
         "retweet": {
           "total": 26,
@@ -653,7 +653,7 @@
         },
         {
           "date": "2026-09-01",
-          "like": 5,
+          "like": 7,
           "retweet": 1,
           "tweet": 6
         }
@@ -676,14 +676,14 @@
       "engine": {
         "running": true,
         "total_planned": 17,
-        "pending": 8,
-        "executed": 9,
+        "pending": 5,
+        "executed": 12,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "3cd31100-554b-4f8b-accc-846782599088",
+          "id": "62f2700a-6c68-4ebe-bd2f-322b4cb6ffcd",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-09-01T16:03:52.872396"
+          "scheduled_time": "2026-09-01T16:43:33.512627"
         }
       },
       "campaign_status": {
@@ -727,21 +727,21 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-01T16:28:07.117712",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-09-01T16:08:09.133482",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-01T16:03:52.872396",
           "category": null,
           "source": "engine"
