@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T15:03:40.935508Z",
+  "generated_at": "2026-09-02T15:33:40.976082Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -257,15 +257,10 @@
       "engine": {
         "running": true,
         "total_planned": 19,
-        "pending": 1,
-        "executed": 18,
+        "pending": 0,
+        "executed": 19,
         "consecutive_failures": 3,
-        "next_action": {
-          "id": "3c4ae946-119c-475a-a1fc-aea9c0e51625",
-          "action_type": "like",
-          "category": null,
-          "scheduled_time": "2026-09-02T20:57:17.575862"
-        }
+        "next_action": null
       },
       "campaign_status": {
         "running": false
@@ -588,8 +583,8 @@
           "failed": 3
         },
         "like": {
-          "total": 68,
-          "done": 66,
+          "total": 67,
+          "done": 67,
           "failed": 0
         },
         "reply": {
@@ -599,19 +594,19 @@
         },
         "retweet": {
           "total": 27,
-          "done": 23,
+          "done": 24,
           "failed": 0
         },
         "tweet": {
-          "total": 40,
-          "done": 39,
+          "total": 41,
+          "done": 41,
           "failed": 0
         }
       },
       "timeline": [
         {
           "date": "2026-08-26",
-          "like": 4,
+          "like": 3,
           "retweet": 2,
           "tweet": 3
         },
@@ -653,9 +648,9 @@
         },
         {
           "date": "2026-09-02",
-          "like": 7,
-          "retweet": 1,
-          "tweet": 4
+          "like": 9,
+          "retweet": 2,
+          "tweet": 6
         }
       ],
       "campaign": {
@@ -676,14 +671,14 @@
       "engine": {
         "running": true,
         "total_planned": 20,
-        "pending": 7,
-        "executed": 13,
+        "pending": 3,
+        "executed": 17,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "1f0345cc-aecf-45a1-ae2e-a24777e9fcd4",
-          "action_type": "tweet",
-          "category": "question",
-          "scheduled_time": "2026-09-02T20:39:11.230702"
+          "id": "b39fda0d-0e8f-41eb-abe7-6c8f5c724156",
+          "action_type": "retweet",
+          "category": null,
+          "scheduled_time": "2026-09-02T21:25:27.462863"
         }
       },
       "campaign_status": {
@@ -713,28 +708,28 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-02T20:54:28.144600",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-02T20:47:23.230702",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-02T20:44:09.230702",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-02T20:39:11.230702",
           "category": "question",
           "source": "engine"
@@ -791,7 +786,7 @@
         {
           "action_type": "tweet",
           "status": "done",
-          "time": "2026-09-02T14:07:10.525615",
+          "time": "2026-09-02T15:10:01.261118",
           "category": null,
           "source": "manual"
         }
@@ -1046,14 +1041,14 @@
       "engine": {
         "running": true,
         "total_planned": 20,
-        "pending": 2,
-        "executed": 18,
+        "pending": 1,
+        "executed": 19,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "63781330-15eb-409c-99f0-9ddb3378e1cc",
-          "action_type": "reply",
-          "category": null,
-          "scheduled_time": "2026-09-02T20:37:04.254247"
+          "id": "af7ca452-05fe-4f12-bb9f-6d7b7c514d3d",
+          "action_type": "tweet",
+          "category": "question",
+          "scheduled_time": "2026-09-02T21:27:15.804467"
         }
       },
       "campaign_status": {
