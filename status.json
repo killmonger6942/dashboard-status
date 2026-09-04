@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T04:33:40.979979Z",
+  "generated_at": "2026-09-04T05:03:40.937302Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -257,14 +257,14 @@
       "engine": {
         "running": true,
         "total_planned": 23,
-        "pending": 19,
-        "executed": 4,
+        "pending": 18,
+        "executed": 5,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "8342fbad-252b-44b5-87f5-185b08b38ec4",
+          "id": "512c59a7-f76b-4de0-b5c7-e2509f4e249f",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-09-04T10:05:28.511643"
+          "scheduled_time": "2026-09-04T13:02:17.594936"
         }
       },
       "campaign_status": {
@@ -599,12 +599,12 @@
         },
         "retweet": {
           "total": 27,
-          "done": 23,
+          "done": 24,
           "failed": 0
         },
         "tweet": {
-          "total": 41,
-          "done": 40,
+          "total": 42,
+          "done": 42,
           "failed": 0
         }
       },
@@ -654,7 +654,8 @@
         {
           "date": "2026-09-04",
           "like": 3,
-          "tweet": 2
+          "retweet": 1,
+          "tweet": 4
         }
       ],
       "campaign": {
@@ -675,14 +676,14 @@
       "engine": {
         "running": true,
         "total_planned": 16,
-        "pending": 11,
-        "executed": 5,
+        "pending": 9,
+        "executed": 7,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "c64e1bde-523b-43a9-b7bb-d23ac5dbc966",
-          "action_type": "tweet",
-          "category": "question",
-          "scheduled_time": "2026-09-04T10:03:51.279404"
+          "id": "5f451999-4160-432d-b355-2a80d1b0ebc7",
+          "action_type": "retweet",
+          "category": null,
+          "scheduled_time": "2026-09-04T12:21:18.890282"
         }
       },
       "campaign_status": {
@@ -754,14 +755,14 @@
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-04T10:13:25.586417",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-04T10:03:51.279404",
           "category": "question",
           "source": "engine"
@@ -1045,14 +1046,14 @@
       "engine": {
         "running": true,
         "total_planned": 22,
-        "pending": 19,
-        "executed": 3,
+        "pending": 18,
+        "executed": 4,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "53474048-f139-4cf6-b450-d68729d9d8a6",
+          "id": "2bdbd5aa-1346-493f-8cd5-84806f797622",
           "action_type": "tweet",
-          "category": "humor",
-          "scheduled_time": "2026-09-04T10:05:37.414844"
+          "category": "personal_experience",
+          "scheduled_time": "2026-09-04T12:09:59.348558"
         }
       },
       "campaign_status": {
