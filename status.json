@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T04:03:40.944776Z",
+  "generated_at": "2026-09-06T04:33:40.979272Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -595,7 +595,7 @@
         "reply": {
           "total": 13,
           "done": 0,
-          "failed": 11
+          "failed": 12
         },
         "retweet": {
           "total": 25,
@@ -674,14 +674,14 @@
       "engine": {
         "running": true,
         "total_planned": 17,
-        "pending": 15,
-        "executed": 2,
-        "consecutive_failures": 0,
+        "pending": 14,
+        "executed": 3,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "20e1b87f-9736-4ec6-b29d-e0752d19b447",
-          "action_type": "reply",
-          "category": null,
-          "scheduled_time": "2026-09-06T09:54:33.700637"
+          "id": "ba682b18-9db0-4008-830e-a7a58ce9012b",
+          "action_type": "tweet",
+          "category": "question",
+          "scheduled_time": "2026-09-06T10:13:44.280172"
         }
       },
       "campaign_status": {
@@ -788,7 +788,7 @@
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-09-06T09:54:33.700637",
           "category": null,
           "source": "engine"
@@ -1044,14 +1044,14 @@
       "engine": {
         "running": true,
         "total_planned": 12,
-        "pending": 11,
-        "executed": 1,
+        "pending": 9,
+        "executed": 3,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "72096d38-4263-40d7-a0f3-39609e11d4ad",
-          "action_type": "like",
-          "category": null,
-          "scheduled_time": "2026-09-06T09:35:13.538125"
+          "id": "972cfd17-2729-4280-8858-dde8458200a3",
+          "action_type": "tweet",
+          "category": "internet_take",
+          "scheduled_time": "2026-09-06T12:05:29.754228"
         }
       },
       "campaign_status": {
