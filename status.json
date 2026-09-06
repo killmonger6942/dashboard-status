@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T14:03:41.100611Z",
+  "generated_at": "2026-09-06T14:33:40.990665Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -257,14 +257,14 @@
       "engine": {
         "running": true,
         "total_planned": 14,
-        "pending": 3,
-        "executed": 11,
+        "pending": 1,
+        "executed": 13,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "96197c94-1542-4446-8a66-cb640499e404",
-          "action_type": "retweet",
+          "id": "928f8bdd-0750-4b00-80ea-f1e47ffb4575",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-09-06T19:34:07.292428"
+          "scheduled_time": "2026-09-06T20:38:16.816615"
         }
       },
       "campaign_status": {
@@ -589,7 +589,7 @@
         },
         "like": {
           "total": 69,
-          "done": 65,
+          "done": 66,
           "failed": 0
         },
         "reply": {
@@ -651,7 +651,7 @@
         },
         {
           "date": "2026-09-06",
-          "like": 5,
+          "like": 6,
           "retweet": 1,
           "tweet": 2
         }
@@ -674,14 +674,14 @@
       "engine": {
         "running": true,
         "total_planned": 17,
-        "pending": 7,
-        "executed": 10,
-        "consecutive_failures": 1,
+        "pending": 6,
+        "executed": 11,
+        "consecutive_failures": 0,
         "next_action": {
-          "id": "3d509d34-f9c7-4b51-8a0b-c40efc5f3aa7",
-          "action_type": "like",
+          "id": "07d0aed1-ee07-4540-881c-361df0bf9399",
+          "action_type": "retweet",
           "category": null,
-          "scheduled_time": "2026-09-06T20:01:14.304827"
+          "scheduled_time": "2026-09-06T20:04:57.304827"
         }
       },
       "campaign_status": {
@@ -732,7 +732,7 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-06T20:01:14.304827",
           "category": null,
           "source": "engine"
