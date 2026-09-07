@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T11:33:44.999767Z",
+  "generated_at": "2026-09-07T12:03:41.488101Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -589,7 +589,7 @@
         },
         "like": {
           "total": 76,
-          "done": 72,
+          "done": 73,
           "failed": 0
         },
         "reply": {
@@ -604,7 +604,7 @@
         },
         "tweet": {
           "total": 43,
-          "done": 40,
+          "done": 43,
           "failed": 0
         }
       },
@@ -613,7 +613,7 @@
           "date": "2026-08-31",
           "like": 7,
           "retweet": 3,
-          "tweet": 2
+          "tweet": 1
         },
         {
           "date": "2026-09-01",
@@ -653,9 +653,9 @@
         },
         {
           "date": "2026-09-07",
-          "like": 9,
+          "like": 10,
           "retweet": 2,
-          "tweet": 4
+          "tweet": 8
         }
       ],
       "campaign": {
@@ -676,14 +676,14 @@
       "engine": {
         "running": true,
         "total_planned": 22,
-        "pending": 5,
-        "executed": 17,
+        "pending": 3,
+        "executed": 19,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "e7e3e9cb-b3be-41c2-af36-39729ac8ab12",
-          "action_type": "tweet",
-          "category": "observation",
-          "scheduled_time": "2026-09-07T17:07:18.541254"
+          "id": "a0842382-019c-4a13-a762-8531d2506896",
+          "action_type": "like",
+          "category": null,
+          "scheduled_time": "2026-09-07T20:01:38.138252"
         }
       },
       "campaign_status": {
@@ -713,21 +713,21 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-07T17:10:30.738334",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-07T17:07:18.541254",
           "category": "observation",
           "source": "engine"
         },
         {
           "action_type": "tweet",
-          "status": "executing",
+          "status": "done",
           "time": "2026-09-07T17:03:29.412196",
           "category": "internet_take",
           "source": "engine"
