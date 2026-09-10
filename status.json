@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T14:04:01.051156Z",
+  "generated_at": "2026-09-10T14:33:54.295700Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -21,12 +21,12 @@
         "current": {
           "followers": 20,
           "following": 565,
-          "tweets": 251
+          "tweets": 252
         },
         "growth": {
           "followers": -2,
           "following": 0,
-          "tweets": 45
+          "tweets": 46
         },
         "history": [
           {
@@ -207,7 +207,7 @@
             "date": "2026-09-10",
             "followers": 20,
             "following": 565,
-            "tweets": 251
+            "tweets": 252
           }
         ]
       },
@@ -215,11 +215,11 @@
         "follow": {
           "total": 3,
           "done": 0,
-          "failed": 0
+          "failed": 1
         },
         "like": {
           "total": 88,
-          "done": 6,
+          "done": 7,
           "failed": 1
         },
         "reply": {
@@ -241,7 +241,7 @@
       "timeline": [
         {
           "date": "2026-09-10",
-          "like": 6,
+          "like": 7,
           "retweet": 4,
           "tweet": 2
         }
@@ -264,14 +264,14 @@
       "engine": {
         "running": true,
         "total_planned": 19,
-        "pending": 6,
-        "executed": 13,
+        "pending": 4,
+        "executed": 15,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "5bbd6bab-6696-4073-965d-5bf2489cc9e1",
-          "action_type": "follow",
-          "category": null,
-          "scheduled_time": "2026-09-10T19:53:54.490892"
+          "id": "97684ebc-b3f8-4d64-900e-98b0ea0a822c",
+          "action_type": "tweet",
+          "category": "relatable",
+          "scheduled_time": "2026-09-10T20:27:46.590131"
         }
       },
       "campaign_status": {
@@ -308,14 +308,14 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-10T19:58:19.490892",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "follow",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-09-10T19:53:54.490892",
           "category": null,
           "source": "engine"
@@ -398,12 +398,12 @@
         "current": {
           "followers": 6,
           "following": 590,
-          "tweets": 313
+          "tweets": 314
         },
         "growth": {
           "followers": 0,
           "following": 0,
-          "tweets": 159
+          "tweets": 160
         },
         "history": [
           {
@@ -584,7 +584,7 @@
             "date": "2026-09-10",
             "followers": 6,
             "following": 590,
-            "tweets": 313
+            "tweets": 314
           }
         ]
       },
@@ -596,7 +596,7 @@
         },
         "like": {
           "total": 93,
-          "done": 59,
+          "done": 60,
           "failed": 0
         },
         "reply": {
@@ -654,7 +654,7 @@
         },
         {
           "date": "2026-09-10",
-          "like": 7,
+          "like": 8,
           "retweet": 2,
           "tweet": 6
         }
@@ -677,14 +677,14 @@
       "engine": {
         "running": true,
         "total_planned": 20,
-        "pending": 7,
-        "executed": 13,
+        "pending": 6,
+        "executed": 14,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "a0a1ceb1-7ccc-446b-9e5b-8c1f2c132b9e",
+          "id": "115ce5fd-e66e-4f56-81c1-780e0bba59a7",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-09-10T19:43:32.695870"
+          "scheduled_time": "2026-09-10T20:13:31.595072"
         }
       },
       "campaign_status": {
@@ -735,7 +735,7 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-10T19:43:32.695870",
           "category": null,
           "source": "engine"
@@ -811,12 +811,12 @@
         "current": {
           "followers": 0,
           "following": 17,
-          "tweets": 162
+          "tweets": 166
         },
         "growth": {
           "followers": 0,
           "following": 0,
-          "tweets": 28
+          "tweets": 32
         },
         "history": [
           {
@@ -997,7 +997,7 @@
             "date": "2026-09-10",
             "followers": 0,
             "following": 17,
-            "tweets": 162
+            "tweets": 166
           }
         ]
       },
@@ -1015,11 +1015,11 @@
         "reply": {
           "total": 13,
           "done": 0,
-          "failed": 2
+          "failed": 3
         },
         "retweet": {
           "total": 24,
-          "done": 3,
+          "done": 4,
           "failed": 0
         },
         "tweet": {
@@ -1032,7 +1032,7 @@
         {
           "date": "2026-09-10",
           "like": 10,
-          "retweet": 3,
+          "retweet": 4,
           "tweet": 4
         }
       ],
@@ -1054,14 +1054,14 @@
       "engine": {
         "running": true,
         "total_planned": 22,
-        "pending": 4,
-        "executed": 18,
+        "pending": 2,
+        "executed": 20,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "8376f1f1-6f4d-423c-afd1-d9b1bb1a365c",
-          "action_type": "reply",
+          "id": "d910ea38-2f2d-4515-a47a-ccbc5fe46e25",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-09-10T19:36:07.612988"
+          "scheduled_time": "2026-09-10T21:08:03.123916"
         }
       },
       "campaign_status": {
@@ -1084,14 +1084,14 @@
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-10T19:39:32.454056",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-09-10T19:36:07.612988",
           "category": null,
           "source": "engine"
