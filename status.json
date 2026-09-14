@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T10:03:55.316329Z",
+  "generated_at": "2026-09-14T10:33:54.274244Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -21,12 +21,12 @@
         "current": {
           "followers": 20,
           "following": 565,
-          "tweets": 269
+          "tweets": 270
         },
         "growth": {
           "followers": -2,
           "following": 0,
-          "tweets": 42
+          "tweets": 43
         },
         "history": [
           {
@@ -207,7 +207,7 @@
             "date": "2026-09-14",
             "followers": 20,
             "following": 565,
-            "tweets": 269
+            "tweets": 270
           }
         ]
       },
@@ -229,7 +229,7 @@
         },
         "retweet": {
           "total": 28,
-          "done": 13,
+          "done": 14,
           "failed": 0
         },
         "tweet": {
@@ -266,6 +266,7 @@
         {
           "date": "2026-09-14",
           "like": 6,
+          "retweet": 1,
           "tweet": 4
         }
       ],
@@ -287,14 +288,14 @@
       "engine": {
         "running": true,
         "total_planned": 18,
-        "pending": 7,
-        "executed": 11,
+        "pending": 6,
+        "executed": 12,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "a8acb40f-ad5f-48f8-9781-48938e81a7f9",
-          "action_type": "retweet",
+          "id": "5ee6c22b-9ca8-49dc-b784-97d5a48e006e",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-09-14T16:01:46.608337"
+          "scheduled_time": "2026-09-14T16:46:06.626694"
         }
       },
       "campaign_status": {
@@ -345,7 +346,7 @@
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-14T16:01:46.608337",
           "category": null,
           "source": "engine"
@@ -421,12 +422,12 @@
         "current": {
           "followers": 7,
           "following": 590,
-          "tweets": 335
+          "tweets": 336
         },
         "growth": {
           "followers": 1,
           "following": 0,
-          "tweets": 158
+          "tweets": 159
         },
         "history": [
           {
@@ -607,7 +608,7 @@
             "date": "2026-09-14",
             "followers": 7,
             "following": 590,
-            "tweets": 335
+            "tweets": 336
           }
         ]
       },
@@ -619,7 +620,7 @@
         },
         "like": {
           "total": 96,
-          "done": 60,
+          "done": 61,
           "failed": 0
         },
         "reply": {
@@ -677,7 +678,7 @@
         },
         {
           "date": "2026-09-14",
-          "like": 6,
+          "like": 7,
           "retweet": 3,
           "tweet": 4
         }
@@ -700,14 +701,14 @@
       "engine": {
         "running": true,
         "total_planned": 24,
-        "pending": 11,
-        "executed": 13,
+        "pending": 10,
+        "executed": 14,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "f74a82d0-40a8-4aaf-bfc9-05946b1b73f2",
+          "id": "e3f1f2b9-e709-4532-981d-2b47c6193ac0",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-09-14T15:34:15.345007"
+          "scheduled_time": "2026-09-14T16:42:20.755040"
         }
       },
       "campaign_status": {
@@ -786,7 +787,7 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-14T15:34:15.345007",
           "category": null,
           "source": "engine"
@@ -1032,7 +1033,7 @@
         },
         "like": {
           "total": 97,
-          "done": 44,
+          "done": 45,
           "failed": 1
         },
         "reply": {
@@ -1046,8 +1047,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 31,
-          "done": 18,
+          "total": 32,
+          "done": 20,
           "failed": 0
         }
       },
@@ -1078,8 +1079,8 @@
         },
         {
           "date": "2026-09-14",
-          "like": 3,
-          "tweet": 4
+          "like": 4,
+          "tweet": 6
         }
       ],
       "campaign": {
@@ -1100,14 +1101,14 @@
       "engine": {
         "running": true,
         "total_planned": 16,
-        "pending": 11,
-        "executed": 5,
+        "pending": 9,
+        "executed": 7,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "e4008c86-72c0-4331-ba9a-c3da0ca30583",
-          "action_type": "tweet",
-          "category": "relatable",
-          "scheduled_time": "2026-09-14T15:41:00.850859"
+          "id": "f872db17-2c72-435f-bab5-8339c94b6e97",
+          "action_type": "like",
+          "category": null,
+          "scheduled_time": "2026-09-14T16:21:07.490467"
         }
       },
       "campaign_status": {
@@ -1179,14 +1180,14 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-14T15:59:12.857163",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-14T15:41:00.850859",
           "category": "relatable",
           "source": "engine"
@@ -1197,6 +1198,13 @@
           "time": "2026-09-14T10:13:01.787381",
           "category": null,
           "source": "engine"
+        },
+        {
+          "action_type": "tweet",
+          "status": "done",
+          "time": "2026-09-14T10:11:44.700989",
+          "category": null,
+          "source": "manual"
         },
         {
           "action_type": "like",
@@ -1210,13 +1218,6 @@
           "status": "done",
           "time": "2026-09-14T09:03:40.788997",
           "category": null,
-          "source": "engine"
-        },
-        {
-          "action_type": "tweet",
-          "status": "done",
-          "time": "2026-09-14T08:19:22.459070",
-          "category": "humor",
           "source": "engine"
         }
       ]
