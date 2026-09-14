@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T16:03:54.373899Z",
+  "generated_at": "2026-09-14T16:33:54.216736Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -218,7 +218,7 @@
           "failed": 1
         },
         "like": {
-          "total": 79,
+          "total": 78,
           "done": 42,
           "failed": 1
         },
@@ -614,14 +614,14 @@
           "failed": 3
         },
         "like": {
-          "total": 91,
-          "done": 62,
+          "total": 90,
+          "done": 61,
           "failed": 0
         },
         "reply": {
-          "total": 12,
+          "total": 11,
           "done": 0,
-          "failed": 9
+          "failed": 8
         },
         "retweet": {
           "total": 28,
@@ -637,7 +637,7 @@
       "timeline": [
         {
           "date": "2026-09-07",
-          "like": 5,
+          "like": 4,
           "tweet": 2
         },
         {
@@ -1021,14 +1021,14 @@
           "failed": 3
         },
         "like": {
-          "total": 94,
+          "total": 93,
           "done": 50,
           "failed": 1
         },
         "reply": {
           "total": 13,
           "done": 0,
-          "failed": 7
+          "failed": 8
         },
         "retweet": {
           "total": 24,
@@ -1091,15 +1091,10 @@
       "engine": {
         "running": true,
         "total_planned": 16,
-        "pending": 1,
-        "executed": 15,
-        "consecutive_failures": 0,
-        "next_action": {
-          "id": "78b6bd5f-8cf1-497e-8d89-73bb75c542ee",
-          "action_type": "reply",
-          "category": null,
-          "scheduled_time": "2026-09-14T21:38:33.629021"
-        }
+        "pending": 0,
+        "executed": 16,
+        "consecutive_failures": 1,
+        "next_action": null
       },
       "campaign_status": {
         "running": false
@@ -1107,7 +1102,7 @@
       "recent": [
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-09-14T21:38:33.629021",
           "category": null,
           "source": "engine"
