@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T02:33:54.264369Z",
+  "generated_at": "2026-09-14T03:03:54.277247Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -632,8 +632,8 @@
           "failed": 1
         },
         "tweet": {
-          "total": 50,
-          "done": 38,
+          "total": 49,
+          "done": 37,
           "failed": 0
         }
       },
@@ -642,7 +642,7 @@
           "date": "2026-09-07",
           "like": 13,
           "retweet": 2,
-          "tweet": 8
+          "tweet": 7
         },
         {
           "date": "2026-09-08",
@@ -1039,8 +1039,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 29,
-          "done": 14,
+          "total": 31,
+          "done": 18,
           "failed": 0
         }
       },
@@ -1068,6 +1068,10 @@
           "like": 9,
           "retweet": 2,
           "tweet": 2
+        },
+        {
+          "date": "2026-09-14",
+          "tweet": 4
         }
       ],
       "campaign": {
@@ -1088,14 +1092,14 @@
       "engine": {
         "running": true,
         "total_planned": 16,
-        "pending": 16,
-        "executed": 0,
+        "pending": 14,
+        "executed": 2,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "756cce67-ef66-4f65-b97d-57ff71a9d172",
-          "action_type": "tweet",
-          "category": "meta",
-          "scheduled_time": "2026-09-14T08:13:56.944182"
+          "id": "51f3efd2-3c06-4a3c-b4d9-fd54c65d8953",
+          "action_type": "like",
+          "category": null,
+          "scheduled_time": "2026-09-14T09:03:40.788997"
         }
       },
       "campaign_status": {
@@ -1202,7 +1206,7 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-14T08:19:22.459070",
           "category": "humor",
           "source": "engine"
