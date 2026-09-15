@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T14:46:34.712624Z",
+  "generated_at": "2026-09-15T15:16:34.781612Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -229,12 +229,12 @@
         },
         "retweet": {
           "total": 29,
-          "done": 18,
+          "done": 19,
           "failed": 0
         },
         "tweet": {
-          "total": 33,
-          "done": 24,
+          "total": 34,
+          "done": 26,
           "failed": 0
         }
       },
@@ -272,8 +272,8 @@
         {
           "date": "2026-09-15",
           "like": 11,
-          "retweet": 3,
-          "tweet": 2
+          "retweet": 4,
+          "tweet": 4
         }
       ],
       "campaign": {
@@ -294,14 +294,14 @@
       "engine": {
         "running": true,
         "total_planned": 20,
-        "pending": 3,
-        "executed": 17,
+        "pending": 1,
+        "executed": 19,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "2b8a40e6-486a-4f21-82c9-f69d6edc7159",
-          "action_type": "retweet",
+          "id": "7a38793b-c7eb-420b-a88a-a06bc3a75a03",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-09-15T20:22:10.293991"
+          "scheduled_time": "2026-09-15T20:47:23.261574"
         }
       },
       "campaign_status": {
@@ -324,14 +324,14 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-15T20:43:35.261574",
           "category": "humor",
           "source": "engine"
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-15T20:22:10.293991",
           "category": null,
           "source": "engine"
