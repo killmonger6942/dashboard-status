@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T14:46:34.706200Z",
+  "generated_at": "2026-09-16T15:16:34.786409Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -1040,7 +1040,7 @@
         },
         "like": {
           "total": 95,
-          "done": 72,
+          "done": 73,
           "failed": 1
         },
         "reply": {
@@ -1054,8 +1054,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 40,
-          "done": 30,
+          "total": 42,
+          "done": 34,
           "failed": 0
         }
       },
@@ -1098,9 +1098,9 @@
         },
         {
           "date": "2026-09-16",
-          "like": 9,
+          "like": 10,
           "retweet": 3,
-          "tweet": 2
+          "tweet": 6
         }
       ],
       "campaign": {
@@ -1121,14 +1121,14 @@
       "engine": {
         "running": true,
         "total_planned": 21,
-        "pending": 7,
-        "executed": 14,
-        "consecutive_failures": 1,
+        "pending": 4,
+        "executed": 17,
+        "consecutive_failures": 0,
         "next_action": {
-          "id": "ea11bd16-5129-4c05-a89c-bba242e051c3",
+          "id": "86b81712-f445-4ce7-be0c-e327e8c7ac5b",
           "action_type": "tweet",
-          "category": "question",
-          "scheduled_time": "2026-09-16T20:18:48.756829"
+          "category": "humor",
+          "scheduled_time": "2026-09-16T21:10:35.766969"
         }
       },
       "campaign_status": {
@@ -1165,21 +1165,21 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-16T20:40:27.482444",
           "category": "humor",
           "source": "engine"
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-16T20:22:09.756829",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-16T20:18:48.756829",
           "category": "question",
           "source": "engine"
