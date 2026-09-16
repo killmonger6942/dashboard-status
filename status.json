@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T03:16:34.748121Z",
+  "generated_at": "2026-09-16T03:46:34.772872Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -219,7 +219,7 @@
         },
         "like": {
           "total": 99,
-          "done": 55,
+          "done": 56,
           "failed": 1
         },
         "reply": {
@@ -233,8 +233,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 35,
-          "done": 26,
+          "total": 36,
+          "done": 28,
           "failed": 0
         }
       },
@@ -277,7 +277,8 @@
         },
         {
           "date": "2026-09-16",
-          "like": 1
+          "like": 2,
+          "tweet": 2
         }
       ],
       "campaign": {
@@ -298,14 +299,14 @@
       "engine": {
         "running": true,
         "total_planned": 18,
-        "pending": 17,
-        "executed": 1,
+        "pending": 15,
+        "executed": 3,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "f69a7fcb-836d-4c84-939c-8e2d9f8b80df",
-          "action_type": "tweet",
-          "category": "hobby",
-          "scheduled_time": "2026-09-16T08:59:08.084802"
+          "id": "2bcf9681-bc01-4cf9-9678-b72d80713bbd",
+          "action_type": "like",
+          "category": null,
+          "scheduled_time": "2026-09-16T09:24:50.954519"
         }
       },
       "campaign_status": {
@@ -630,7 +631,7 @@
         },
         "like": {
           "total": 95,
-          "done": 54,
+          "done": 55,
           "failed": 0
         },
         "reply": {
@@ -685,6 +686,10 @@
           "like": 8,
           "retweet": 5,
           "tweet": 8
+        },
+        {
+          "date": "2026-09-16",
+          "like": 1
         }
       ],
       "campaign": {
@@ -705,14 +710,14 @@
       "engine": {
         "running": true,
         "total_planned": 13,
-        "pending": 13,
-        "executed": 0,
+        "pending": 12,
+        "executed": 1,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "d0e6060d-0f69-4854-9547-c56bf45352f7",
+          "id": "0bc28767-a998-4cb6-891e-a4c79aaeb8bb",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-09-16T09:13:57.690500"
+          "scheduled_time": "2026-09-16T09:24:07.631502"
         }
       },
       "campaign_status": {
@@ -805,7 +810,7 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-16T09:13:57.690500",
           "category": null,
           "source": "engine"
@@ -1047,7 +1052,7 @@
         },
         "retweet": {
           "total": 33,
-          "done": 19,
+          "done": 20,
           "failed": 0
         },
         "tweet": {
@@ -1092,6 +1097,10 @@
           "like": 13,
           "retweet": 5,
           "tweet": 8
+        },
+        {
+          "date": "2026-09-16",
+          "retweet": 1
         }
       ],
       "campaign": {
@@ -1112,14 +1121,14 @@
       "engine": {
         "running": true,
         "total_planned": 21,
-        "pending": 21,
-        "executed": 0,
+        "pending": 20,
+        "executed": 1,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "c0cdd059-cac7-487e-ba8b-11c32b1f277a",
-          "action_type": "retweet",
+          "id": "ab6a38c6-b6ff-4328-b5eb-cb9bc4518e30",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-09-16T08:47:00.497858"
+          "scheduled_time": "2026-09-16T12:16:03.518487"
         }
       },
       "campaign_status": {
