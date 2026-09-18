@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T10:16:34.723761Z",
+  "generated_at": "2026-09-18T10:46:34.766434Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -233,8 +233,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 37,
-          "done": 31,
+          "total": 38,
+          "done": 33,
           "failed": 1
         }
       },
@@ -284,7 +284,8 @@
         {
           "date": "2026-09-18",
           "like": 9,
-          "retweet": 2
+          "retweet": 2,
+          "tweet": 2
         }
       ],
       "campaign": {
@@ -305,14 +306,14 @@
       "engine": {
         "running": true,
         "total_planned": 22,
-        "pending": 9,
-        "executed": 13,
+        "pending": 8,
+        "executed": 14,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "2edf99b6-d1d2-42e7-97a9-fd03540738a2",
-          "action_type": "tweet",
-          "category": "media",
-          "scheduled_time": "2026-09-18T16:12:27.505151"
+          "id": "de2fe5ce-1972-4575-9405-f1bb50c22ce5",
+          "action_type": "like",
+          "category": null,
+          "scheduled_time": "2026-09-18T16:22:38.356877"
         }
       },
       "campaign_status": {
@@ -377,7 +378,7 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-18T16:12:27.505151",
           "category": "media",
           "source": "engine"
@@ -637,7 +638,7 @@
         },
         "like": {
           "total": 81,
-          "done": 67,
+          "done": 70,
           "failed": 1
         },
         "reply": {
@@ -647,7 +648,7 @@
         },
         "retweet": {
           "total": 30,
-          "done": 23,
+          "done": 24,
           "failed": 0
         },
         "tweet": {
@@ -701,7 +702,8 @@
         },
         {
           "date": "2026-09-18",
-          "like": 5,
+          "like": 8,
+          "retweet": 1,
           "tweet": 4
         }
       ],
@@ -723,14 +725,14 @@
       "engine": {
         "running": true,
         "total_planned": 19,
-        "pending": 10,
-        "executed": 9,
-        "consecutive_failures": 1,
+        "pending": 6,
+        "executed": 13,
+        "consecutive_failures": 0,
         "next_action": {
-          "id": "8a66a4e5-8f44-45af-90ee-82069fcd8ca3",
-          "action_type": "like",
+          "id": "dae7af6a-f6aa-4d00-82d8-439ee3077d49",
+          "action_type": "reply",
           "category": null,
-          "scheduled_time": "2026-09-18T15:48:42.693097"
+          "scheduled_time": "2026-09-18T16:20:47.030869"
         }
       },
       "campaign_status": {
@@ -781,28 +783,28 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-18T16:15:59.680811",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-18T16:06:34.405308",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-18T15:53:59.909022",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-18T15:48:42.693097",
           "category": null,
           "source": "engine"
@@ -1136,14 +1138,14 @@
       "engine": {
         "running": true,
         "total_planned": 17,
-        "pending": 10,
-        "executed": 7,
+        "pending": 9,
+        "executed": 8,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "14998a00-b7aa-4927-937f-1c661d72d970",
+          "id": "0117154e-66ac-4288-b76e-c9f6fa972f37",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-09-18T16:01:31.480259"
+          "scheduled_time": "2026-09-18T16:17:26.092135"
         }
       },
       "campaign_status": {
