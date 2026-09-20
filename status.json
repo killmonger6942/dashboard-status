@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T06:16:34.697052Z",
+  "generated_at": "2026-09-20T06:46:34.707593Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -632,7 +632,7 @@
         },
         "like": {
           "total": 81,
-          "done": 66,
+          "done": 67,
           "failed": 1
         },
         "reply": {
@@ -642,12 +642,12 @@
         },
         "retweet": {
           "total": 30,
-          "done": 23,
+          "done": 24,
           "failed": 1
         },
         "tweet": {
-          "total": 44,
-          "done": 40,
+          "total": 43,
+          "done": 39,
           "failed": 1
         }
       },
@@ -656,7 +656,7 @@
           "date": "2026-09-13",
           "like": 5,
           "retweet": 3,
-          "tweet": 4
+          "tweet": 3
         },
         {
           "date": "2026-09-14",
@@ -696,7 +696,8 @@
         },
         {
           "date": "2026-09-20",
-          "like": 2
+          "like": 3,
+          "retweet": 1
         }
       ],
       "campaign": {
@@ -717,14 +718,14 @@
       "engine": {
         "running": true,
         "total_planned": 14,
-        "pending": 11,
-        "executed": 3,
+        "pending": 9,
+        "executed": 5,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "8c6c7bdc-6ea4-43b0-8373-a15732f09a5e",
-          "action_type": "retweet",
+          "id": "01aae408-1a18-4c0b-bb1a-2dbd768354d6",
+          "action_type": "reply",
           "category": null,
-          "scheduled_time": "2026-09-20T12:00:32.858328"
+          "scheduled_time": "2026-09-20T12:27:11.832609"
         }
       },
       "campaign_status": {
@@ -796,14 +797,14 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-20T12:10:17.256462",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-20T12:00:32.858328",
           "category": null,
           "source": "engine"
