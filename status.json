@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T04:16:34.728658Z",
+  "generated_at": "2026-09-21T04:46:38.453163Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -233,8 +233,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 39,
-          "done": 29,
+          "total": 40,
+          "done": 31,
           "failed": 2
         }
       },
@@ -283,7 +283,8 @@
         },
         {
           "date": "2026-09-21",
-          "like": 1
+          "like": 1,
+          "tweet": 2
         }
       ],
       "campaign": {
@@ -304,14 +305,14 @@
       "engine": {
         "running": true,
         "total_planned": 17,
-        "pending": 15,
-        "executed": 2,
+        "pending": 14,
+        "executed": 3,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "d0debfbc-df3e-42ce-8584-8424c8700502",
-          "action_type": "tweet",
-          "category": "internet_take",
-          "scheduled_time": "2026-09-21T09:47:02.241720"
+          "id": "b60e0668-c046-42a3-810c-9d6759825b75",
+          "action_type": "like",
+          "category": null,
+          "scheduled_time": "2026-09-21T12:18:16.898429"
         }
       },
       "campaign_status": {
@@ -418,7 +419,7 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-21T09:47:02.241720",
           "category": "internet_take",
           "source": "engine"
