@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T04:16:34.864074Z",
+  "generated_at": "2026-09-22T04:46:35.306808Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -233,8 +233,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 41,
-          "done": 31,
+          "total": 42,
+          "done": 33,
           "failed": 3
         }
       },
@@ -284,7 +284,7 @@
         {
           "date": "2026-09-22",
           "like": 2,
-          "tweet": 2
+          "tweet": 4
         }
       ],
       "campaign": {
@@ -305,14 +305,14 @@
       "engine": {
         "running": true,
         "total_planned": 18,
-        "pending": 13,
-        "executed": 5,
+        "pending": 12,
+        "executed": 6,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "afd2dd54-6804-4b0a-aec1-8bc997fe0552",
-          "action_type": "tweet",
-          "category": "observation",
-          "scheduled_time": "2026-09-22T10:04:23.224878"
+          "id": "74213aad-4308-48e7-a468-2de772ebf2cd",
+          "action_type": "retweet",
+          "category": null,
+          "scheduled_time": "2026-09-22T12:18:25.164922"
         }
       },
       "campaign_status": {
@@ -405,7 +405,7 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-22T10:04:23.224878",
           "category": "observation",
           "source": "engine"
@@ -1112,14 +1112,14 @@
       "engine": {
         "running": true,
         "total_planned": 21,
-        "pending": 17,
-        "executed": 4,
+        "pending": 15,
+        "executed": 6,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "64c5cf18-df07-492f-8cd7-71fbd6d80ac8",
-          "action_type": "retweet",
+          "id": "f0cc23c1-cb3a-4153-9cb4-fc789fb23a7d",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-09-22T10:02:49.765883"
+          "scheduled_time": "2026-09-22T12:12:47.812455"
         }
       },
       "campaign_status": {
