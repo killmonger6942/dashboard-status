@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T14:46:34.706877Z",
+  "generated_at": "2026-09-22T15:16:34.830407Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -233,8 +233,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 42,
-          "done": 34,
+          "total": 41,
+          "done": 33,
           "failed": 3
         }
       },
@@ -243,7 +243,7 @@
           "date": "2026-09-15",
           "like": 8,
           "retweet": 1,
-          "tweet": 2
+          "tweet": 1
         },
         {
           "date": "2026-09-16",
@@ -638,7 +638,7 @@
         },
         "like": {
           "total": 77,
-          "done": 71,
+          "done": 72,
           "failed": 1
         },
         "reply": {
@@ -652,7 +652,7 @@
           "failed": 1
         },
         "tweet": {
-          "total": 38,
+          "total": 39,
           "done": 34,
           "failed": 2
         }
@@ -702,7 +702,7 @@
         },
         {
           "date": "2026-09-22",
-          "like": 8,
+          "like": 9,
           "retweet": 3,
           "tweet": 4
         }
@@ -725,14 +725,14 @@
       "engine": {
         "running": true,
         "total_planned": 19,
-        "pending": 3,
-        "executed": 16,
+        "pending": 1,
+        "executed": 18,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "52ab9684-6a56-40fb-9277-5ae22485ae7e",
+          "id": "c73858f3-c690-4d60-ad5b-1564adbf5cad",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-09-22T20:35:56.299045"
+          "scheduled_time": "2026-09-22T21:14:29.585532"
         }
       },
       "campaign_status": {
@@ -748,14 +748,14 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "executing",
           "time": "2026-09-22T20:46:25.954866",
           "category": "coffee",
           "source": "engine"
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-22T20:35:56.299045",
           "category": null,
           "source": "engine"
@@ -811,6 +811,13 @@
         },
         {
           "action_type": "tweet",
+          "status": "approved",
+          "time": "2026-09-22T15:16:29.379033",
+          "category": null,
+          "source": "manual"
+        },
+        {
+          "action_type": "tweet",
           "status": "done",
           "time": "2026-09-22T13:19:39.344402",
           "category": "personal_experience",
@@ -834,13 +841,6 @@
           "action_type": "reply",
           "status": "failed",
           "time": "2026-09-22T12:12:18.173192",
-          "category": null,
-          "source": "engine"
-        },
-        {
-          "action_type": "retweet",
-          "status": "done",
-          "time": "2026-09-22T12:02:16.346146",
           "category": null,
           "source": "engine"
         }
@@ -1114,14 +1114,14 @@
       "engine": {
         "running": true,
         "total_planned": 21,
-        "pending": 5,
-        "executed": 16,
+        "pending": 3,
+        "executed": 18,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "0a640403-0d29-4535-8563-cda66ea4a8ba",
+          "id": "b3be5296-1e4d-4ae7-b913-d5b44f54d577",
           "action_type": "tweet",
-          "category": "bangalore",
-          "scheduled_time": "2026-09-22T20:30:57.295476"
+          "category": "humor",
+          "scheduled_time": "2026-09-22T21:06:23.518343"
         }
       },
       "campaign_status": {
