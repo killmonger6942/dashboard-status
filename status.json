@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T06:16:34.929595Z",
+  "generated_at": "2026-09-24T06:46:34.783741Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -219,7 +219,7 @@
         },
         "like": {
           "total": 89,
-          "done": 80,
+          "done": 82,
           "failed": 1
         },
         "reply": {
@@ -283,7 +283,7 @@
         },
         {
           "date": "2026-09-24",
-          "like": 4,
+          "like": 6,
           "retweet": 2
         }
       ],
@@ -305,14 +305,14 @@
       "engine": {
         "running": true,
         "total_planned": 24,
-        "pending": 17,
-        "executed": 7,
+        "pending": 15,
+        "executed": 9,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "5af99e6f-0e5b-434c-88b4-f511b6effb7a",
-          "action_type": "like",
-          "category": null,
-          "scheduled_time": "2026-09-24T12:05:36.481369"
+          "id": "0295d715-70ec-4491-a1fb-ecbd0981545c",
+          "action_type": "tweet",
+          "category": "observation",
+          "scheduled_time": "2026-09-24T12:21:31.392449"
         }
       },
       "campaign_status": {
@@ -643,7 +643,7 @@
         "reply": {
           "total": 19,
           "done": 0,
-          "failed": 17
+          "failed": 18
         },
         "retweet": {
           "total": 23,
@@ -651,8 +651,8 @@
           "failed": 2
         },
         "tweet": {
-          "total": 41,
-          "done": 31,
+          "total": 42,
+          "done": 33,
           "failed": 3
         }
       },
@@ -700,7 +700,8 @@
         },
         {
           "date": "2026-09-24",
-          "like": 1
+          "like": 1,
+          "tweet": 2
         }
       ],
       "campaign": {
@@ -721,14 +722,14 @@
       "engine": {
         "running": true,
         "total_planned": 23,
-        "pending": 21,
-        "executed": 2,
+        "pending": 19,
+        "executed": 4,
         "consecutive_failures": 1,
         "next_action": {
-          "id": "aeb12076-19f4-4d33-b333-5be494dc0f85",
-          "action_type": "tweet",
-          "category": "hot_take",
-          "scheduled_time": "2026-09-24T12:09:38.498697"
+          "id": "806ec050-e2f5-45bf-9fdf-d884661ff899",
+          "action_type": "retweet",
+          "category": null,
+          "scheduled_time": "2026-09-24T12:19:13.424507"
         }
       },
       "campaign_status": {
