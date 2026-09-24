@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T10:46:34.704965Z",
+  "generated_at": "2026-09-24T11:16:34.711216Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -229,7 +229,7 @@
         },
         "retweet": {
           "total": 26,
-          "done": 23,
+          "done": 24,
           "failed": 0
         },
         "tweet": {
@@ -284,7 +284,7 @@
         {
           "date": "2026-09-24",
           "like": 9,
-          "retweet": 3,
+          "retweet": 4,
           "tweet": 6
         }
       ],
@@ -306,14 +306,14 @@
       "engine": {
         "running": true,
         "total_planned": 24,
-        "pending": 8,
-        "executed": 16,
+        "pending": 7,
+        "executed": 17,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "8553d9a2-04fe-40d3-903e-b1746087ac8b",
+          "id": "05f32880-561a-4fa6-9e2e-30cf5862a245",
           "action_type": "retweet",
           "category": null,
-          "scheduled_time": "2026-09-24T16:33:13.067421"
+          "scheduled_time": "2026-09-24T16:47:47.954708"
         }
       },
       "campaign_status": {
@@ -371,7 +371,7 @@
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-24T16:33:13.067421",
           "category": null,
           "source": "engine"
@@ -1100,14 +1100,14 @@
       "engine": {
         "running": true,
         "total_planned": 16,
-        "pending": 5,
-        "executed": 11,
+        "pending": 2,
+        "executed": 14,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "ee9b1765-d4bf-4a0a-8570-ae28f72ea5e1",
-          "action_type": "like",
-          "category": null,
-          "scheduled_time": "2026-09-24T16:22:30.938828"
+          "id": "480f4311-46ea-440a-88bf-14a996a48d4f",
+          "action_type": "tweet",
+          "category": "opinion",
+          "scheduled_time": "2026-09-24T19:32:18.075577"
         }
       },
       "campaign_status": {
