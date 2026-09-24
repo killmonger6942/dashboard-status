@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:16:34.711216Z",
+  "generated_at": "2026-09-24T11:46:34.713686Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -229,12 +229,12 @@
         },
         "retweet": {
           "total": 26,
-          "done": 24,
+          "done": 25,
           "failed": 0
         },
         "tweet": {
-          "total": 47,
-          "done": 42,
+          "total": 46,
+          "done": 41,
           "failed": 2
         }
       },
@@ -243,7 +243,7 @@
           "date": "2026-09-17",
           "like": 10,
           "retweet": 5,
-          "tweet": 6
+          "tweet": 5
         },
         {
           "date": "2026-09-18",
@@ -284,7 +284,7 @@
         {
           "date": "2026-09-24",
           "like": 9,
-          "retweet": 4,
+          "retweet": 5,
           "tweet": 6
         }
       ],
@@ -306,14 +306,14 @@
       "engine": {
         "running": true,
         "total_planned": 24,
-        "pending": 7,
-        "executed": 17,
+        "pending": 6,
+        "executed": 18,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "05f32880-561a-4fa6-9e2e-30cf5862a245",
-          "action_type": "retweet",
+          "id": "f7c847b3-3b3f-47e3-a7b7-2b9dfcb19ce5",
+          "action_type": "reply",
           "category": null,
-          "scheduled_time": "2026-09-24T16:47:47.954708"
+          "scheduled_time": "2026-09-24T19:42:23.210962"
         }
       },
       "campaign_status": {
@@ -364,7 +364,7 @@
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-24T16:47:47.954708",
           "category": null,
           "source": "engine"
@@ -652,8 +652,8 @@
           "failed": 2
         },
         "tweet": {
-          "total": 42,
-          "done": 35,
+          "total": 41,
+          "done": 34,
           "failed": 3
         }
       },
@@ -662,7 +662,7 @@
           "date": "2026-09-17",
           "like": 11,
           "retweet": 2,
-          "tweet": 3
+          "tweet": 2
         },
         {
           "date": "2026-09-18",
