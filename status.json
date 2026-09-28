@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T04:16:34.691630Z",
+  "generated_at": "2026-09-28T04:46:35.326345Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -233,8 +233,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 47,
-          "done": 44,
+          "total": 46,
+          "done": 43,
           "failed": 1
         }
       },
@@ -243,7 +243,7 @@
           "date": "2026-09-21",
           "like": 10,
           "retweet": 2,
-          "tweet": 6
+          "tweet": 5
         },
         {
           "date": "2026-09-22",
@@ -638,7 +638,7 @@
         },
         "like": {
           "total": 84,
-          "done": 77,
+          "done": 78,
           "failed": 2
         },
         "reply": {
@@ -648,7 +648,7 @@
         },
         "retweet": {
           "total": 24,
-          "done": 18,
+          "done": 19,
           "failed": 1
         },
         "tweet": {
@@ -701,7 +701,8 @@
         },
         {
           "date": "2026-09-28",
-          "like": 3
+          "like": 4,
+          "retweet": 1
         }
       ],
       "campaign": {
@@ -722,14 +723,14 @@
       "engine": {
         "running": true,
         "total_planned": 16,
-        "pending": 12,
-        "executed": 4,
+        "pending": 10,
+        "executed": 6,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "6949ccd8-74a1-4d40-bff6-cee08f3e3e39",
+          "id": "180c0f2f-56db-4b94-acf1-c749205ea0f2",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-09-28T09:55:17.493424"
+          "scheduled_time": "2026-09-28T12:01:06.478247"
         }
       },
       "campaign_status": {
@@ -808,14 +809,14 @@
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-28T10:13:19.492592",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-28T09:55:17.493424",
           "category": null,
           "source": "engine"
