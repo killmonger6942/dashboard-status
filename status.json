@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T11:46:34.797880Z",
+  "generated_at": "2026-09-28T12:16:34.705969Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -652,8 +652,8 @@
           "failed": 1
         },
         "tweet": {
-          "total": 35,
-          "done": 29,
+          "total": 36,
+          "done": 31,
           "failed": 3
         }
       },
@@ -703,7 +703,7 @@
           "date": "2026-09-28",
           "like": 7,
           "retweet": 3,
-          "tweet": 4
+          "tweet": 6
         }
       ],
       "campaign": {
@@ -724,14 +724,14 @@
       "engine": {
         "running": true,
         "total_planned": 16,
-        "pending": 3,
-        "executed": 13,
+        "pending": 2,
+        "executed": 14,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "8d6647ff-45a0-4cf3-8a55-79052dab1921",
-          "action_type": "tweet",
-          "category": "opinion",
-          "scheduled_time": "2026-09-28T17:17:28.342185"
+          "id": "2317974b-0cf1-4c10-b5af-0e4fd2a1d3d6",
+          "action_type": "like",
+          "category": null,
+          "scheduled_time": "2026-09-28T19:49:42.142247"
         }
       },
       "campaign_status": {
@@ -754,7 +754,7 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-09-28T17:17:28.342185",
           "category": "opinion",
           "source": "engine"
@@ -809,6 +809,13 @@
           "source": "engine"
         },
         {
+          "action_type": "tweet",
+          "status": "done",
+          "time": "2026-09-28T11:48:15.753668",
+          "category": null,
+          "source": "manual"
+        },
+        {
           "action_type": "retweet",
           "status": "done",
           "time": "2026-09-28T10:13:19.492592",
@@ -833,13 +840,6 @@
           "action_type": "like",
           "status": "done",
           "time": "2026-09-28T08:23:02.388319",
-          "category": null,
-          "source": "engine"
-        },
-        {
-          "action_type": "like",
-          "status": "done",
-          "time": "2026-09-28T08:18:37.388319",
           "category": null,
           "source": "engine"
         }
@@ -1065,7 +1065,7 @@
           "failed": 0
         },
         "retweet": {
-          "total": 22,
+          "total": 21,
           "done": 0,
           "failed": 0
         },
