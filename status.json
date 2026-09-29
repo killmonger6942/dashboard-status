@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T11:16:34.752068Z",
+  "generated_at": "2026-09-29T11:46:34.704911Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -225,7 +225,7 @@
         "reply": {
           "total": 15,
           "done": 0,
-          "failed": 14
+          "failed": 15
         },
         "retweet": {
           "total": 26,
@@ -306,14 +306,14 @@
       "engine": {
         "running": true,
         "total_planned": 17,
-        "pending": 6,
-        "executed": 11,
-        "consecutive_failures": 1,
+        "pending": 5,
+        "executed": 12,
+        "consecutive_failures": 2,
         "next_action": {
-          "id": "6dfa0f12-df86-4754-a1fd-38562ff3f711",
-          "action_type": "reply",
+          "id": "a749d56d-00a9-4e39-b032-36e926eddc1f",
+          "action_type": "retweet",
           "category": null,
-          "scheduled_time": "2026-09-29T16:54:17.495931"
+          "scheduled_time": "2026-09-29T19:38:36.520371"
         }
       },
       "campaign_status": {
@@ -357,7 +357,7 @@
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-09-29T16:54:17.495931",
           "category": null,
           "source": "engine"
@@ -722,14 +722,14 @@
       "engine": {
         "running": true,
         "total_planned": 17,
-        "pending": 7,
-        "executed": 10,
+        "pending": 5,
+        "executed": 12,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "c92ebf7f-13ca-409a-a2e5-2bf81a70dfdf",
+          "id": "af30ea58-14c9-45dd-a6ed-66fe601eb5f1",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-09-29T16:50:02.700656"
+          "scheduled_time": "2026-09-29T20:42:11.919163"
         }
       },
       "campaign_status": {
@@ -1092,14 +1092,14 @@
       "engine": {
         "running": true,
         "total_planned": 21,
-        "pending": 7,
-        "executed": 14,
+        "pending": 4,
+        "executed": 17,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "2d96a235-75c7-4adf-b738-135f066010a7",
+          "id": "820af848-08c2-4334-8e26-b7796e096088",
           "action_type": "reply",
           "category": null,
-          "scheduled_time": "2026-09-29T17:04:20.617615"
+          "scheduled_time": "2026-09-29T19:30:04.015310"
         }
       },
       "campaign_status": {
