@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T03:16:34.775863Z",
+  "generated_at": "2026-10-02T03:46:34.820834Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -219,13 +219,13 @@
         },
         "like": {
           "total": 77,
-          "done": 65,
+          "done": 67,
           "failed": 1
         },
         "reply": {
           "total": 14,
           "done": 0,
-          "failed": 12
+          "failed": 13
         },
         "retweet": {
           "total": 22,
@@ -283,7 +283,7 @@
         },
         {
           "date": "2026-10-02",
-          "like": 2,
+          "like": 4,
           "retweet": 1
         }
       ],
@@ -305,14 +305,14 @@
       "engine": {
         "running": true,
         "total_planned": 20,
-        "pending": 17,
-        "executed": 3,
-        "consecutive_failures": 0,
+        "pending": 14,
+        "executed": 6,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "8c61b8cd-c8d2-43d1-96d9-8cba7c789dc3",
+          "id": "847651d7-69cd-45cc-a476-ca01b6e0ffd6",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-10-02T08:53:06.384365"
+          "scheduled_time": "2026-10-02T09:43:55.171368"
         }
       },
       "campaign_status": {
@@ -419,7 +419,7 @@
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-10-02T09:10:32.078692",
           "category": null,
           "source": "engine"
@@ -1074,14 +1074,14 @@
       "engine": {
         "running": true,
         "total_planned": 23,
-        "pending": 22,
-        "executed": 1,
+        "pending": 19,
+        "executed": 4,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "ccce08c9-b917-4c3e-ba94-5838867a0f48",
-          "action_type": "tweet",
-          "category": "opinion",
-          "scheduled_time": "2026-10-02T08:58:00.818441"
+          "id": "52c40cac-1ebd-427c-b948-5341bcd5fc16",
+          "action_type": "retweet",
+          "category": null,
+          "scheduled_time": "2026-10-02T12:06:06.673360"
         }
       },
       "campaign_status": {
