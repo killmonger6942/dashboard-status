@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T07:46:34.706061Z",
+  "generated_at": "2026-10-02T08:16:34.720077Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -219,7 +219,7 @@
         },
         "like": {
           "total": 77,
-          "done": 73,
+          "done": 74,
           "failed": 1
         },
         "reply": {
@@ -228,13 +228,13 @@
           "failed": 14
         },
         "retweet": {
-          "total": 22,
-          "done": 20,
+          "total": 21,
+          "done": 19,
           "failed": 0
         },
         "tweet": {
-          "total": 38,
-          "done": 35,
+          "total": 37,
+          "done": 36,
           "failed": 0
         }
       },
@@ -242,8 +242,8 @@
         {
           "date": "2026-09-25",
           "like": 9,
-          "retweet": 4,
-          "tweet": 7
+          "retweet": 3,
+          "tweet": 6
         },
         {
           "date": "2026-09-26",
@@ -283,8 +283,9 @@
         },
         {
           "date": "2026-10-02",
-          "like": 10,
-          "retweet": 1
+          "like": 11,
+          "retweet": 1,
+          "tweet": 2
         }
       ],
       "campaign": {
@@ -305,14 +306,14 @@
       "engine": {
         "running": true,
         "total_planned": 20,
-        "pending": 6,
-        "executed": 14,
+        "pending": 5,
+        "executed": 15,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "2dad5ef7-462e-4115-aac8-3202d57412f2",
-          "action_type": "like",
+          "id": "f7fd4d13-48c4-43bb-99b0-f46b921fa1c4",
+          "action_type": "retweet",
           "category": null,
-          "scheduled_time": "2026-10-02T13:28:27.710212"
+          "scheduled_time": "2026-10-02T15:57:01.356934"
         }
       },
       "campaign_status": {
@@ -356,14 +357,14 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-02T13:28:27.710212",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "tweet",
-          "status": "executing",
+          "status": "done",
           "time": "2026-10-02T13:16:00.508935",
           "category": "hobby",
           "source": "engine"
@@ -651,8 +652,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 28,
-          "done": 16,
+          "total": 26,
+          "done": 14,
           "failed": 0
         }
       },
@@ -661,7 +662,7 @@
           "date": "2026-09-25",
           "like": 12,
           "retweet": 3,
-          "tweet": 6
+          "tweet": 4
         },
         {
           "date": "2026-09-26",
@@ -704,14 +705,14 @@
       "engine": {
         "running": true,
         "total_planned": 16,
-        "pending": 12,
-        "executed": 4,
+        "pending": 10,
+        "executed": 6,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "1cbb6c44-0792-4010-9493-2581257cb2ad",
+          "id": "76a0d5b6-658c-4e64-a214-d5fa05722eed",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-10-02T13:27:58.775424"
+          "scheduled_time": "2026-10-02T15:52:14.083516"
         }
       },
       "campaign_status": {
@@ -1045,7 +1046,7 @@
           "failed": 0
         },
         "retweet": {
-          "total": 25,
+          "total": 24,
           "done": 0,
           "failed": 0
         },
@@ -1074,14 +1075,14 @@
       "engine": {
         "running": true,
         "total_planned": 23,
-        "pending": 14,
-        "executed": 9,
+        "pending": 11,
+        "executed": 12,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "d6590b18-70c4-454d-801c-7d82165edd7e",
+          "id": "9095f4c1-b219-4c87-930c-00dceb1e621b",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-10-02T13:28:00.707815"
+          "scheduled_time": "2026-10-02T15:31:05.226421"
         }
       },
       "campaign_status": {
