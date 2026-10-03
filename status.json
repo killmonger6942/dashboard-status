@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T09:46:34.710677Z",
+  "generated_at": "2026-10-03T10:16:34.699802Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -220,7 +220,7 @@
         "like": {
           "total": 74,
           "done": 69,
-          "failed": 1
+          "failed": 2
         },
         "reply": {
           "total": 12,
@@ -233,8 +233,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 33,
-          "done": 33,
+          "total": 32,
+          "done": 32,
           "failed": 0
         }
       },
@@ -242,7 +242,7 @@
         {
           "date": "2026-09-26",
           "like": 7,
-          "tweet": 3
+          "tweet": 2
         },
         {
           "date": "2026-09-27",
@@ -304,14 +304,14 @@
       "engine": {
         "running": true,
         "total_planned": 11,
-        "pending": 7,
-        "executed": 4,
-        "consecutive_failures": 1,
+        "pending": 6,
+        "executed": 5,
+        "consecutive_failures": 2,
         "next_action": {
-          "id": "2351db22-962f-44e4-a386-536527c889da",
-          "action_type": "like",
+          "id": "f3ff8bba-a3f6-4e1d-874f-bc05e5bbb29e",
+          "action_type": "retweet",
           "category": null,
-          "scheduled_time": "2026-10-03T15:43:01.597235"
+          "scheduled_time": "2026-10-03T15:47:37.597235"
         }
       },
       "campaign_status": {
@@ -362,7 +362,7 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-10-03T15:43:01.597235",
           "category": null,
           "source": "engine"
@@ -1028,7 +1028,7 @@
           "failed": 0
         },
         "like": {
-          "total": 77,
+          "total": 76,
           "done": 0,
           "failed": 0
         },
@@ -1067,14 +1067,14 @@
       "engine": {
         "running": true,
         "total_planned": 14,
-        "pending": 10,
-        "executed": 4,
+        "pending": 9,
+        "executed": 5,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "439b430c-980c-4412-b0db-faebfbdfd88e",
-          "action_type": "follow",
+          "id": "0a8ad68c-c816-47a2-ad8e-7526962a4359",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-10-03T15:46:14.009274"
+          "scheduled_time": "2026-10-03T15:58:51.786402"
         }
       },
       "campaign_status": {
