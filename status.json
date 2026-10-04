@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T15:16:34.841865Z",
+  "generated_at": "2026-10-04T15:46:34.696252Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -233,8 +233,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 31,
-          "done": 30,
+          "total": 32,
+          "done": 32,
           "failed": 0
         }
       },
@@ -284,7 +284,7 @@
           "date": "2026-10-04",
           "like": 5,
           "retweet": 1,
-          "tweet": 2
+          "tweet": 4
         }
       ],
       "campaign": {
@@ -305,15 +305,10 @@
       "engine": {
         "running": true,
         "total_planned": 9,
-        "pending": 1,
-        "executed": 8,
+        "pending": 0,
+        "executed": 9,
         "consecutive_failures": 0,
-        "next_action": {
-          "id": "d893c3eb-5724-4cd4-80ee-95f79ce13f86",
-          "action_type": "tweet",
-          "category": "tip",
-          "scheduled_time": "2026-10-04T21:07:01.063035"
-        }
+        "next_action": null
       },
       "campaign_status": {
         "running": false
@@ -321,7 +316,7 @@
       "recent": [
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-04T21:07:01.063035",
           "category": "tip",
           "source": "engine"
@@ -339,6 +334,13 @@
           "time": "2026-10-04T15:55:37.966646",
           "category": null,
           "source": "engine"
+        },
+        {
+          "action_type": "tweet",
+          "status": "done",
+          "time": "2026-10-04T15:37:49.850624",
+          "category": null,
+          "source": "manual"
         },
         {
           "action_type": "like",
@@ -414,13 +416,6 @@
           "action_type": "reply",
           "status": "failed",
           "time": "2026-10-03T20:06:58.148914",
-          "category": null,
-          "source": "engine"
-        },
-        {
-          "action_type": "retweet",
-          "status": "done",
-          "time": "2026-10-03T16:42:59.594587",
           "category": null,
           "source": "engine"
         }
@@ -651,8 +646,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 24,
-          "done": 8,
+          "total": 23,
+          "done": 7,
           "failed": 0
         }
       },
@@ -661,7 +656,7 @@
           "date": "2026-09-27",
           "like": 3,
           "retweet": 1,
-          "tweet": 2
+          "tweet": 1
         },
         {
           "date": "2026-09-28",
