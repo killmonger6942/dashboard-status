@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T14:46:34.704694Z",
+  "generated_at": "2026-10-09T15:16:35.064783Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -652,14 +652,14 @@
       "engine": {
         "running": true,
         "total_planned": 18,
-        "pending": 5,
-        "executed": 13,
+        "pending": 1,
+        "executed": 17,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "b8ba3421-dba3-49fc-bbb5-1a581da1f50d",
-          "action_type": "retweet",
+          "id": "96ac38e5-efc9-4b24-93e8-0cd5c19a0e28",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-10-09T20:18:31.119012"
+          "scheduled_time": "2026-10-09T21:39:14.289751"
         }
       },
       "campaign_status": {
@@ -1022,15 +1022,10 @@
       "engine": {
         "running": true,
         "total_planned": 23,
-        "pending": 1,
-        "executed": 22,
+        "pending": 0,
+        "executed": 23,
         "consecutive_failures": 3,
-        "next_action": {
-          "id": "7fdcbe33-9002-41b4-b09f-abc005d07e57",
-          "action_type": "tweet",
-          "category": "internet_take",
-          "scheduled_time": "2026-10-09T20:27:49.202692"
-        }
+        "next_action": null
       },
       "campaign_status": {
         "running": false
