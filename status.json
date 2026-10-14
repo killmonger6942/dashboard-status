@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T03:22:04.042104Z",
+  "generated_at": "2026-10-14T03:52:04.027287Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -229,12 +229,12 @@
         },
         "retweet": {
           "total": 24,
-          "done": 5,
+          "done": 6,
           "failed": 0
         },
         "tweet": {
-          "total": 26,
-          "done": 12,
+          "total": 27,
+          "done": 14,
           "failed": 0
         }
       },
@@ -254,7 +254,8 @@
         {
           "date": "2026-10-14",
           "like": 1,
-          "tweet": 2
+          "retweet": 1,
+          "tweet": 4
         }
       ],
       "campaign": {
@@ -275,14 +276,14 @@
       "engine": {
         "running": true,
         "total_planned": 16,
-        "pending": 14,
-        "executed": 2,
+        "pending": 12,
+        "executed": 4,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "f7f9e7fa-deac-4525-915c-23e15e2131ca",
-          "action_type": "retweet",
-          "category": null,
-          "scheduled_time": "2026-10-14T08:54:06.745462"
+          "id": "872f8159-37f4-4b7a-be63-f54dfe2fed16",
+          "action_type": "tweet",
+          "category": "nostalgia",
+          "scheduled_time": "2026-10-14T09:40:24.410378"
         }
       },
       "campaign_status": {
@@ -375,14 +376,14 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-14T09:20:36.398855",
           "category": "food_life",
           "source": "engine"
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-14T08:54:06.745462",
           "category": null,
           "source": "engine"
@@ -994,13 +995,13 @@
         },
         "like": {
           "total": 80,
-          "done": 17,
+          "done": 18,
           "failed": 0
         },
         "reply": {
           "total": 16,
           "done": 0,
-          "failed": 2
+          "failed": 3
         },
         "retweet": {
           "total": 24,
@@ -1027,6 +1028,7 @@
         },
         {
           "date": "2026-10-14",
+          "like": 1,
           "tweet": 2
         }
       ],
@@ -1048,14 +1050,14 @@
       "engine": {
         "running": true,
         "total_planned": 20,
-        "pending": 19,
-        "executed": 1,
-        "consecutive_failures": 0,
+        "pending": 17,
+        "executed": 3,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "72929c0d-6445-4151-9801-c0cf4a9e003d",
+          "id": "64d3a104-cd9e-452f-b5d1-18bd66d729a2",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-10-14T08:57:42.987425"
+          "scheduled_time": "2026-10-14T09:36:30.352125"
         }
       },
       "campaign_status": {
