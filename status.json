@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T06:39:05.664743Z",
+  "generated_at": "2026-10-15T07:09:05.583489Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -219,7 +219,7 @@
         },
         "like": {
           "total": 96,
-          "done": 27,
+          "done": 28,
           "failed": 2
         },
         "reply": {
@@ -259,7 +259,7 @@
         },
         {
           "date": "2026-10-15",
-          "like": 1
+          "like": 2
         }
       ],
       "campaign": {
@@ -280,14 +280,14 @@
       "engine": {
         "running": true,
         "total_planned": 17,
-        "pending": 16,
-        "executed": 1,
+        "pending": 15,
+        "executed": 2,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "163fac2c-dd24-4d5e-b99a-c24555d53b9a",
-          "action_type": "like",
-          "category": null,
-          "scheduled_time": "2026-10-15T12:37:36.450168"
+          "id": "d5ff157d-e8e8-43b4-8e54-2a73ac04e7aa",
+          "action_type": "tweet",
+          "category": "food_life",
+          "scheduled_time": "2026-10-15T12:53:26.714142"
         }
       },
       "campaign_status": {
@@ -618,7 +618,7 @@
         "reply": {
           "total": 17,
           "done": 0,
-          "failed": 4
+          "failed": 5
         },
         "retweet": {
           "total": 31,
@@ -626,8 +626,8 @@
           "failed": 1
         },
         "tweet": {
-          "total": 34,
-          "done": 18,
+          "total": 35,
+          "done": 20,
           "failed": 0
         }
       },
@@ -653,7 +653,7 @@
           "date": "2026-10-15",
           "like": 4,
           "retweet": 1,
-          "tweet": 2
+          "tweet": 4
         }
       ],
       "campaign": {
@@ -674,14 +674,14 @@
       "engine": {
         "running": true,
         "total_planned": 20,
-        "pending": 13,
-        "executed": 7,
-        "consecutive_failures": 1,
+        "pending": 11,
+        "executed": 9,
+        "consecutive_failures": 0,
         "next_action": {
-          "id": "fbbc56e4-7f80-419e-b426-e2d9fe95e31f",
-          "action_type": "reply",
+          "id": "d94b181d-e292-494d-b00f-7e80a456c02e",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-10-15T12:23:01.642142"
+          "scheduled_time": "2026-10-15T13:11:08.611447"
         }
       },
       "campaign_status": {
@@ -767,14 +767,14 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-15T12:33:07.161671",
           "category": "observation",
           "source": "engine"
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-10-15T12:23:01.642142",
           "category": null,
           "source": "engine"
