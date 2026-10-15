@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T08:09:05.545629Z",
+  "generated_at": "2026-10-15T08:39:05.543247Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -219,7 +219,7 @@
         },
         "like": {
           "total": 96,
-          "done": 29,
+          "done": 30,
           "failed": 2
         },
         "reply": {
@@ -259,7 +259,7 @@
         },
         {
           "date": "2026-10-15",
-          "like": 3,
+          "like": 4,
           "tweet": 2
         }
       ],
@@ -281,14 +281,14 @@
       "engine": {
         "running": true,
         "total_planned": 17,
-        "pending": 13,
-        "executed": 4,
+        "pending": 12,
+        "executed": 5,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "3e9e9dfc-fba9-4c4e-ab4c-d3f2c4a7771e",
+          "id": "75898dd0-6b8f-4c0f-b8db-2e54d2bdd8d3",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-10-15T13:42:36.072716"
+          "scheduled_time": "2026-10-15T15:34:45.771230"
         }
       },
       "campaign_status": {
@@ -381,7 +381,7 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-15T13:42:36.072716",
           "category": null,
           "source": "engine"
@@ -623,7 +623,7 @@
         },
         "retweet": {
           "total": 31,
-          "done": 9,
+          "done": 10,
           "failed": 1
         },
         "tweet": {
@@ -653,7 +653,7 @@
         {
           "date": "2026-10-15",
           "like": 5,
-          "retweet": 1,
+          "retweet": 2,
           "tweet": 4
         }
       ],
@@ -675,14 +675,14 @@
       "engine": {
         "running": true,
         "total_planned": 20,
-        "pending": 9,
-        "executed": 11,
-        "consecutive_failures": 1,
+        "pending": 8,
+        "executed": 12,
+        "consecutive_failures": 0,
         "next_action": {
-          "id": "91086c91-ec00-44fc-b2b2-46981af376d5",
-          "action_type": "retweet",
+          "id": "644bf853-2c00-4887-a527-8e7813e35759",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-10-15T13:43:13.998958"
+          "scheduled_time": "2026-10-15T15:51:15.169319"
         }
       },
       "campaign_status": {
@@ -747,7 +747,7 @@
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-15T13:43:13.998958",
           "category": null,
           "source": "engine"
@@ -1016,7 +1016,7 @@
           "failed": 5
         },
         "retweet": {
-          "total": 30,
+          "total": 29,
           "done": 10,
           "failed": 0
         },
