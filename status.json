@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T14:39:05.688506Z",
+  "generated_at": "2026-10-16T15:09:05.567526Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -630,12 +630,12 @@
         },
         "retweet": {
           "total": 29,
-          "done": 12,
+          "done": 13,
           "failed": 2
         },
         "tweet": {
-          "total": 37,
-          "done": 26,
+          "total": 38,
+          "done": 28,
           "failed": 0
         }
       },
@@ -666,8 +666,8 @@
         {
           "date": "2026-10-16",
           "like": 10,
-          "retweet": 1,
-          "tweet": 4
+          "retweet": 2,
+          "tweet": 6
         }
       ],
       "campaign": {
@@ -688,15 +688,10 @@
       "engine": {
         "running": true,
         "total_planned": 17,
-        "pending": 2,
-        "executed": 15,
-        "consecutive_failures": 1,
-        "next_action": {
-          "id": "318ec2da-99df-4db9-ab9d-f1a60d755239",
-          "action_type": "retweet",
-          "category": null,
-          "scheduled_time": "2026-10-16T20:31:53.564702"
-        }
+        "pending": 0,
+        "executed": 17,
+        "consecutive_failures": 0,
+        "next_action": null
       },
       "campaign_status": {
         "running": false
@@ -704,14 +699,14 @@
       "recent": [
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-16T20:37:37.312387",
           "category": "question",
           "source": "engine"
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-16T20:31:53.564702",
           "category": null,
           "source": "engine"
@@ -768,6 +763,13 @@
         {
           "action_type": "tweet",
           "status": "done",
+          "time": "2026-10-16T15:08:25.560346",
+          "category": null,
+          "source": "manual"
+        },
+        {
+          "action_type": "tweet",
+          "status": "done",
           "time": "2026-10-16T14:10:42.781909",
           "category": null,
           "source": "manual"
@@ -797,13 +799,6 @@
           "action_type": "like",
           "status": "done",
           "time": "2026-10-16T12:20:58.252605",
-          "category": null,
-          "source": "engine"
-        },
-        {
-          "action_type": "like",
-          "status": "done",
-          "time": "2026-10-16T12:17:20.182079",
           "category": null,
           "source": "engine"
         }
