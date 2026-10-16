@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T02:39:05.658106Z",
+  "generated_at": "2026-10-16T03:09:05.555398Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -618,7 +618,7 @@
         },
         "like": {
           "total": 93,
-          "done": 43,
+          "done": 44,
           "failed": 0
         },
         "reply": {
@@ -660,6 +660,10 @@
           "like": 11,
           "retweet": 3,
           "tweet": 6
+        },
+        {
+          "date": "2026-10-16",
+          "like": 1
         }
       ],
       "campaign": {
@@ -680,14 +684,14 @@
       "engine": {
         "running": true,
         "total_planned": 17,
-        "pending": 17,
-        "executed": 0,
+        "pending": 16,
+        "executed": 1,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "9b0088b8-6d32-43c8-a111-be593052d66c",
-          "action_type": "like",
+          "id": "e54cdf87-ff33-4383-b326-b48b8567aaf5",
+          "action_type": "retweet",
           "category": null,
-          "scheduled_time": "2026-10-16T08:18:32.597032"
+          "scheduled_time": "2026-10-16T08:58:46.476589"
         }
       },
       "campaign_status": {
@@ -1018,7 +1022,7 @@
         "reply": {
           "total": 18,
           "done": 0,
-          "failed": 6
+          "failed": 7
         },
         "retweet": {
           "total": 32,
@@ -1074,14 +1078,14 @@
       "engine": {
         "running": true,
         "total_planned": 25,
-        "pending": 25,
-        "executed": 0,
-        "consecutive_failures": 0,
+        "pending": 24,
+        "executed": 1,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "eddab4bd-706c-4a23-90d9-1b10e88c5a8d",
-          "action_type": "reply",
+          "id": "12e4841b-5f09-48a5-afd2-531e2419b71a",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-10-16T08:20:34.910172"
+          "scheduled_time": "2026-10-16T08:45:45.395981"
         }
       },
       "campaign_status": {
