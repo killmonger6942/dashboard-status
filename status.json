@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T10:39:05.601345Z",
+  "generated_at": "2026-10-17T11:09:05.558981Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -225,7 +225,7 @@
         "reply": {
           "total": 16,
           "done": 0,
-          "failed": 10
+          "failed": 11
         },
         "retweet": {
           "total": 23,
@@ -294,14 +294,14 @@
       "engine": {
         "running": true,
         "total_planned": 11,
-        "pending": 4,
-        "executed": 7,
-        "consecutive_failures": 0,
+        "pending": 3,
+        "executed": 8,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "0dd2d08f-cab0-4816-a011-af8c4bda684b",
-          "action_type": "reply",
+          "id": "4a78d59f-76c1-4299-9f97-21ed5e5a0ee4",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-10-17T16:29:58.574851"
+          "scheduled_time": "2026-10-17T20:11:04.626868"
         }
       },
       "campaign_status": {
@@ -331,7 +331,7 @@
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-10-17T16:29:58.574851",
           "category": null,
           "source": "engine"
@@ -632,7 +632,7 @@
         "reply": {
           "total": 15,
           "done": 0,
-          "failed": 8
+          "failed": 9
         },
         "retweet": {
           "total": 25,
@@ -700,14 +700,14 @@
       "engine": {
         "running": true,
         "total_planned": 12,
-        "pending": 3,
-        "executed": 9,
-        "consecutive_failures": 0,
+        "pending": 2,
+        "executed": 10,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "c4ed6247-3786-4da5-a779-28cf4c596cbf",
-          "action_type": "reply",
+          "id": "e2eeea57-ffea-476a-acf7-65ccc7ca347b",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-10-17T16:38:16.777263"
+          "scheduled_time": "2026-10-17T20:21:11.699003"
         }
       },
       "campaign_status": {
@@ -730,7 +730,7 @@
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-10-17T16:38:16.777263",
           "category": null,
           "source": "engine"
