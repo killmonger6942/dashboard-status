@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T14:09:11.629495Z",
+  "generated_at": "2026-10-17T14:39:05.645710Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -21,12 +21,12 @@
         "current": {
           "followers": 21,
           "following": 565,
-          "tweets": 408
+          "tweets": 409
         },
         "growth": {
           "followers": 1,
           "following": 0,
-          "tweets": 112
+          "tweets": 113
         },
         "history": [
           {
@@ -207,7 +207,7 @@
             "date": "2026-10-17",
             "followers": 21,
             "following": 565,
-            "tweets": 408
+            "tweets": 409
           }
         ]
       },
@@ -834,12 +834,12 @@
         "current": {
           "followers": 0,
           "following": 17,
-          "tweets": 237
+          "tweets": 238
         },
         "growth": {
           "followers": 0,
           "following": 0,
-          "tweets": 31
+          "tweets": 32
         },
         "history": [
           {
@@ -1020,7 +1020,7 @@
             "date": "2026-10-17",
             "followers": 0,
             "following": 17,
-            "tweets": 237
+            "tweets": 238
           }
         ]
       },
@@ -1043,7 +1043,7 @@
         "retweet": {
           "total": 31,
           "done": 16,
-          "failed": 0
+          "failed": 1
         },
         "tweet": {
           "total": 43,
@@ -1105,14 +1105,14 @@
       "engine": {
         "running": true,
         "total_planned": 11,
-        "pending": 2,
-        "executed": 9,
-        "consecutive_failures": 0,
+        "pending": 1,
+        "executed": 10,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "3c2b9bbc-3a34-492d-ac50-f65c9e30244f",
+          "id": "240eb0da-fb9d-4365-957b-629a1dc29075",
           "action_type": "retweet",
           "category": null,
-          "scheduled_time": "2026-10-17T19:43:19.805171"
+          "scheduled_time": "2026-10-17T20:57:22.224596"
         }
       },
       "campaign_status": {
@@ -1128,7 +1128,7 @@
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-10-17T19:43:19.805171",
           "category": null,
           "source": "engine"
