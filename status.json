@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T03:09:05.558991Z",
+  "generated_at": "2026-10-18T03:39:05.623575Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -636,12 +636,12 @@
         },
         "retweet": {
           "total": 28,
-          "done": 14,
+          "done": 17,
           "failed": 2
         },
         "tweet": {
-          "total": 39,
-          "done": 30,
+          "total": 40,
+          "done": 32,
           "failed": 0
         }
       },
@@ -680,6 +680,11 @@
           "like": 7,
           "retweet": 1,
           "tweet": 2
+        },
+        {
+          "date": "2026-10-18",
+          "retweet": 3,
+          "tweet": 2
         }
       ],
       "campaign": {
@@ -700,14 +705,14 @@
       "engine": {
         "running": true,
         "total_planned": 15,
-        "pending": 14,
-        "executed": 1,
-        "consecutive_failures": 2,
+        "pending": 10,
+        "executed": 5,
+        "consecutive_failures": 0,
         "next_action": {
-          "id": "01be4f92-8ff9-40d2-acef-dfee50eac257",
-          "action_type": "retweet",
+          "id": "eaf1dd4e-3dea-4544-abeb-1b67f3fd2257",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-10-18T08:39:39.401521"
+          "scheduled_time": "2026-10-18T09:14:45.665042"
         }
       },
       "campaign_status": {
@@ -786,28 +791,28 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-18T09:03:11.336662",
           "category": "humor",
           "source": "engine"
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-18T08:49:58.413937",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-18T08:45:18.413937",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-18T08:39:39.401521",
           "category": null,
           "source": "engine"
