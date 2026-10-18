@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T07:09:05.544377Z",
+  "generated_at": "2026-10-18T07:39:05.540531Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -219,13 +219,13 @@
         },
         "like": {
           "total": 93,
-          "done": 58,
+          "done": 59,
           "failed": 2
         },
         "reply": {
           "total": 16,
           "done": 0,
-          "failed": 11
+          "failed": 12
         },
         "retweet": {
           "total": 23,
@@ -277,7 +277,7 @@
         },
         {
           "date": "2026-10-18",
-          "like": 2,
+          "like": 3,
           "retweet": 1,
           "tweet": 2
         }
@@ -300,14 +300,14 @@
       "engine": {
         "running": true,
         "total_planned": 11,
-        "pending": 7,
-        "executed": 4,
+        "pending": 5,
+        "executed": 6,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "141afadf-6df5-4e89-9fb5-0de7ea8ff6ce",
-          "action_type": "reply",
+          "id": "22b20eda-6772-4a9f-bc80-f9bee52bedd5",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-10-18T12:41:11.388116"
+          "scheduled_time": "2026-10-18T13:16:37.439775"
         }
       },
       "campaign_status": {
@@ -351,14 +351,14 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-18T12:48:21.679916",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-10-18T12:41:11.388116",
           "category": null,
           "source": "engine"
@@ -1040,7 +1040,7 @@
         "follow": {
           "total": 4,
           "done": 0,
-          "failed": 1
+          "failed": 2
         },
         "like": {
           "total": 86,
@@ -1123,14 +1123,14 @@
       "engine": {
         "running": true,
         "total_planned": 12,
-        "pending": 10,
-        "executed": 2,
-        "consecutive_failures": 0,
+        "pending": 9,
+        "executed": 3,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "811b18d8-9773-4796-8479-264544cb9698",
-          "action_type": "follow",
+          "id": "03f58516-c283-4f58-9872-ac9125f0635d",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-10-18T12:48:13.568451"
+          "scheduled_time": "2026-10-18T13:27:00.057516"
         }
       },
       "campaign_status": {
@@ -1202,7 +1202,7 @@
         },
         {
           "action_type": "follow",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-10-18T12:48:13.568451",
           "category": null,
           "source": "engine"
