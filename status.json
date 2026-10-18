@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T06:39:05.532379Z",
+  "generated_at": "2026-10-18T07:09:05.544377Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -219,7 +219,7 @@
         },
         "like": {
           "total": 93,
-          "done": 56,
+          "done": 58,
           "failed": 2
         },
         "reply": {
@@ -233,8 +233,8 @@
           "failed": 1
         },
         "tweet": {
-          "total": 39,
-          "done": 34,
+          "total": 40,
+          "done": 36,
           "failed": 0
         }
       },
@@ -277,7 +277,9 @@
         },
         {
           "date": "2026-10-18",
-          "retweet": 1
+          "like": 2,
+          "retweet": 1,
+          "tweet": 2
         }
       ],
       "campaign": {
@@ -298,14 +300,14 @@
       "engine": {
         "running": true,
         "total_planned": 11,
-        "pending": 10,
-        "executed": 1,
+        "pending": 7,
+        "executed": 4,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "2614f169-afe5-40cc-bbb4-e624a7ae0a2c",
-          "action_type": "like",
+          "id": "141afadf-6df5-4e89-9fb5-0de7ea8ff6ce",
+          "action_type": "reply",
           "category": null,
-          "scheduled_time": "2026-10-18T12:18:42.631483"
+          "scheduled_time": "2026-10-18T12:41:11.388116"
         }
       },
       "campaign_status": {
@@ -363,21 +365,21 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-18T12:29:10.475349",
           "category": "observation",
           "source": "engine"
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-18T12:25:07.475349",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-18T12:18:42.631483",
           "category": null,
           "source": "engine"
@@ -388,6 +390,13 @@
           "time": "2026-10-18T09:24:21.715959",
           "category": null,
           "source": "engine"
+        },
+        {
+          "action_type": "tweet",
+          "status": "done",
+          "time": "2026-10-18T06:59:53.706570",
+          "category": null,
+          "source": "manual"
         },
         {
           "action_type": "like",
@@ -407,13 +416,6 @@
           "action_type": "like",
           "status": "done",
           "time": "2026-10-17T20:11:04.626868",
-          "category": null,
-          "source": "engine"
-        },
-        {
-          "action_type": "reply",
-          "status": "failed",
-          "time": "2026-10-17T16:29:58.574851",
           "category": null,
           "source": "engine"
         }
