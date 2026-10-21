@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T15:09:05.720901Z",
+  "generated_at": "2026-10-21T15:39:05.562664Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -223,7 +223,7 @@
           "failed": 0
         },
         "reply": {
-          "total": 17,
+          "total": 16,
           "done": 0,
           "failed": 16
         },
@@ -637,13 +637,13 @@
         },
         "like": {
           "total": 84,
-          "done": 72,
+          "done": 73,
           "failed": 0
         },
         "reply": {
           "total": 15,
           "done": 0,
-          "failed": 13
+          "failed": 14
         },
         "retweet": {
           "total": 24,
@@ -701,7 +701,7 @@
         },
         {
           "date": "2026-10-21",
-          "like": 12,
+          "like": 13,
           "retweet": 2
         }
       ],
@@ -723,14 +723,14 @@
       "engine": {
         "running": true,
         "total_planned": 23,
-        "pending": 5,
-        "executed": 18,
+        "pending": 3,
+        "executed": 20,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "822d3f77-25ea-471d-bdc0-7300a2dd0ec4",
-          "action_type": "reply",
+          "id": "7fae197a-eb78-4d85-bbbc-4ebda6d74b53",
+          "action_type": "retweet",
           "category": null,
-          "scheduled_time": "2026-10-21T20:56:25.125692"
+          "scheduled_time": "2026-10-21T21:22:19.981191"
         }
       },
       "campaign_status": {
@@ -760,14 +760,14 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-21T21:03:19.064906",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-10-21T20:56:25.125692",
           "category": null,
           "source": "engine"
@@ -1054,7 +1054,7 @@
           "failed": 4
         },
         "like": {
-          "total": 78,
+          "total": 77,
           "done": 72,
           "failed": 1
         },
