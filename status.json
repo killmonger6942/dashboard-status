@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T08:09:05.612742Z",
+  "generated_at": "2026-10-21T08:39:05.546367Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -230,11 +230,11 @@
         "retweet": {
           "total": 25,
           "done": 18,
-          "failed": 1
+          "failed": 2
         },
         "tweet": {
-          "total": 46,
-          "done": 42,
+          "total": 44,
+          "done": 41,
           "failed": 0
         }
       },
@@ -243,7 +243,7 @@
           "date": "2026-10-14",
           "like": 7,
           "retweet": 2,
-          "tweet": 4
+          "tweet": 3
         },
         {
           "date": "2026-10-15",
@@ -306,14 +306,14 @@
       "engine": {
         "running": true,
         "total_planned": 21,
-        "pending": 10,
-        "executed": 11,
-        "consecutive_failures": 0,
+        "pending": 9,
+        "executed": 12,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "705a1050-d268-43c1-a373-947ac3f07c00",
+          "id": "9950dbc6-3896-47dc-8f18-719eb21c1efb",
           "action_type": "retweet",
           "category": null,
-          "scheduled_time": "2026-10-21T13:39:22.017630"
+          "scheduled_time": "2026-10-21T15:33:06.438894"
         }
       },
       "campaign_status": {
@@ -385,7 +385,7 @@
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-10-21T13:39:22.017630",
           "category": null,
           "source": "engine"
@@ -637,14 +637,14 @@
           "failed": 3
         },
         "like": {
-          "total": 96,
-          "done": 74,
+          "total": 94,
+          "done": 73,
           "failed": 0
         },
         "reply": {
-          "total": 16,
+          "total": 15,
           "done": 0,
-          "failed": 12
+          "failed": 11
         },
         "retweet": {
           "total": 27,
@@ -660,7 +660,7 @@
       "timeline": [
         {
           "date": "2026-10-14",
-          "like": 14,
+          "like": 13,
           "retweet": 5,
           "tweet": 5
         },
@@ -1054,7 +1054,7 @@
           "failed": 4
         },
         "like": {
-          "total": 88,
+          "total": 87,
           "done": 68,
           "failed": 1
         },
