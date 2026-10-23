@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T06:39:05.555668Z",
+  "generated_at": "2026-10-23T07:09:05.568355Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -717,14 +717,14 @@
       "engine": {
         "running": true,
         "total_planned": 22,
-        "pending": 17,
-        "executed": 5,
+        "pending": 14,
+        "executed": 8,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "aefbf588-5ca3-499a-a071-32b4fcad9071",
+          "id": "c375bc63-54a0-4bf1-ab56-135ecca16e77",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-10-23T12:22:36.603303"
+          "scheduled_time": "2026-10-23T12:51:34.056021"
         }
       },
       "campaign_status": {
@@ -1049,17 +1049,17 @@
         },
         "like": {
           "total": 78,
-          "done": 70,
+          "done": 71,
           "failed": 1
         },
         "reply": {
           "total": 16,
           "done": 0,
-          "failed": 14
+          "failed": 15
         },
         "retweet": {
           "total": 25,
-          "done": 19,
+          "done": 21,
           "failed": 1
         },
         "tweet": {
@@ -1113,7 +1113,8 @@
         },
         {
           "date": "2026-10-23",
-          "like": 2
+          "like": 3,
+          "retweet": 2
         }
       ],
       "campaign": {
@@ -1134,14 +1135,14 @@
       "engine": {
         "running": true,
         "total_planned": 19,
-        "pending": 16,
-        "executed": 3,
-        "consecutive_failures": 0,
+        "pending": 12,
+        "executed": 7,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "0448763e-d6ce-4aa3-96af-768d781b272b",
+          "id": "badbdb82-bc36-4338-b2c1-b2f05bd57551",
           "action_type": "retweet",
           "category": null,
-          "scheduled_time": "2026-10-23T12:20:56.997593"
+          "scheduled_time": "2026-10-23T12:46:33.555533"
         }
       },
       "campaign_status": {
@@ -1234,21 +1235,21 @@
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-10-23T12:31:40.997593",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-23T12:28:01.997593",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-23T12:25:00.997593",
           "category": null,
           "source": "engine"
