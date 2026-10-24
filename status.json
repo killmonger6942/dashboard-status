@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T07:39:05.555457Z",
+  "generated_at": "2026-10-24T08:09:05.550769Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -650,8 +650,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 37,
-          "done": 19,
+          "total": 36,
+          "done": 18,
           "failed": 7
         }
       },
@@ -659,8 +659,7 @@
         {
           "date": "2026-10-17",
           "like": 7,
-          "retweet": 1,
-          "tweet": 1
+          "retweet": 1
         },
         {
           "date": "2026-10-18",
@@ -709,14 +708,14 @@
       "engine": {
         "running": true,
         "total_planned": 14,
-        "pending": 7,
-        "executed": 7,
+        "pending": 6,
+        "executed": 8,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "fdb56831-3fdb-4080-8b6f-fad7fc6897ec",
-          "action_type": "tweet",
-          "category": "tip",
-          "scheduled_time": "2026-10-24T13:26:00.678307"
+          "id": "fd7fa9bd-f9b3-4436-82ff-84ac15fe1655",
+          "action_type": "like",
+          "category": null,
+          "scheduled_time": "2026-10-24T16:18:55.465990"
         }
       },
       "campaign_status": {
@@ -1055,8 +1054,8 @@
           "failed": 1
         },
         "tweet": {
-          "total": 44,
-          "done": 43,
+          "total": 45,
+          "done": 45,
           "failed": 0
         }
       },
@@ -1106,7 +1105,7 @@
         {
           "date": "2026-10-24",
           "like": 3,
-          "tweet": 2
+          "tweet": 4
         }
       ],
       "campaign": {
@@ -1127,14 +1126,14 @@
       "engine": {
         "running": true,
         "total_planned": 9,
-        "pending": 4,
-        "executed": 5,
-        "consecutive_failures": 1,
+        "pending": 3,
+        "executed": 6,
+        "consecutive_failures": 0,
         "next_action": {
-          "id": "d6961082-0bf8-4f9d-a955-a54de08fdf71",
-          "action_type": "tweet",
-          "category": "personal_experience",
-          "scheduled_time": "2026-10-24T13:32:26.728904"
+          "id": "97d89c20-9138-4cf8-b0e9-dda105da9aff",
+          "action_type": "like",
+          "category": null,
+          "scheduled_time": "2026-10-24T20:01:18.249095"
         }
       },
       "campaign_status": {
@@ -1164,7 +1163,7 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-24T13:32:26.728904",
           "category": "personal_experience",
           "source": "engine"
@@ -1196,6 +1195,13 @@
           "time": "2026-10-24T09:45:07.486619",
           "category": null,
           "source": "engine"
+        },
+        {
+          "action_type": "tweet",
+          "status": "done",
+          "time": "2026-10-24T08:03:13.788902",
+          "category": null,
+          "source": "manual"
         },
         {
           "action_type": "tweet",
@@ -1237,13 +1243,6 @@
           "status": "done",
           "time": "2026-10-23T20:53:52.451967",
           "category": "question",
-          "source": "engine"
-        },
-        {
-          "action_type": "like",
-          "status": "done",
-          "time": "2026-10-23T20:41:13.532308",
-          "category": null,
           "source": "engine"
         }
       ]
