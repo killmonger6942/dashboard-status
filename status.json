@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T09:39:05.554676Z",
+  "generated_at": "2026-10-24T10:09:06.340212Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -233,8 +233,8 @@
           "failed": 1
         },
         "tweet": {
-          "total": 40,
-          "done": 38,
+          "total": 41,
+          "done": 40,
           "failed": 0
         }
       },
@@ -282,7 +282,8 @@
         },
         {
           "date": "2026-10-24",
-          "like": 2
+          "like": 2,
+          "tweet": 2
         }
       ],
       "campaign": {
@@ -303,14 +304,14 @@
       "engine": {
         "running": true,
         "total_planned": 14,
-        "pending": 11,
-        "executed": 3,
+        "pending": 10,
+        "executed": 4,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "cc869a76-fded-4c8b-b065-12c5892ab023",
-          "action_type": "tweet",
-          "category": "tip",
-          "scheduled_time": "2026-10-24T15:31:08.962655"
+          "id": "24bf2890-e383-47b1-b168-b7fc74e29527",
+          "action_type": "like",
+          "category": null,
+          "scheduled_time": "2026-10-24T15:48:37.527934"
         }
       },
       "campaign_status": {
@@ -389,7 +390,7 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-24T15:31:08.962655",
           "category": "tip",
           "source": "engine"
@@ -409,17 +410,17 @@
           "source": "engine"
         },
         {
+          "action_type": "tweet",
+          "status": "done",
+          "time": "2026-10-24T10:01:56.310952",
+          "category": null,
+          "source": "manual"
+        },
+        {
           "action_type": "like",
           "status": "done",
           "time": "2026-10-24T08:40:46.607701",
           "category": null,
-          "source": "engine"
-        },
-        {
-          "action_type": "tweet",
-          "status": "done",
-          "time": "2026-10-23T21:14:16.971837",
-          "category": "media",
           "source": "engine"
         }
       ]
@@ -1037,8 +1038,8 @@
           "failed": 3
         },
         "like": {
-          "total": 66,
-          "done": 63,
+          "total": 65,
+          "done": 62,
           "failed": 1
         },
         "reply": {
@@ -1060,7 +1061,7 @@
       "timeline": [
         {
           "date": "2026-10-17",
-          "like": 4,
+          "like": 3,
           "retweet": 1,
           "tweet": 2
         },
