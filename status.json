@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T04:39:05.653139Z",
+  "generated_at": "2026-10-25T05:09:05.577650Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -225,7 +225,7 @@
         "reply": {
           "total": 15,
           "done": 0,
-          "failed": 14
+          "failed": 15
         },
         "retweet": {
           "total": 24,
@@ -304,14 +304,14 @@
       "engine": {
         "running": true,
         "total_planned": 14,
-        "pending": 11,
-        "executed": 3,
-        "consecutive_failures": 1,
+        "pending": 10,
+        "executed": 4,
+        "consecutive_failures": 2,
         "next_action": {
-          "id": "08825f45-7c34-432d-9959-c28744a5e764",
-          "action_type": "reply",
+          "id": "c31a0e74-65aa-4a16-ae5b-7227bef033be",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-10-25T10:12:11.954620"
+          "scheduled_time": "2026-10-25T12:57:18.771435"
         }
       },
       "campaign_status": {
@@ -390,7 +390,7 @@
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-10-25T10:12:11.954620",
           "category": null,
           "source": "engine"
@@ -703,14 +703,14 @@
       "engine": {
         "running": true,
         "total_planned": 11,
-        "pending": 7,
-        "executed": 4,
+        "pending": 6,
+        "executed": 5,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "b266711c-e28c-41f3-aa03-2290628afd47",
-          "action_type": "like",
-          "category": null,
-          "scheduled_time": "2026-10-25T10:13:46.766016"
+          "id": "00162510-62f1-4969-8bc8-2832dc493a9a",
+          "action_type": "tweet",
+          "category": "hot_take",
+          "scheduled_time": "2026-10-25T12:57:53.005664"
         }
       },
       "campaign_status": {
