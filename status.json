@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T08:09:05.553434Z",
+  "generated_at": "2026-10-26T08:39:05.550514Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -229,7 +229,7 @@
         },
         "retweet": {
           "total": 27,
-          "done": 22,
+          "done": 23,
           "failed": 1
         },
         "tweet": {
@@ -284,6 +284,7 @@
         {
           "date": "2026-10-26",
           "like": 7,
+          "retweet": 1,
           "tweet": 4
         }
       ],
@@ -305,14 +306,14 @@
       "engine": {
         "running": true,
         "total_planned": 20,
-        "pending": 11,
-        "executed": 9,
+        "pending": 10,
+        "executed": 10,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "1378790c-9a8f-45be-aa1a-aeeb2c1e9e80",
-          "action_type": "retweet",
+          "id": "633d0a34-0bcf-43b5-8f98-239f3ef91057",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-10-26T13:44:15.436002"
+          "scheduled_time": "2026-10-26T15:45:43.502546"
         }
       },
       "campaign_status": {
@@ -391,7 +392,7 @@
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-26T13:44:15.436002",
           "category": null,
           "source": "engine"
@@ -636,8 +637,8 @@
           "failed": 2
         },
         "like": {
-          "total": 73,
-          "done": 40,
+          "total": 72,
+          "done": 39,
           "failed": 0
         },
         "reply": {
@@ -659,7 +660,7 @@
       "timeline": [
         {
           "date": "2026-10-19",
-          "like": 9,
+          "like": 8,
           "retweet": 5,
           "tweet": 6
         },
@@ -1044,8 +1045,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 47,
-          "done": 46,
+          "total": 46,
+          "done": 45,
           "failed": 0
         }
       },
@@ -1054,7 +1055,7 @@
           "date": "2026-10-19",
           "like": 9,
           "retweet": 2,
-          "tweet": 6
+          "tweet": 5
         },
         {
           "date": "2026-10-20",
