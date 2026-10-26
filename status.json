@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T03:09:05.581337Z",
+  "generated_at": "2026-10-26T03:39:05.567217Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -219,7 +219,7 @@
         },
         "like": {
           "total": 78,
-          "done": 69,
+          "done": 70,
           "failed": 0
         },
         "reply": {
@@ -233,8 +233,8 @@
           "failed": 1
         },
         "tweet": {
-          "total": 44,
-          "done": 40,
+          "total": 45,
+          "done": 42,
           "failed": 0
         }
       },
@@ -283,7 +283,8 @@
         },
         {
           "date": "2026-10-26",
-          "like": 2
+          "like": 3,
+          "tweet": 2
         }
       ],
       "campaign": {
@@ -304,14 +305,14 @@
       "engine": {
         "running": true,
         "total_planned": 20,
-        "pending": 18,
-        "executed": 2,
+        "pending": 16,
+        "executed": 4,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "03f10c16-3728-45c3-a598-97ef27180806",
-          "action_type": "tweet",
-          "category": "humor",
-          "scheduled_time": "2026-10-26T08:52:58.102913"
+          "id": "472d1ae7-d8ea-42ca-8669-8f730ec92aab",
+          "action_type": "like",
+          "category": null,
+          "scheduled_time": "2026-10-26T09:14:31.125436"
         }
       },
       "campaign_status": {
@@ -697,14 +698,14 @@
       "engine": {
         "running": true,
         "total_planned": 17,
-        "pending": 16,
-        "executed": 1,
+        "pending": 15,
+        "executed": 2,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "7447385b-213e-4cc0-b802-de76f2d13f8f",
-          "action_type": "like",
+          "id": "0e99c15f-5fcf-4d3d-b0d4-3108cab48beb",
+          "action_type": "reply",
           "category": null,
-          "scheduled_time": "2026-10-26T09:07:09.960944"
+          "scheduled_time": "2026-10-26T09:26:01.469942"
         }
       },
       "campaign_status": {
