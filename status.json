@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T07:09:05.627142Z",
+  "generated_at": "2026-10-27T07:39:05.602904Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -219,7 +219,7 @@
         },
         "like": {
           "total": 83,
-          "done": 73,
+          "done": 74,
           "failed": 0
         },
         "reply": {
@@ -233,8 +233,8 @@
           "failed": 1
         },
         "tweet": {
-          "total": 45,
-          "done": 42,
+          "total": 44,
+          "done": 41,
           "failed": 0
         }
       },
@@ -243,7 +243,7 @@
           "date": "2026-10-20",
           "like": 9,
           "retweet": 4,
-          "tweet": 8
+          "tweet": 7
         },
         {
           "date": "2026-10-21",
@@ -283,7 +283,7 @@
         },
         {
           "date": "2026-10-27",
-          "like": 3,
+          "like": 4,
           "retweet": 2,
           "tweet": 2
         }
@@ -306,14 +306,14 @@
       "engine": {
         "running": true,
         "total_planned": 23,
-        "pending": 16,
-        "executed": 7,
+        "pending": 15,
+        "executed": 8,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "6a04c84d-16d5-4d39-ac52-86db0830bf49",
+          "id": "03eb34dc-72fb-4c1f-8592-deab4fb24f59",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-10-27T12:50:11.670143"
+          "scheduled_time": "2026-10-27T13:16:40.439044"
         }
       },
       "campaign_status": {
@@ -693,14 +693,14 @@
       "engine": {
         "running": true,
         "total_planned": 23,
-        "pending": 16,
-        "executed": 7,
+        "pending": 14,
+        "executed": 9,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "b1bfb60e-8805-4790-91b5-28c073ba60ca",
-          "action_type": "tweet",
-          "category": "relatable",
-          "scheduled_time": "2026-10-27T13:05:43.494140"
+          "id": "035594e2-f4b7-47e4-b61a-920abb920ba3",
+          "action_type": "retweet",
+          "category": null,
+          "scheduled_time": "2026-10-27T15:35:37.318338"
         }
       },
       "campaign_status": {
@@ -1025,17 +1025,17 @@
         },
         "like": {
           "total": 78,
-          "done": 67,
+          "done": 68,
           "failed": 2
         },
         "reply": {
           "total": 15,
           "done": 0,
-          "failed": 13
+          "failed": 14
         },
         "retweet": {
           "total": 20,
-          "done": 19,
+          "done": 20,
           "failed": 0
         },
         "tweet": {
@@ -1089,8 +1089,8 @@
         },
         {
           "date": "2026-10-27",
-          "like": 3,
-          "retweet": 1,
+          "like": 4,
+          "retweet": 2,
           "tweet": 2
         }
       ],
@@ -1112,14 +1112,14 @@
       "engine": {
         "running": true,
         "total_planned": 21,
-        "pending": 14,
-        "executed": 7,
-        "consecutive_failures": 0,
+        "pending": 11,
+        "executed": 10,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "4889f617-fdb7-45b1-9e97-4f32d118f15a",
-          "action_type": "retweet",
+          "id": "24ce434f-2784-496c-b974-924bd8e92890",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-10-27T12:51:04.531138"
+          "scheduled_time": "2026-10-27T13:30:12.500735"
         }
       },
       "campaign_status": {
@@ -1205,21 +1205,21 @@
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-10-27T12:59:59.531138",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-27T12:55:00.531138",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-27T12:51:04.531138",
           "category": null,
           "source": "engine"
