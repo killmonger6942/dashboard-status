@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T03:39:05.570061Z",
+  "generated_at": "2026-10-28T04:09:05.566687Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -219,7 +219,7 @@
         },
         "like": {
           "total": 83,
-          "done": 75,
+          "done": 76,
           "failed": 0
         },
         "reply": {
@@ -229,7 +229,7 @@
         },
         "retweet": {
           "total": 27,
-          "done": 22,
+          "done": 23,
           "failed": 1
         },
         "tweet": {
@@ -283,7 +283,8 @@
         },
         {
           "date": "2026-10-28",
-          "like": 1
+          "like": 2,
+          "retweet": 1
         }
       ],
       "campaign": {
@@ -304,14 +305,14 @@
       "engine": {
         "running": true,
         "total_planned": 19,
-        "pending": 17,
-        "executed": 2,
-        "consecutive_failures": 1,
+        "pending": 15,
+        "executed": 4,
+        "consecutive_failures": 0,
         "next_action": {
-          "id": "9107f5f4-a312-43f8-b212-fd20faacea5e",
-          "action_type": "like",
-          "category": null,
-          "scheduled_time": "2026-10-28T09:13:36.147814"
+          "id": "0a6a107a-bc4c-4c48-a083-d163d17a058d",
+          "action_type": "tweet",
+          "category": "hobby",
+          "scheduled_time": "2026-10-28T09:48:18.794580"
         }
       },
       "campaign_status": {
@@ -1031,7 +1032,7 @@
           "failed": 0
         },
         "tweet": {
-          "total": 44,
+          "total": 43,
           "done": 42,
           "failed": 0
         }
@@ -1041,7 +1042,7 @@
           "date": "2026-10-21",
           "like": 15,
           "retweet": 3,
-          "tweet": 8
+          "tweet": 6
         },
         {
           "date": "2026-10-22",
@@ -1082,7 +1083,8 @@
         {
           "date": "2026-10-28",
           "like": 2,
-          "retweet": 1
+          "retweet": 1,
+          "tweet": 2
         }
       ],
       "campaign": {
@@ -1103,14 +1105,14 @@
       "engine": {
         "running": true,
         "total_planned": 19,
-        "pending": 16,
-        "executed": 3,
+        "pending": 15,
+        "executed": 4,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "89cbee7b-f43e-4ca5-873f-09dbea9f4ccb",
-          "action_type": "tweet",
-          "category": "tip",
-          "scheduled_time": "2026-10-28T09:36:41.458076"
+          "id": "d4b4ad4a-7a2b-4e52-abf4-ec66f3fb661c",
+          "action_type": "retweet",
+          "category": null,
+          "scheduled_time": "2026-10-28T12:14:51.372869"
         }
       },
       "campaign_status": {
