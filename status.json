@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T15:09:05.730140Z",
+  "generated_at": "2026-10-30T15:39:05.705053Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -228,7 +228,7 @@
           "failed": 11
         },
         "retweet": {
-          "total": 28,
+          "total": 27,
           "done": 26,
           "failed": 1
         },
@@ -242,7 +242,7 @@
         {
           "date": "2026-10-23",
           "like": 4,
-          "retweet": 4,
+          "retweet": 3,
           "tweet": 2
         },
         {
@@ -284,7 +284,7 @@
         {
           "date": "2026-10-30",
           "like": 9,
-          "retweet": 4,
+          "retweet": 5,
           "tweet": 6
         }
       ],
@@ -306,15 +306,10 @@
       "engine": {
         "running": true,
         "total_planned": 20,
-        "pending": 1,
-        "executed": 19,
+        "pending": 0,
+        "executed": 20,
         "consecutive_failures": 0,
-        "next_action": {
-          "id": "ecdd1f07-8fe4-4dfc-a229-38a579ba06fa",
-          "action_type": "retweet",
-          "category": null,
-          "scheduled_time": "2026-10-30T20:56:47.740120"
-        }
+        "next_action": null
       },
       "campaign_status": {
         "running": false
@@ -322,7 +317,7 @@
       "recent": [
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-30T20:56:47.740120",
           "category": null,
           "source": "engine"
@@ -647,7 +642,7 @@
           "failed": 0
         },
         "retweet": {
-          "total": 26,
+          "total": 25,
           "done": 0,
           "failed": 0
         },
@@ -676,15 +671,10 @@
       "engine": {
         "running": true,
         "total_planned": 21,
-        "pending": 3,
-        "executed": 18,
+        "pending": 0,
+        "executed": 21,
         "consecutive_failures": 3,
-        "next_action": {
-          "id": "4bce6f26-af84-4750-aa5d-ea10b50cbf6f",
-          "action_type": "like",
-          "category": null,
-          "scheduled_time": "2026-10-30T20:46:11.780418"
-        }
+        "next_action": null
       },
       "campaign_status": {
         "running": false
@@ -1008,7 +998,7 @@
         },
         "like": {
           "total": 75,
-          "done": 71,
+          "done": 73,
           "failed": 2
         },
         "reply": {
@@ -1022,8 +1012,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 38,
-          "done": 38,
+          "total": 36,
+          "done": 36,
           "failed": 0
         }
       },
@@ -1032,7 +1022,7 @@
           "date": "2026-10-23",
           "like": 4,
           "retweet": 1,
-          "tweet": 4
+          "tweet": 2
         },
         {
           "date": "2026-10-24",
@@ -1072,7 +1062,7 @@
         },
         {
           "date": "2026-10-30",
-          "like": 10,
+          "like": 12,
           "retweet": 2,
           "tweet": 4
         }
@@ -1095,14 +1085,14 @@
       "engine": {
         "running": true,
         "total_planned": 21,
-        "pending": 3,
-        "executed": 18,
+        "pending": 1,
+        "executed": 20,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "75538102-998a-41af-ad44-f9b4bf3d803c",
-          "action_type": "like",
+          "id": "d012e817-1908-4410-a285-c9ec5c676214",
+          "action_type": "retweet",
           "category": null,
-          "scheduled_time": "2026-10-30T20:52:59.415622"
+          "scheduled_time": "2026-10-30T21:23:54.148472"
         }
       },
       "campaign_status": {
@@ -1118,14 +1108,14 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-30T21:03:22.167066",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-30T20:52:59.415622",
           "category": null,
           "source": "engine"
