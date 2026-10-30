@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T14:39:05.726960Z",
+  "generated_at": "2026-10-30T15:09:05.730140Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -676,14 +676,14 @@
       "engine": {
         "running": true,
         "total_planned": 21,
-        "pending": 4,
-        "executed": 17,
+        "pending": 3,
+        "executed": 18,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "a22813b1-d6b0-4de1-8237-f73221fbd9f5",
+          "id": "4bce6f26-af84-4750-aa5d-ea10b50cbf6f",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-10-30T20:24:43.801353"
+          "scheduled_time": "2026-10-30T20:46:11.780418"
         }
       },
       "campaign_status": {
@@ -1018,7 +1018,7 @@
         },
         "retweet": {
           "total": 20,
-          "done": 17,
+          "done": 19,
           "failed": 0
         },
         "tweet": {
@@ -1073,6 +1073,7 @@
         {
           "date": "2026-10-30",
           "like": 10,
+          "retweet": 2,
           "tweet": 4
         }
       ],
@@ -1094,14 +1095,14 @@
       "engine": {
         "running": true,
         "total_planned": 21,
-        "pending": 5,
-        "executed": 16,
+        "pending": 3,
+        "executed": 18,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "89bb9571-d807-4b13-a807-0a79d0b69b06",
-          "action_type": "retweet",
+          "id": "75538102-998a-41af-ad44-f9b4bf3d803c",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-10-30T20:26:08.124742"
+          "scheduled_time": "2026-10-30T20:52:59.415622"
         }
       },
       "campaign_status": {
@@ -1131,14 +1132,14 @@
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-30T20:35:19.252168",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-30T20:26:08.124742",
           "category": null,
           "source": "engine"
