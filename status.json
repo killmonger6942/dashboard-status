@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T15:39:05.705053Z",
+  "generated_at": "2026-10-30T16:09:05.676286Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -228,13 +228,13 @@
           "failed": 11
         },
         "retweet": {
-          "total": 27,
-          "done": 26,
+          "total": 26,
+          "done": 25,
           "failed": 1
         },
         "tweet": {
-          "total": 38,
-          "done": 38,
+          "total": 37,
+          "done": 37,
           "failed": 0
         }
       },
@@ -242,8 +242,8 @@
         {
           "date": "2026-10-23",
           "like": 4,
-          "retweet": 3,
-          "tweet": 2
+          "retweet": 2,
+          "tweet": 1
         },
         {
           "date": "2026-10-24",
@@ -637,7 +637,7 @@
           "failed": 0
         },
         "reply": {
-          "total": 16,
+          "total": 15,
           "done": 0,
           "failed": 0
         },
@@ -1002,13 +1002,13 @@
           "failed": 2
         },
         "reply": {
-          "total": 13,
+          "total": 12,
           "done": 0,
-          "failed": 13
+          "failed": 12
         },
         "retweet": {
           "total": 20,
-          "done": 19,
+          "done": 20,
           "failed": 0
         },
         "tweet": {
@@ -1063,7 +1063,7 @@
         {
           "date": "2026-10-30",
           "like": 12,
-          "retweet": 2,
+          "retweet": 3,
           "tweet": 4
         }
       ],
@@ -1085,15 +1085,10 @@
       "engine": {
         "running": true,
         "total_planned": 21,
-        "pending": 1,
-        "executed": 20,
+        "pending": 0,
+        "executed": 21,
         "consecutive_failures": 0,
-        "next_action": {
-          "id": "d012e817-1908-4410-a285-c9ec5c676214",
-          "action_type": "retweet",
-          "category": null,
-          "scheduled_time": "2026-10-30T21:23:54.148472"
-        }
+        "next_action": null
       },
       "campaign_status": {
         "running": false
@@ -1101,7 +1096,7 @@
       "recent": [
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-30T21:23:54.148472",
           "category": null,
           "source": "engine"
