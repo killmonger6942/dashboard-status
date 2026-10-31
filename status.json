@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T16:09:05.569018Z",
+  "generated_at": "2026-10-31T16:39:05.569326Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -305,15 +305,10 @@
       "engine": {
         "running": true,
         "total_planned": 15,
-        "pending": 1,
-        "executed": 14,
+        "pending": 0,
+        "executed": 15,
         "consecutive_failures": 3,
-        "next_action": {
-          "id": "a51b1a88-cc7f-4778-b011-010de27679cb",
-          "action_type": "like",
-          "category": null,
-          "scheduled_time": "2026-10-31T21:40:25.559634"
-        }
+        "next_action": null
       },
       "campaign_status": {
         "running": false
@@ -636,7 +631,7 @@
           "failed": 0
         },
         "like": {
-          "total": 71,
+          "total": 70,
           "done": 0,
           "failed": 0
         },
