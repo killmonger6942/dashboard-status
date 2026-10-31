@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T03:39:05.568832Z",
+  "generated_at": "2026-10-31T04:09:05.669863Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -233,8 +233,8 @@
           "failed": 1
         },
         "tweet": {
-          "total": 38,
-          "done": 36,
+          "total": 39,
+          "done": 38,
           "failed": 0
         }
       },
@@ -284,7 +284,8 @@
         {
           "date": "2026-10-31",
           "like": 2,
-          "retweet": 1
+          "retweet": 1,
+          "tweet": 2
         }
       ],
       "campaign": {
@@ -305,14 +306,14 @@
       "engine": {
         "running": true,
         "total_planned": 15,
-        "pending": 12,
-        "executed": 3,
+        "pending": 11,
+        "executed": 4,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "063726f1-1a84-4077-bffe-36272a2a4b6a",
-          "action_type": "tweet",
-          "category": "hobby",
-          "scheduled_time": "2026-10-31T09:10:43.403574"
+          "id": "0e2d67ab-9446-4b63-aa83-6dba14f6f316",
+          "action_type": "like",
+          "category": null,
+          "scheduled_time": "2026-10-31T12:37:07.797775"
         }
       },
       "campaign_status": {
@@ -398,7 +399,7 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-31T09:10:43.403574",
           "category": "hobby",
           "source": "engine"
@@ -675,14 +676,14 @@
       "engine": {
         "running": true,
         "total_planned": 12,
-        "pending": 6,
-        "executed": 6,
+        "pending": 5,
+        "executed": 7,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "eb0af28e-1002-44be-9d0d-921359989b3f",
-          "action_type": "retweet",
+          "id": "df473093-9ef2-4421-a242-51d12c29dcba",
+          "action_type": "follow",
           "category": null,
-          "scheduled_time": "2026-10-31T09:32:57.218830"
+          "scheduled_time": "2026-10-31T12:21:29.335266"
         }
       },
       "campaign_status": {
@@ -1007,7 +1008,7 @@
         },
         "like": {
           "total": 79,
-          "done": 70,
+          "done": 71,
           "failed": 2
         },
         "reply": {
@@ -1017,12 +1018,12 @@
         },
         "retweet": {
           "total": 22,
-          "done": 19,
+          "done": 20,
           "failed": 0
         },
         "tweet": {
-          "total": 36,
-          "done": 35,
+          "total": 37,
+          "done": 37,
           "failed": 0
         }
       },
@@ -1071,8 +1072,9 @@
         },
         {
           "date": "2026-10-31",
-          "like": 1,
-          "tweet": 2
+          "like": 2,
+          "retweet": 1,
+          "tweet": 4
         }
       ],
       "campaign": {
@@ -1093,14 +1095,14 @@
       "engine": {
         "running": true,
         "total_planned": 15,
-        "pending": 13,
-        "executed": 2,
+        "pending": 10,
+        "executed": 5,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "a3a6b4a3-f8aa-4ffd-8780-74adc389e130",
+          "id": "532f5c40-0c69-4081-8d06-b3e3e2dedd90",
           "action_type": "retweet",
           "category": null,
-          "scheduled_time": "2026-10-31T09:22:06.147661"
+          "scheduled_time": "2026-10-31T09:51:09.280447"
         }
       },
       "campaign_status": {
@@ -1179,21 +1181,21 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-31T09:33:53.658426",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-31T09:30:13.658426",
           "category": "question",
           "source": "engine"
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-31T09:22:06.147661",
           "category": null,
           "source": "engine"
