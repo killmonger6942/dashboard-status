@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T10:09:05.838616Z",
+  "generated_at": "2026-10-31T10:39:05.643645Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -21,12 +21,12 @@
         "current": {
           "followers": 21,
           "following": 565,
-          "tweets": 487
+          "tweets": 488
         },
         "growth": {
           "followers": 0,
           "following": 0,
-          "tweets": 115
+          "tweets": 116
         },
         "history": [
           {
@@ -207,7 +207,7 @@
             "date": "2026-10-31",
             "followers": 21,
             "following": 565,
-            "tweets": 487
+            "tweets": 488
           }
         ]
       },
@@ -233,8 +233,8 @@
           "failed": 1
         },
         "tweet": {
-          "total": 38,
-          "done": 37,
+          "total": 37,
+          "done": 36,
           "failed": 0
         }
       },
@@ -243,7 +243,7 @@
           "date": "2026-10-24",
           "like": 7,
           "retweet": 2,
-          "tweet": 3
+          "tweet": 2
         },
         {
           "date": "2026-10-25",
@@ -1014,7 +1014,7 @@
         "reply": {
           "total": 14,
           "done": 0,
-          "failed": 12
+          "failed": 13
         },
         "retweet": {
           "total": 22,
@@ -1095,14 +1095,14 @@
       "engine": {
         "running": true,
         "total_planned": 15,
-        "pending": 8,
-        "executed": 7,
-        "consecutive_failures": 0,
+        "pending": 7,
+        "executed": 8,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "87683e63-4355-457e-a72f-93aa504a08e8",
-          "action_type": "reply",
+          "id": "438c7349-d7f6-4187-907d-526c0155ab48",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-10-31T16:02:05.129222"
+          "scheduled_time": "2026-10-31T16:18:45.108019"
         }
       },
       "campaign_status": {
@@ -1160,7 +1160,7 @@
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-10-31T16:02:05.129222",
           "category": null,
           "source": "engine"
