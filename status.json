@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T02:09:11.408908Z",
+  "generated_at": "2026-10-31T02:39:05.652212Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -219,7 +219,7 @@
         },
         "like": {
           "total": 77,
-          "done": 68,
+          "done": 69,
           "failed": 1
         },
         "reply": {
@@ -280,6 +280,10 @@
           "like": 9,
           "retweet": 5,
           "tweet": 6
+        },
+        {
+          "date": "2026-10-31",
+          "like": 1
         }
       ],
       "campaign": {
@@ -300,14 +304,14 @@
       "engine": {
         "running": true,
         "total_planned": 15,
-        "pending": 15,
-        "executed": 0,
+        "pending": 14,
+        "executed": 1,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "18a6f4f7-3135-4f98-9e31-174ec4cb2d95",
+          "id": "33c901bd-b1ec-436e-a58c-f2b0cbed3411",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-10-31T08:08:35.602321"
+          "scheduled_time": "2026-10-31T08:11:48.335712"
         }
       },
       "campaign_status": {
@@ -414,7 +418,7 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-10-31T08:08:35.602321",
           "category": null,
           "source": "engine"
@@ -670,14 +674,14 @@
       "engine": {
         "running": true,
         "total_planned": 12,
-        "pending": 12,
-        "executed": 0,
+        "pending": 11,
+        "executed": 1,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "643ac0a0-0aba-4ac7-a7c8-e09dd3eb52e2",
-          "action_type": "like",
-          "category": null,
-          "scheduled_time": "2026-10-31T08:07:41.367533"
+          "id": "1d54d5f7-1715-4975-a218-b48d8d9c6017",
+          "action_type": "tweet",
+          "category": "nostalgia",
+          "scheduled_time": "2026-10-31T08:12:50.610976"
         }
       },
       "campaign_status": {
@@ -1016,8 +1020,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 36,
-          "done": 34,
+          "total": 35,
+          "done": 33,
           "failed": 0
         }
       },
@@ -1026,7 +1030,7 @@
           "date": "2026-10-24",
           "like": 5,
           "retweet": 1,
-          "tweet": 4
+          "tweet": 3
         },
         {
           "date": "2026-10-25",
