@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T02:09:05.585803Z",
+  "generated_at": "2026-11-02T02:39:05.565188Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -294,14 +294,14 @@
       "engine": {
         "running": true,
         "total_planned": 23,
-        "pending": 23,
-        "executed": 0,
+        "pending": 22,
+        "executed": 1,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "d64b7308-2bff-40d2-b3a9-e9975eeaaf92",
+          "id": "904aeee0-f567-41a0-ad38-58bcfd001bf0",
           "action_type": "tweet",
-          "category": "opinion",
-          "scheduled_time": "2026-11-02T08:06:55.123555"
+          "category": "tip",
+          "scheduled_time": "2026-11-02T08:24:46.634827"
         }
       },
       "campaign_status": {
@@ -1010,8 +1010,8 @@
           "failed": 1
         },
         "tweet": {
-          "total": 34,
-          "done": 30,
+          "total": 33,
+          "done": 29,
           "failed": 0
         }
       },
@@ -1020,7 +1020,7 @@
           "date": "2026-10-26",
           "like": 10,
           "retweet": 2,
-          "tweet": 8
+          "tweet": 7
         },
         {
           "date": "2026-10-27",
