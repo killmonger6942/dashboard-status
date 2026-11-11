@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T15:48:46.958880Z",
+  "generated_at": "2026-11-11T16:18:46.888501Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -223,7 +223,7 @@
           "failed": 0
         },
         "reply": {
-          "total": 15,
+          "total": 13,
           "done": 0,
           "failed": 1
         },
@@ -590,12 +590,12 @@
           "failed": 0
         },
         "like": {
-          "total": 82,
+          "total": 81,
           "done": 9,
           "failed": 0
         },
         "reply": {
-          "total": 16,
+          "total": 15,
           "done": 0,
           "failed": 2
         },
@@ -605,8 +605,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 24,
-          "done": 2,
+          "total": 25,
+          "done": 4,
           "failed": 0
         }
       },
@@ -615,7 +615,7 @@
           "date": "2026-11-11",
           "like": 9,
           "retweet": 3,
-          "tweet": 2
+          "tweet": 4
         }
       ],
       "campaign": {
@@ -636,15 +636,10 @@
       "engine": {
         "running": true,
         "total_planned": 16,
-        "pending": 1,
-        "executed": 15,
+        "pending": 0,
+        "executed": 16,
         "consecutive_failures": 0,
-        "next_action": {
-          "id": "b84e4c17-7e71-47ac-bcbd-79476aabe270",
-          "action_type": "tweet",
-          "category": "question",
-          "scheduled_time": "2026-11-11T21:41:45.304199"
-        }
+        "next_action": null
       },
       "campaign_status": {
         "running": false
@@ -652,7 +647,7 @@
       "recent": [
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-11-11T21:41:45.304199",
           "category": "question",
           "source": "engine"
@@ -743,16 +738,16 @@
         },
         {
           "action_type": "tweet",
+          "status": "done",
+          "time": "2026-11-11T16:12:25.172799",
+          "category": null,
+          "source": "manual"
+        },
+        {
+          "action_type": "tweet",
           "status": "pending",
           "time": "2026-11-11T16:01:21.294276",
           "category": "observation",
-          "source": "engine"
-        },
-        {
-          "action_type": "reply",
-          "status": "failed",
-          "time": "2026-11-11T15:36:08.370892",
-          "category": null,
           "source": "engine"
         }
       ]
@@ -967,8 +962,8 @@
           "failed": 1
         },
         "like": {
-          "total": 95,
-          "done": 14,
+          "total": 92,
+          "done": 15,
           "failed": 0
         },
         "reply": {
@@ -978,7 +973,7 @@
         },
         "retweet": {
           "total": 21,
-          "done": 4,
+          "done": 5,
           "failed": 0
         },
         "tweet": {
@@ -990,8 +985,8 @@
       "timeline": [
         {
           "date": "2026-11-11",
-          "like": 14,
-          "retweet": 4,
+          "like": 15,
+          "retweet": 5,
           "tweet": 6
         }
       ],
@@ -1013,15 +1008,10 @@
       "engine": {
         "running": true,
         "total_planned": 26,
-        "pending": 2,
-        "executed": 24,
+        "pending": 0,
+        "executed": 26,
         "consecutive_failures": 0,
-        "next_action": {
-          "id": "081f0a8a-0a77-4581-bd0b-b521e593ee1f",
-          "action_type": "retweet",
-          "category": null,
-          "scheduled_time": "2026-11-11T21:25:55.546189"
-        }
+        "next_action": null
       },
       "campaign_status": {
         "running": false
@@ -1029,14 +1019,14 @@
       "recent": [
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-11-11T21:37:41.283045",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-11-11T21:25:55.546189",
           "category": null,
           "source": "engine"
