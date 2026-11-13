@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T07:18:48.188339Z",
+  "generated_at": "2026-11-13T07:48:46.900882Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -21,12 +21,12 @@
         "current": {
           "followers": 21,
           "following": 564,
-          "tweets": 502
+          "tweets": 504
         },
         "growth": {
           "followers": 1,
           "following": -1,
-          "tweets": 106
+          "tweets": 108
         },
         "history": [
           {
@@ -207,7 +207,7 @@
             "date": "2026-11-13",
             "followers": 21,
             "following": 564,
-            "tweets": 502
+            "tweets": 504
           }
         ]
       },
@@ -229,7 +229,7 @@
         },
         "retweet": {
           "total": 31,
-          "done": 8,
+          "done": 9,
           "failed": 0
         },
         "tweet": {
@@ -254,6 +254,7 @@
         {
           "date": "2026-11-13",
           "like": 2,
+          "retweet": 1,
           "tweet": 4
         }
       ],
@@ -275,14 +276,14 @@
       "engine": {
         "running": true,
         "total_planned": 18,
-        "pending": 14,
-        "executed": 4,
+        "pending": 13,
+        "executed": 5,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "970c6dbe-a8e7-4805-938e-8400c4da6578",
+          "id": "30d21513-ff74-455b-8cf8-bdc757813456",
           "action_type": "retweet",
           "category": null,
-          "scheduled_time": "2026-11-13T13:09:23.915189"
+          "scheduled_time": "2026-11-13T13:28:05.498855"
         }
       },
       "campaign_status": {
@@ -382,7 +383,7 @@
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-11-13T13:09:23.915189",
           "category": null,
           "source": "engine"
@@ -409,12 +410,12 @@
         "current": {
           "followers": 7,
           "following": 589,
-          "tweets": 472
+          "tweets": 474
         },
         "growth": {
           "followers": 1,
           "following": -1,
-          "tweets": 45
+          "tweets": 47
         },
         "history": [
           {
@@ -595,7 +596,7 @@
             "date": "2026-11-13",
             "followers": 7,
             "following": 589,
-            "tweets": 472
+            "tweets": 474
           }
         ]
       },
@@ -607,7 +608,7 @@
         },
         "like": {
           "total": 101,
-          "done": 30,
+          "done": 32,
           "failed": 0
         },
         "reply": {
@@ -641,7 +642,7 @@
         },
         {
           "date": "2026-11-13",
-          "like": 7,
+          "like": 9,
           "retweet": 1,
           "tweet": 2
         }
@@ -664,14 +665,14 @@
       "engine": {
         "running": true,
         "total_planned": 22,
-        "pending": 13,
-        "executed": 9,
+        "pending": 11,
+        "executed": 11,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "a22419fb-574b-4eaf-8939-aca9acaeb591",
-          "action_type": "like",
-          "category": null,
-          "scheduled_time": "2026-11-13T13:07:04.843847"
+          "id": "4d4aa69a-fbbe-4119-ac7c-5febc2397037",
+          "action_type": "tweet",
+          "category": "question",
+          "scheduled_time": "2026-11-13T13:33:45.181876"
         }
       },
       "campaign_status": {
@@ -757,14 +758,14 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-11-13T13:10:47.843847",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-11-13T13:07:04.843847",
           "category": null,
           "source": "engine"
@@ -798,12 +799,12 @@
         "current": {
           "followers": 0,
           "following": 17,
-          "tweets": 332
+          "tweets": 333
         },
         "growth": {
           "followers": 0,
           "following": 0,
-          "tweets": 110
+          "tweets": 111
         },
         "history": [
           {
@@ -984,7 +985,7 @@
             "date": "2026-11-13",
             "followers": 0,
             "following": 17,
-            "tweets": 332
+            "tweets": 333
           }
         ]
       },
