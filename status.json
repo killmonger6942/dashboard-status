@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T14:18:46.835043Z",
+  "generated_at": "2026-11-15T14:48:46.943881Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -288,14 +288,14 @@
       "engine": {
         "running": true,
         "total_planned": 13,
-        "pending": 3,
-        "executed": 10,
+        "pending": 2,
+        "executed": 11,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "6b8b313e-724f-4016-9264-f0953c07f91d",
+          "id": "124a460d-82d7-4444-9a12-cd708e1b8e69",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-11-15T20:18:40.329194"
+          "scheduled_time": "2026-11-15T21:00:19.731420"
         }
       },
       "campaign_status": {
@@ -318,7 +318,7 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "executing",
           "time": "2026-11-15T20:18:40.329194",
           "category": null,
           "source": "engine"
@@ -626,7 +626,7 @@
         "reply": {
           "total": 16,
           "done": 0,
-          "failed": 7
+          "failed": 8
         },
         "retweet": {
           "total": 29,
@@ -689,14 +689,14 @@
       "engine": {
         "running": true,
         "total_planned": 17,
-        "pending": 3,
-        "executed": 14,
-        "consecutive_failures": 0,
+        "pending": 2,
+        "executed": 15,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "11c2c805-21ba-4375-8592-b9bc5efd458a",
-          "action_type": "reply",
+          "id": "3a62e73d-5338-42c6-9b41-d2256a897f1a",
+          "action_type": "retweet",
           "category": null,
-          "scheduled_time": "2026-11-15T20:10:19.048080"
+          "scheduled_time": "2026-11-15T21:35:23.605746"
         }
       },
       "campaign_status": {
@@ -719,7 +719,7 @@
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-11-15T20:10:19.048080",
           "category": null,
           "source": "engine"
