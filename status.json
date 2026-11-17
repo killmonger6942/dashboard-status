@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T06:48:46.999924Z",
+  "generated_at": "2026-11-17T07:18:47.245998Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -233,8 +233,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 40,
-          "done": 32,
+          "total": 41,
+          "done": 34,
           "failed": 0
         }
       },
@@ -279,7 +279,7 @@
           "date": "2026-11-17",
           "like": 3,
           "retweet": 2,
-          "tweet": 2
+          "tweet": 4
         }
       ],
       "campaign": {
@@ -300,14 +300,14 @@
       "engine": {
         "running": true,
         "total_planned": 23,
-        "pending": 16,
-        "executed": 7,
+        "pending": 15,
+        "executed": 8,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "0efd7197-95e5-4098-9961-a3cb6b2015a3",
-          "action_type": "tweet",
-          "category": "humor",
-          "scheduled_time": "2026-11-17T12:35:06.860816"
+          "id": "c1121f2c-34c4-4f44-9464-ad43c175a6ca",
+          "action_type": "like",
+          "category": null,
+          "scheduled_time": "2026-11-17T12:58:22.026586"
         }
       },
       "campaign_status": {
@@ -642,7 +642,7 @@
         },
         "retweet": {
           "total": 31,
-          "done": 21,
+          "done": 22,
           "failed": 0
         },
         "tweet": {
@@ -691,7 +691,7 @@
         {
           "date": "2026-11-17",
           "like": 3,
-          "retweet": 2,
+          "retweet": 3,
           "tweet": 4
         }
       ],
@@ -713,14 +713,14 @@
       "engine": {
         "running": true,
         "total_planned": 18,
-        "pending": 9,
-        "executed": 9,
+        "pending": 8,
+        "executed": 10,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "9a2d1f2b-1b44-4400-bcf5-ad2e1608f560",
-          "action_type": "retweet",
-          "category": null,
-          "scheduled_time": "2026-11-17T12:47:24.044559"
+          "id": "f14b9b40-a45d-4d22-8c1f-1c31d5905295",
+          "action_type": "tweet",
+          "category": "nostalgia",
+          "scheduled_time": "2026-11-17T12:58:41.361390"
         }
       },
       "campaign_status": {
@@ -785,7 +785,7 @@
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-11-17T12:47:24.044559",
           "category": null,
           "source": "engine"
