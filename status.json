@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T11:18:46.942186Z",
+  "generated_at": "2026-11-17T11:48:46.916815Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -21,12 +21,12 @@
         "current": {
           "followers": 21,
           "following": 564,
-          "tweets": 526
+          "tweets": 529
         },
         "growth": {
           "followers": 0,
           "following": -1,
-          "tweets": 115
+          "tweets": 118
         },
         "history": [
           {
@@ -207,7 +207,7 @@
             "date": "2026-11-17",
             "followers": 21,
             "following": 564,
-            "tweets": 526
+            "tweets": 529
           }
         ]
       },
@@ -229,7 +229,7 @@
         },
         "retweet": {
           "total": 25,
-          "done": 21,
+          "done": 22,
           "failed": 0
         },
         "tweet": {
@@ -278,7 +278,7 @@
         {
           "date": "2026-11-17",
           "like": 7,
-          "retweet": 3,
+          "retweet": 4,
           "tweet": 8
         }
       ],
@@ -300,14 +300,14 @@
       "engine": {
         "running": true,
         "total_planned": 23,
-        "pending": 6,
-        "executed": 17,
+        "pending": 5,
+        "executed": 18,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "0ff9da7e-a141-4995-912c-18e6772fa576",
-          "action_type": "retweet",
+          "id": "9a160f83-fa34-4e47-9c6b-21704177a40c",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-11-17T17:13:41.783612"
+          "scheduled_time": "2026-11-17T19:51:55.482970"
         }
       },
       "campaign_status": {
@@ -351,7 +351,7 @@
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-11-17T17:13:41.783612",
           "category": null,
           "source": "engine"
@@ -434,12 +434,12 @@
         "current": {
           "followers": 7,
           "following": 589,
-          "tweets": 498
+          "tweets": 499
         },
         "growth": {
           "followers": 1,
           "following": -1,
-          "tweets": 53
+          "tweets": 54
         },
         "history": [
           {
@@ -620,7 +620,7 @@
             "date": "2026-11-17",
             "followers": 7,
             "following": 589,
-            "tweets": 498
+            "tweets": 499
           }
         ]
       },
@@ -632,7 +632,7 @@
         },
         "like": {
           "total": 97,
-          "done": 71,
+          "done": 72,
           "failed": 0
         },
         "reply": {
@@ -646,8 +646,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 36,
-          "done": 30,
+          "total": 37,
+          "done": 32,
           "failed": 0
         }
       },
@@ -690,9 +690,9 @@
         },
         {
           "date": "2026-11-17",
-          "like": 4,
+          "like": 5,
           "retweet": 3,
-          "tweet": 6
+          "tweet": 8
         }
       ],
       "campaign": {
@@ -713,14 +713,14 @@
       "engine": {
         "running": true,
         "total_planned": 18,
-        "pending": 6,
-        "executed": 12,
+        "pending": 4,
+        "executed": 14,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "16d959cc-a42a-475d-9c42-a84eb40a5664",
+          "id": "39226902-bd6b-48d8-a320-3c28075ae8ad",
           "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-11-17T16:52:25.182358"
+          "scheduled_time": "2026-11-17T20:17:01.046082"
         }
       },
       "campaign_status": {
@@ -757,14 +757,14 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-11-17T17:17:20.465440",
           "category": "hot_take",
           "source": "engine"
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-11-17T16:52:25.182358",
           "category": null,
           "source": "engine"
@@ -812,6 +812,13 @@
           "source": "engine"
         },
         {
+          "action_type": "tweet",
+          "status": "done",
+          "time": "2026-11-17T11:48:20.213847",
+          "category": null,
+          "source": "manual"
+        },
+        {
           "action_type": "like",
           "status": "done",
           "time": "2026-11-17T10:01:09.674552",
@@ -822,13 +829,6 @@
           "action_type": "reply",
           "status": "failed",
           "time": "2026-11-17T09:46:26.013690",
-          "category": null,
-          "source": "engine"
-        },
-        {
-          "action_type": "like",
-          "status": "done",
-          "time": "2026-11-17T09:16:44.841320",
           "category": null,
           "source": "engine"
         }
@@ -1059,9 +1059,9 @@
           "failed": 0
         },
         "tweet": {
-          "total": 39,
+          "total": 40,
           "done": 26,
-          "failed": 1
+          "failed": 2
         }
       },
       "timeline": [
@@ -1125,14 +1125,14 @@
       "engine": {
         "running": true,
         "total_planned": 17,
-        "pending": 7,
-        "executed": 10,
-        "consecutive_failures": 0,
+        "pending": 6,
+        "executed": 11,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "8cb027a6-d32a-48f8-8c5d-ca4f91a527c0",
-          "action_type": "tweet",
-          "category": "humor",
-          "scheduled_time": "2026-11-17T17:07:56.894346"
+          "id": "c73ba7c4-a40e-4e71-af86-dd8b46ad2786",
+          "action_type": "like",
+          "category": null,
+          "scheduled_time": "2026-11-17T19:41:23.420711"
         }
       },
       "campaign_status": {
@@ -1183,7 +1183,7 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-11-17T17:07:56.894346",
           "category": "humor",
           "source": "engine"
@@ -1240,7 +1240,7 @@
         {
           "action_type": "tweet",
           "status": "approved",
-          "time": "2026-11-17T10:13:52.045870",
+          "time": "2026-11-17T11:37:59.735674",
           "category": null,
           "source": "manual"
         }
