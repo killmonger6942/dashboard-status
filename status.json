@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T06:48:46.825604Z",
+  "generated_at": "2026-11-19T07:18:49.215505Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -219,7 +219,7 @@
         },
         "like": {
           "total": 90,
-          "done": 76,
+          "done": 78,
           "failed": 1
         },
         "reply": {
@@ -229,7 +229,7 @@
         },
         "retweet": {
           "total": 27,
-          "done": 23,
+          "done": 24,
           "failed": 0
         },
         "tweet": {
@@ -283,7 +283,8 @@
         },
         {
           "date": "2026-11-19",
-          "like": 2,
+          "like": 4,
+          "retweet": 1,
           "tweet": 2
         }
       ],
@@ -305,14 +306,14 @@
       "engine": {
         "running": true,
         "total_planned": 26,
-        "pending": 23,
-        "executed": 3,
+        "pending": 20,
+        "executed": 6,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "6649cca0-6c38-4b91-9f95-89e94777d73a",
-          "action_type": "like",
+          "id": "515de226-7105-425c-bc50-e2863279fd34",
+          "action_type": "retweet",
           "category": null,
-          "scheduled_time": "2026-11-19T12:26:30.588686"
+          "scheduled_time": "2026-11-19T13:15:54.351353"
         }
       },
       "campaign_status": {
@@ -1055,7 +1056,7 @@
         },
         "like": {
           "total": 67,
-          "done": 60,
+          "done": 61,
           "failed": 2
         },
         "reply": {
@@ -1117,7 +1118,7 @@
         },
         {
           "date": "2026-11-19",
-          "like": 4,
+          "like": 5,
           "retweet": 1
         }
       ],
@@ -1139,14 +1140,14 @@
       "engine": {
         "running": true,
         "total_planned": 18,
-        "pending": 13,
-        "executed": 5,
+        "pending": 12,
+        "executed": 6,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "b675b4b9-8fae-43db-9012-6a53890c82ec",
-          "action_type": "like",
-          "category": null,
-          "scheduled_time": "2026-11-19T12:46:05.706973"
+          "id": "57f6192e-77ab-4612-addc-1a795bdef89b",
+          "action_type": "tweet",
+          "category": "bangalore",
+          "scheduled_time": "2026-11-19T13:19:14.052925"
         }
       },
       "campaign_status": {
@@ -1239,7 +1240,7 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-11-19T12:46:05.706973",
           "category": null,
           "source": "engine"
