@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T06:18:46.842028Z",
+  "generated_at": "2026-11-21T06:48:46.924655Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -1069,9 +1069,9 @@
           "failed": 0
         },
         "tweet": {
-          "total": 34,
+          "total": 35,
           "done": 10,
-          "failed": 11
+          "failed": 12
         }
       },
       "timeline": [
@@ -1137,14 +1137,14 @@
       "engine": {
         "running": true,
         "total_planned": 11,
-        "pending": 7,
-        "executed": 4,
-        "consecutive_failures": 1,
+        "pending": 6,
+        "executed": 5,
+        "consecutive_failures": 2,
         "next_action": {
-          "id": "af2cb5f8-c1d2-48cc-974b-0b34c96e6c70",
-          "action_type": "tweet",
-          "category": "tip",
-          "scheduled_time": "2026-11-21T12:00:49.312533"
+          "id": "facd7d78-c0e1-405e-8cc8-183bc1fb0a46",
+          "action_type": "like",
+          "category": null,
+          "scheduled_time": "2026-11-21T12:49:48.399828"
         }
       },
       "campaign_status": {
@@ -1195,7 +1195,7 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-11-21T12:00:49.312533",
           "category": "tip",
           "source": "engine"
@@ -1229,6 +1229,13 @@
           "source": "engine"
         },
         {
+          "action_type": "tweet",
+          "status": "approved",
+          "time": "2026-11-21T06:30:54.202198",
+          "category": null,
+          "source": "manual"
+        },
+        {
           "action_type": "follow",
           "status": "failed",
           "time": "2026-11-20T21:23:46.025438",
@@ -1246,13 +1253,6 @@
           "action_type": "like",
           "status": "done",
           "time": "2026-11-20T20:09:44.979777",
-          "category": null,
-          "source": "engine"
-        },
-        {
-          "action_type": "like",
-          "status": "done",
-          "time": "2026-11-20T19:46:33.190115",
           "category": null,
           "source": "engine"
         }
