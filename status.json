@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T10:18:46.921761Z",
+  "generated_at": "2026-11-21T10:48:46.926800Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -233,8 +233,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 45,
-          "done": 44,
+          "total": 46,
+          "done": 46,
           "failed": 0
         }
       },
@@ -285,7 +285,7 @@
           "date": "2026-11-21",
           "like": 3,
           "retweet": 1,
-          "tweet": 2
+          "tweet": 4
         }
       ],
       "campaign": {
@@ -306,14 +306,14 @@
       "engine": {
         "running": true,
         "total_planned": 11,
-        "pending": 5,
-        "executed": 6,
+        "pending": 4,
+        "executed": 7,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "67a7e494-5df7-4f1f-8cd1-a55357b53786",
-          "action_type": "tweet",
-          "category": "opinion",
-          "scheduled_time": "2026-11-21T16:03:46.760884"
+          "id": "b68882ac-efd0-463c-9b4c-b0aff66ad016",
+          "action_type": "reply",
+          "category": null,
+          "scheduled_time": "2026-11-21T16:27:26.723202"
         }
       },
       "campaign_status": {
@@ -350,7 +350,7 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-11-21T16:03:46.760884",
           "category": "opinion",
           "source": "engine"
@@ -384,6 +384,13 @@
           "source": "engine"
         },
         {
+          "action_type": "tweet",
+          "status": "done",
+          "time": "2026-11-21T10:34:34.645626",
+          "category": null,
+          "source": "manual"
+        },
+        {
           "action_type": "retweet",
           "status": "done",
           "time": "2026-11-21T09:28:15.645130",
@@ -415,13 +422,6 @@
           "action_type": "like",
           "status": "done",
           "time": "2026-11-20T20:41:58.349115",
-          "category": null,
-          "source": "engine"
-        },
-        {
-          "action_type": "like",
-          "status": "done",
-          "time": "2026-11-20T20:38:34.497100",
           "category": null,
           "source": "engine"
         }
