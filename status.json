@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T03:18:47.201068Z",
+  "generated_at": "2026-11-21T03:48:46.884274Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -219,7 +219,7 @@
         },
         "like": {
           "total": 83,
-          "done": 76,
+          "done": 77,
           "failed": 1
         },
         "reply": {
@@ -280,6 +280,10 @@
           "like": 12,
           "retweet": 3,
           "tweet": 6
+        },
+        {
+          "date": "2026-11-21",
+          "like": 1
         }
       ],
       "campaign": {
@@ -300,14 +304,14 @@
       "engine": {
         "running": true,
         "total_planned": 11,
-        "pending": 11,
-        "executed": 0,
+        "pending": 10,
+        "executed": 1,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "737a66c5-859a-4f54-a4ab-81e3fcd7dd51",
-          "action_type": "like",
+          "id": "4fc7f015-df54-4e99-bd4e-b6a69109500f",
+          "action_type": "retweet",
           "category": null,
-          "scheduled_time": "2026-11-21T09:14:22.783490"
+          "scheduled_time": "2026-11-21T09:28:15.645130"
         }
       },
       "campaign_status": {
@@ -386,7 +390,7 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-11-21T09:14:22.783490",
           "category": null,
           "source": "engine"
@@ -434,12 +438,12 @@
         "current": {
           "followers": 7,
           "following": 589,
-          "tweets": 519
+          "tweets": 521
         },
         "growth": {
           "followers": 0,
           "following": -1,
-          "tweets": 56
+          "tweets": 58
         },
         "history": [
           {
@@ -620,7 +624,7 @@
             "date": "2026-11-21",
             "followers": 7,
             "following": 589,
-            "tweets": 519
+            "tweets": 521
           }
         ]
       },
