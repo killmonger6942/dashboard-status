@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T10:18:46.926857Z",
+  "generated_at": "2026-11-22T10:48:46.844210Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -229,12 +229,12 @@
         },
         "retweet": {
           "total": 24,
-          "done": 22,
+          "done": 23,
           "failed": 0
         },
         "tweet": {
-          "total": 45,
-          "done": 44,
+          "total": 46,
+          "done": 46,
           "failed": 0
         }
       },
@@ -284,7 +284,8 @@
         {
           "date": "2026-11-22",
           "like": 3,
-          "tweet": 2
+          "retweet": 1,
+          "tweet": 4
         }
       ],
       "campaign": {
@@ -305,14 +306,14 @@
       "engine": {
         "running": true,
         "total_planned": 14,
-        "pending": 9,
-        "executed": 5,
+        "pending": 7,
+        "executed": 7,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "8286a6df-93bf-4381-b612-fb5c58d08d49",
-          "action_type": "tweet",
-          "category": "meta",
-          "scheduled_time": "2026-11-22T16:04:28.939333"
+          "id": "7004447d-b49e-4895-bc2e-f06f952480f6",
+          "action_type": "like",
+          "category": null,
+          "scheduled_time": "2026-11-22T16:30:55.946423"
         }
       },
       "campaign_status": {
@@ -370,14 +371,14 @@
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-11-22T16:08:23.468463",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-11-22T16:04:28.939333",
           "category": "meta",
           "source": "engine"
@@ -404,6 +405,13 @@
           "source": "engine"
         },
         {
+          "action_type": "tweet",
+          "status": "done",
+          "time": "2026-11-22T10:35:06.443652",
+          "category": null,
+          "source": "manual"
+        },
+        {
           "action_type": "like",
           "status": "done",
           "time": "2026-11-22T10:14:16.315694",
@@ -416,13 +424,6 @@
           "time": "2026-11-22T08:38:59.984553",
           "category": "hot_take",
           "source": "engine"
-        },
-        {
-          "action_type": "tweet",
-          "status": "done",
-          "time": "2026-11-22T03:09:38.692310",
-          "category": null,
-          "source": "manual"
         }
       ]
     },
@@ -1061,7 +1062,7 @@
         "reply": {
           "total": 13,
           "done": 0,
-          "failed": 11
+          "failed": 12
         },
         "retweet": {
           "total": 22,
@@ -1069,9 +1070,9 @@
           "failed": 0
         },
         "tweet": {
-          "total": 31,
+          "total": 32,
           "done": 4,
-          "failed": 13
+          "failed": 14
         }
       },
       "timeline": [
@@ -1135,14 +1136,14 @@
       "engine": {
         "running": true,
         "total_planned": 13,
-        "pending": 7,
-        "executed": 6,
-        "consecutive_failures": 0,
+        "pending": 5,
+        "executed": 8,
+        "consecutive_failures": 2,
         "next_action": {
-          "id": "6cb91139-5c0d-43c4-ac8d-6a44c674d226",
-          "action_type": "tweet",
-          "category": "humor",
-          "scheduled_time": "2026-11-22T16:02:11.253518"
+          "id": "1b46f4a4-eb1c-4be7-8193-3a02e04944d7",
+          "action_type": "retweet",
+          "category": null,
+          "scheduled_time": "2026-11-22T19:56:48.820661"
         }
       },
       "campaign_status": {
@@ -1186,14 +1187,14 @@
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-11-22T16:06:22.253518",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-11-22T16:02:11.253518",
           "category": "humor",
           "source": "engine"
@@ -1211,6 +1212,13 @@
           "time": "2026-11-22T13:15:28.275386",
           "category": null,
           "source": "engine"
+        },
+        {
+          "action_type": "tweet",
+          "status": "approved",
+          "time": "2026-11-22T10:32:15.063443",
+          "category": null,
+          "source": "manual"
         },
         {
           "action_type": "follow",
@@ -1244,13 +1252,6 @@
           "action_type": "reply",
           "status": "failed",
           "time": "2026-11-21T21:15:48.243630",
-          "category": null,
-          "source": "engine"
-        },
-        {
-          "action_type": "like",
-          "status": "done",
-          "time": "2026-11-21T20:19:22.854687",
           "category": null,
           "source": "engine"
         }
