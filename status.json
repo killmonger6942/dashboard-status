@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T14:48:46.791308Z",
+  "generated_at": "2026-11-22T15:19:02.596233Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -219,7 +219,7 @@
         },
         "like": {
           "total": 82,
-          "done": 80,
+          "done": 81,
           "failed": 1
         },
         "reply": {
@@ -281,7 +281,7 @@
         },
         {
           "date": "2026-11-22",
-          "like": 7,
+          "like": 8,
           "retweet": 1,
           "tweet": 4
         }
@@ -304,14 +304,14 @@
       "engine": {
         "running": true,
         "total_planned": 14,
-        "pending": 2,
-        "executed": 12,
-        "consecutive_failures": 1,
+        "pending": 1,
+        "executed": 13,
+        "consecutive_failures": 0,
         "next_action": {
-          "id": "c226db5f-6aed-478f-bcac-fd50b3168bea",
-          "action_type": "like",
+          "id": "3134c977-d434-48d3-a7ca-8d0a6f7a16f3",
+          "action_type": "retweet",
           "category": null,
-          "scheduled_time": "2026-11-22T20:42:20.102105"
+          "scheduled_time": "2026-11-22T21:16:26.427402"
         }
       },
       "campaign_status": {
@@ -327,7 +327,7 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-11-22T20:42:20.102105",
           "category": null,
           "source": "engine"
@@ -642,7 +642,7 @@
         "reply": {
           "total": 14,
           "done": 0,
-          "failed": 12
+          "failed": 13
         },
         "retweet": {
           "total": 22,
@@ -722,14 +722,14 @@
       "engine": {
         "running": true,
         "total_planned": 14,
-        "pending": 4,
-        "executed": 10,
-        "consecutive_failures": 0,
+        "pending": 3,
+        "executed": 11,
+        "consecutive_failures": 1,
         "next_action": {
-          "id": "4f5a505e-240e-406d-9b58-d430c1b25d13",
-          "action_type": "reply",
+          "id": "b426873d-0cd1-4636-9dfb-e007bca1a483",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-11-22T20:34:05.046025"
+          "scheduled_time": "2026-11-22T20:58:13.906727"
         }
       },
       "campaign_status": {
@@ -759,7 +759,7 @@
         },
         {
           "action_type": "reply",
-          "status": "pending",
+          "status": "failed",
           "time": "2026-11-22T20:34:05.046025",
           "category": null,
           "source": "engine"
