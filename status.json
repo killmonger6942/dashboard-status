@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T13:48:46.810074Z",
+  "generated_at": "2026-11-23T14:18:46.799348Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -233,8 +233,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 44,
-          "done": 42,
+          "total": 45,
+          "done": 44,
           "failed": 0
         }
       },
@@ -285,7 +285,7 @@
           "date": "2026-11-23",
           "like": 10,
           "retweet": 4,
-          "tweet": 4
+          "tweet": 6
         }
       ],
       "campaign": {
@@ -306,14 +306,14 @@
       "engine": {
         "running": true,
         "total_planned": 22,
-        "pending": 6,
-        "executed": 16,
+        "pending": 5,
+        "executed": 17,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "5fc0e288-32ba-4c34-85e6-e8a0b08374a2",
-          "action_type": "tweet",
-          "category": "question",
-          "scheduled_time": "2026-11-23T19:44:31.778088"
+          "id": "60d29505-b7e4-4cc7-814f-c76ca450ae40",
+          "action_type": "reply",
+          "category": null,
+          "scheduled_time": "2026-11-23T19:56:15.794821"
         }
       },
       "campaign_status": {
@@ -357,7 +357,7 @@
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-11-23T19:44:31.778088",
           "category": "question",
           "source": "engine"
@@ -405,6 +405,13 @@
           "source": "engine"
         },
         {
+          "action_type": "tweet",
+          "status": "done",
+          "time": "2026-11-23T14:15:07.207328",
+          "category": null,
+          "source": "manual"
+        },
+        {
           "action_type": "retweet",
           "status": "done",
           "time": "2026-11-23T13:27:42.084278",
@@ -416,13 +423,6 @@
           "status": "done",
           "time": "2026-11-23T13:19:45.555015",
           "category": "opinion",
-          "source": "engine"
-        },
-        {
-          "action_type": "retweet",
-          "status": "done",
-          "time": "2026-11-23T12:06:42.996295",
-          "category": null,
           "source": "engine"
         }
       ]
@@ -1136,15 +1136,10 @@
       "engine": {
         "running": true,
         "total_planned": 23,
-        "pending": 3,
-        "executed": 20,
+        "pending": 0,
+        "executed": 23,
         "consecutive_failures": 3,
-        "next_action": {
-          "id": "ebff3256-3132-4bab-97f6-b1c5f6742a32",
-          "action_type": "tweet",
-          "category": "tip",
-          "scheduled_time": "2026-11-23T19:31:45.833799"
-        }
+        "next_action": null
       },
       "campaign_status": {
         "running": false
