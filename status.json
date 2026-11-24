@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T14:18:46.829334Z",
+  "generated_at": "2026-11-24T14:48:46.839720Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -648,7 +648,7 @@
         },
         "retweet": {
           "total": 20,
-          "done": 19,
+          "done": 20,
           "failed": 0
         },
         "tweet": {
@@ -702,7 +702,7 @@
         {
           "date": "2026-11-24",
           "like": 4,
-          "retweet": 1,
+          "retweet": 2,
           "tweet": 2
         }
       ],
@@ -724,14 +724,14 @@
       "engine": {
         "running": true,
         "total_planned": 16,
-        "pending": 6,
-        "executed": 10,
+        "pending": 5,
+        "executed": 11,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "298423d4-fa40-4b27-b9f9-9665eb7385fa",
-          "action_type": "retweet",
+          "id": "08e850e9-a65a-46da-b29a-b1738592bd60",
+          "action_type": "like",
           "category": null,
-          "scheduled_time": "2026-11-24T20:14:09.176374"
+          "scheduled_time": "2026-11-24T20:23:23.817246"
         }
       },
       "campaign_status": {
@@ -775,7 +775,7 @@
         },
         {
           "action_type": "retweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-11-24T20:14:09.176374",
           "category": null,
           "source": "engine"
@@ -1130,14 +1130,14 @@
       "engine": {
         "running": true,
         "total_planned": 20,
-        "pending": 4,
-        "executed": 16,
+        "pending": 3,
+        "executed": 17,
         "consecutive_failures": 3,
         "next_action": {
-          "id": "0575557e-0fdd-4441-9eb7-6f0153672c13",
-          "action_type": "like",
-          "category": null,
-          "scheduled_time": "2026-11-24T20:06:58.053043"
+          "id": "c9d4c52a-68c4-4a18-95d0-0c1d17cea4aa",
+          "action_type": "tweet",
+          "category": "tip",
+          "scheduled_time": "2026-11-24T20:40:27.431754"
         }
       },
       "campaign_status": {
