@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T14:48:46.956097Z",
+  "generated_at": "2026-11-26T15:18:50.489963Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -219,7 +219,7 @@
         },
         "like": {
           "total": 80,
-          "done": 77,
+          "done": 79,
           "failed": 1
         },
         "reply": {
@@ -233,8 +233,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 46,
-          "done": 46,
+          "total": 45,
+          "done": 45,
           "failed": 0
         }
       },
@@ -243,7 +243,7 @@
           "date": "2026-11-19",
           "like": 9,
           "retweet": 1,
-          "tweet": 4
+          "tweet": 3
         },
         {
           "date": "2026-11-20",
@@ -283,7 +283,7 @@
         },
         {
           "date": "2026-11-26",
-          "like": 7,
+          "like": 9,
           "retweet": 2,
           "tweet": 6
         }
@@ -306,15 +306,10 @@
       "engine": {
         "running": true,
         "total_planned": 17,
-        "pending": 2,
-        "executed": 15,
+        "pending": 0,
+        "executed": 17,
         "consecutive_failures": 0,
-        "next_action": {
-          "id": "c5346790-c389-438f-98f6-d115b7e9f81c",
-          "action_type": "like",
-          "category": null,
-          "scheduled_time": "2026-11-26T20:36:13.718968"
-        }
+        "next_action": null
       },
       "campaign_status": {
         "running": false
@@ -322,14 +317,14 @@
       "recent": [
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-11-26T20:45:42.108953",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-11-26T20:36:13.718968",
           "category": null,
           "source": "engine"
@@ -652,8 +647,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 40,
-          "done": 40,
+          "total": 39,
+          "done": 39,
           "failed": 0
         }
       },
@@ -661,7 +656,7 @@
         {
           "date": "2026-11-19",
           "like": 4,
-          "tweet": 4
+          "tweet": 3
         },
         {
           "date": "2026-11-20",
@@ -1065,7 +1060,7 @@
           "failed": 0
         },
         "tweet": {
-          "total": 30,
+          "total": 29,
           "done": 0,
           "failed": 9
         }
