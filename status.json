@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T14:18:46.822492Z",
+  "generated_at": "2026-11-27T14:48:47.068374Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -638,7 +638,7 @@
         },
         "like": {
           "total": 71,
-          "done": 68,
+          "done": 69,
           "failed": 1
         },
         "reply": {
@@ -653,7 +653,7 @@
         },
         "tweet": {
           "total": 34,
-          "done": 33,
+          "done": 34,
           "failed": 0
         }
       },
@@ -662,7 +662,7 @@
           "date": "2026-11-20",
           "like": 3,
           "retweet": 3,
-          "tweet": 3
+          "tweet": 2
         },
         {
           "date": "2026-11-21",
@@ -702,8 +702,8 @@
         },
         {
           "date": "2026-11-27",
-          "like": 8,
-          "tweet": 2
+          "like": 9,
+          "tweet": 4
         }
       ],
       "campaign": {
@@ -724,14 +724,14 @@
       "engine": {
         "running": true,
         "total_planned": 15,
-        "pending": 5,
-        "executed": 10,
+        "pending": 3,
+        "executed": 12,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "520c0df3-44b7-49ff-a5d4-c94734c1500a",
-          "action_type": "tweet",
-          "category": "tip",
-          "scheduled_time": "2026-11-27T19:53:37.993786"
+          "id": "55302433-6c67-441d-9161-8c1b02c32fef",
+          "action_type": "like",
+          "category": null,
+          "scheduled_time": "2026-11-27T20:27:01.270964"
         }
       },
       "campaign_status": {
@@ -761,14 +761,14 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-11-27T19:56:49.993786",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-11-27T19:53:37.993786",
           "category": "tip",
           "source": "engine"
@@ -786,6 +786,13 @@
           "time": "2026-11-27T16:46:23.511301",
           "category": null,
           "source": "engine"
+        },
+        {
+          "action_type": "tweet",
+          "status": "done",
+          "time": "2026-11-27T14:24:24.323851",
+          "category": null,
+          "source": "manual"
         },
         {
           "action_type": "like",
@@ -833,13 +840,6 @@
           "action_type": "like",
           "status": "done",
           "time": "2026-11-27T08:46:10.173841",
-          "category": null,
-          "source": "engine"
-        },
-        {
-          "action_type": "like",
-          "status": "done",
-          "time": "2026-11-27T08:42:27.852399",
           "category": null,
           "source": "engine"
         }
