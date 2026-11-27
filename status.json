@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T03:48:46.918685Z",
+  "generated_at": "2026-11-27T04:18:46.816521Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -229,12 +229,12 @@
         },
         "retweet": {
           "total": 22,
-          "done": 19,
+          "done": 20,
           "failed": 0
         },
         "tweet": {
-          "total": 43,
-          "done": 41,
+          "total": 44,
+          "done": 43,
           "failed": 0
         }
       },
@@ -284,7 +284,8 @@
         {
           "date": "2026-11-27",
           "like": 3,
-          "retweet": 1
+          "retweet": 2,
+          "tweet": 2
         }
       ],
       "campaign": {
@@ -305,14 +306,14 @@
       "engine": {
         "running": true,
         "total_planned": 24,
-        "pending": 19,
-        "executed": 5,
+        "pending": 17,
+        "executed": 7,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "0fcc640d-0392-4d24-95f7-d330aeea0e7f",
-          "action_type": "tweet",
-          "category": "humor",
-          "scheduled_time": "2026-11-27T09:21:40.325899"
+          "id": "836ad72b-57f1-4f4d-8524-61f582abbfa3",
+          "action_type": "like",
+          "category": null,
+          "scheduled_time": "2026-11-27T09:50:53.145879"
         }
       },
       "campaign_status": {
@@ -1068,7 +1069,7 @@
           "failed": 0
         },
         "tweet": {
-          "total": 31,
+          "total": 30,
           "done": 0,
           "failed": 8
         }
