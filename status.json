@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T11:18:46.877604Z",
+  "generated_at": "2026-11-28T11:48:46.915465Z",
   "refresh_minutes": 30,
   "totals": {
     "accounts": 3,
@@ -21,12 +21,12 @@
         "current": {
           "followers": 21,
           "following": 564,
-          "tweets": 590
+          "tweets": 594
         },
         "growth": {
           "followers": 0,
           "following": 0,
-          "tweets": 113
+          "tweets": 117
         },
         "history": [
           {
@@ -207,7 +207,7 @@
             "date": "2026-11-28",
             "followers": 21,
             "following": 564,
-            "tweets": 590
+            "tweets": 594
           }
         ]
       },
@@ -439,12 +439,12 @@
         "current": {
           "followers": 7,
           "following": 589,
-          "tweets": 551
+          "tweets": 552
         },
         "growth": {
           "followers": 0,
           "following": -1,
-          "tweets": 88
+          "tweets": 89
         },
         "history": [
           {
@@ -625,7 +625,7 @@
             "date": "2026-11-28",
             "followers": 7,
             "following": 589,
-            "tweets": 551
+            "tweets": 552
           }
         ]
       },
@@ -637,7 +637,7 @@
         },
         "like": {
           "total": 76,
-          "done": 71,
+          "done": 72,
           "failed": 1
         },
         "reply": {
@@ -651,8 +651,8 @@
           "failed": 0
         },
         "tweet": {
-          "total": 32,
-          "done": 31,
+          "total": 33,
+          "done": 33,
           "failed": 0
         }
       },
@@ -700,8 +700,8 @@
         },
         {
           "date": "2026-11-28",
-          "like": 4,
-          "tweet": 2
+          "like": 5,
+          "tweet": 4
         }
       ],
       "campaign": {
@@ -722,14 +722,14 @@
       "engine": {
         "running": true,
         "total_planned": 13,
-        "pending": 8,
-        "executed": 5,
+        "pending": 6,
+        "executed": 7,
         "consecutive_failures": 0,
         "next_action": {
-          "id": "3f7a9800-d998-47fb-b87d-2b17aa985058",
-          "action_type": "tweet",
-          "category": "bangalore",
-          "scheduled_time": "2026-11-28T16:55:53.712146"
+          "id": "90632f9b-4ade-4621-9b85-802ac24d8e3c",
+          "action_type": "like",
+          "category": null,
+          "scheduled_time": "2026-11-28T17:19:00.937214"
         }
       },
       "campaign_status": {
@@ -780,14 +780,14 @@
         },
         {
           "action_type": "like",
-          "status": "pending",
+          "status": "done",
           "time": "2026-11-28T17:15:30.937214",
           "category": null,
           "source": "engine"
         },
         {
           "action_type": "tweet",
-          "status": "pending",
+          "status": "done",
           "time": "2026-11-28T16:55:53.712146",
           "category": "bangalore",
           "source": "engine"
@@ -823,6 +823,13 @@
         {
           "action_type": "tweet",
           "status": "done",
+          "time": "2026-11-28T11:26:32.886777",
+          "category": null,
+          "source": "manual"
+        },
+        {
+          "action_type": "tweet",
+          "status": "done",
           "time": "2026-11-28T10:12:50.683377",
           "category": null,
           "source": "manual"
@@ -831,13 +838,6 @@
           "action_type": "like",
           "status": "done",
           "time": "2026-11-28T09:48:36.191012",
-          "category": null,
-          "source": "engine"
-        },
-        {
-          "action_type": "retweet",
-          "status": "done",
-          "time": "2026-11-27T21:43:20.886573",
           "category": null,
           "source": "engine"
         }
